@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1402
+seq: 1402
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法約之得買錫八斤四兩以價乗之得五十二貫八百文以减原鈔餘得手工鈔一十七貫六百文合問合稅物價今有客持絲四百八十斤每斤價鈔八貫一百三十文赴務投稅三十分而稅一問該稅鈔幾何答曰一百三十貫八十文法曰置絲四百八十斤以每斤價鈔八貫一百三十文乗之得三千九百二貫四百文爲實以稅法三十除之合問今有客持絲二十四百疋疋法四十二尺出關稅之每一十疋合稅一尺共稅絹八疋貼得鈔一貫八百文問每疋價鈔
+  hash: sha256:67b48f65e1120023232d510f2475a5bab8018aa4a7e7b9d2d0557be119f87b61
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a99aa139d2f927beca52b0e3d3593a73c60c0a18defcf9ed92c2ef374efaecc3

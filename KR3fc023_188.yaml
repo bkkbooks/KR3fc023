@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/188
+seq: 188
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得四千九百三十步折半得二千四百六十五步以畒法除之合問今有抹角田西南闊二十五步東北長三十二步問為田幾何答曰四畒三十九步半法曰置東北長自乘為實减西南闊餘十步自乘折半減餘以畒法之合問今有眉田上周四十九步下周四十五步中徑一十四步問為田幾何答曰一畒八十九步法曰併二周上四十九步下四十五步得九十四步折半得四十七步為實以中徑一十四步折半得七步為法乘之得三百二十九步以畒法除之合問
+  hash: sha256:35d527656a331022da664ae79dd0e88701bb887158aba726660d51b9d7d38ffd
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:9506ae1d4b7e0ceaea0b66ae69d02bc42db503c7b703c9013c62b5f3ada66c2c

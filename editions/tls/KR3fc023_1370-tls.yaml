@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1370
+seq: 1370
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百四十里庚府民二千二百五里米石價三十四貫至輸所一千八百七十五里問各府輸米幾何荅曰甲府四萬九千六十三石四斗三升七合勺五乙府三萬八千三百五十八石六斗八升七合五勺丙府三萬六千五百七十四石五斗六升二合五勺丁萬一千三十四石八斗七升五合戊萬七千四百六十六石六斗二升合五己萬二千八百一十九石
+  hash: sha256:86edea9aa72376877fa39e9889f08112df57a25a4e22669c6cb4ca4ca1b32194
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:80c0fd802011f97b44f0b977b9b084210af6177d569dfa866a0acedc0780cd1b

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1294
+seq: 1294
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰三十五百四十九斤法曰置面方三尺二寸自乘得一千二十四寸底方二尺八寸自乘得七百八十四寸又面方與底方相乘得八百九十六寸併三位共得三千七百四寸以厚二尺一寸乘之得五万六千七百八十四寸如三而一得一万八千九百二十八寸以寸重三兩乘之得五万六千七百八十四兩以斤法除合問詞詩一十三問今築方城一座上廣一丈八尺下多三丈更無餘高比下少丈二今已築高二丈又四尺加之城垣上廣未能知欲問城平該幾右西江月答曰二丈八尺
+  hash: sha256:43eb31049643fe1299902ed94256043ed197f779e74953ac961a1e37d7dd62c3
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:e142a2f688ffdedfb72b39d0a2868c576106ec7d59b0cf831ee5c8de4f0d6869

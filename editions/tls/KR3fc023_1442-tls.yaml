@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1442
+seq: 1442
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得二步餘實四万一千一百步法實皆一百三十七約之合問有狐狸一頭九尾鵬鳥一尾九頭只云前有七十二頭有八十八尾問二禽數各幾何答曰狐狸九鵬鳥十法曰置頭七十二以減尾八十八餘一十六乃二禽獸共數以尾九因之得一百四十四內減総尾八十八餘五十六爲實別以尾九內減頭一八法除實得鵬鳥七以減共数一十六餘得狐狸九合問五十問揵九具終朝使用新曰五日志心堅二頃八
+  hash: sha256:c2081306fc17b05f3bcf399c4515ff153947fec71bbcb2e6938d0178ca0e2162
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:6af12b33841425fd27c186cfddf0105bac35c967a05a8e939dec686c8fd2b617

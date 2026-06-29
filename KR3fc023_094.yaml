@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/94
+seq: 94
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 併中外周折半以乘徑外周自乘以中周自乘減之餘十二而一法曰併二周中九十二步外一百二十二步共二百一十四步折半得一百七步以乘徑五步得五百三十五步以畝法而一合問環田中周六十二步分步之三外周一百一十曰步二分徑一十二步三分步之二為田幾何答曰四畝一百五十六步四分步之一法曰併二周中六十二之外一百六十三步共一百七十五步中周之三乘外周二分得六外周之一乘中周四分得四併之得十卻以分母三分四分相乘得八為法除十得一步二分五厘併前共步得一百七十六步二分五厘折
+  hash: sha256:4f1281c84676da0efdd1681144b6de5842aa277bec208ca11a2a0f726efe888b
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:dd78cbbbecb2fa6237d51a0ba787b5a2c42b29ebb2c5ef126b336fc59b000ca6

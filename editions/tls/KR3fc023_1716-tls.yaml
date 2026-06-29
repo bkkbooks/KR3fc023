@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1716
+seq: 1716
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 六尺得四百二文通減右行錢一貫二百一十九文餘得三百九十二文以羅四尺除之得羅尺價九十八文合問今有紅錦四尺青錦五尺緑錦六尺價皆過三百文只云紅錦四尺價過青錦一尺青錦五尺價過緑錦一尺緑錦六尺價過紅錦一尺問三色各尺價幾何荅曰紅錦九十三文一百一十九分文之二十三青錦七十三文一百一十九分文之一十三緑錦六十五文一百一十九分文之六十五法曰列所問數以右行紅正四爲法遍乗左行得數紅正四爲法青負一空錢正三百
+  hash: sha256:5af836fb7fcf44ce3317ed8cc6686935e7e9ff9452ec230dcf84bd2482e88ea0
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:7613f17134c606417d0fb1fdaac9b0ea037d593cbfd054d0885185b9c1cd5934

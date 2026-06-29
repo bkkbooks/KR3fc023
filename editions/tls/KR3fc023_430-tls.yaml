@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/430
+seq: 430
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰六十八斤六兩法曰以共有鈔五百二十五貫一百二十文乗原買絲三十八斤其十四兩求斤得八七五共乗得二百四万一千四百四为實以原鈔二百九十八貫五百六十文爲法除之合問貴賤率今有錢二十四貫五百八十文買物五百四十斤不欲畸零問得幾何答曰二百六十斤毎斤四十五文二百八十斤毎斤四十六文法曰此問糸欲盡兩物不欲零名曰貴賤率者是也置錢二十四貫五百八十文爲實以買物五百四十斤爲法除之毎斤得四十五文餘實二百八十不欲
+  hash: sha256:bd5a5329adfb17de6c6884cc5d35c2897d26d07dd09f1b2c4261e2c7303dcf88
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:12fcb8e230acf9cf28384815c00724e2b68d35db18719af43ffa190989b2bee0

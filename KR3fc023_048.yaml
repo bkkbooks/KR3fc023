@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/48
+seq: 48
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 西江月十九鳳棲梧二折桂令二寄生草一南鄉子一水仙子一鷓鴣天五玉樓春二江兒水一七言八句一七言六句一七言四句十九六言八句一六言四句三五言八句一五言四句一衰分卷第三計一百六十七問古問二十問五爵均鹿五爵均粟三畜均粟女子善識五人均稟三人稅錢三鄉發徭五爵出錢三人分米錢買絲絲賣錢繺賣錢布賣錢買素問匹絲為繺絲問耗數
+  hash: sha256:5d130f3df741ae367db39e7a413ec7307981cabde4c566b387d2f1789d980287
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:495702a87e675613c011ea772fdffe5399fc33831f0a89e7f89917b84daeae7a

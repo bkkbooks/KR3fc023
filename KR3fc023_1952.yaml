@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1952
+seq: 1952
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 高合問橫方乗直積共得二十四股弦和九步勾闊如何是荅曰勾三步法曰置股弦和九步約之得股四步自乗得十六步弦五步自乗得二十五步內減股一十六步餘九步以開平方法除之得三步合問九章詳註比類勾股筭法
+  hash: sha256:e9f01b30749ae88f3a050c4bf3d2a0105c9f3c2cbde2c42f42cf5bd45aafedc3
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:9930d8dd13a15b01da2022887d5c432bd90c4b0b4e2f04ccdc3665e31c225a0a

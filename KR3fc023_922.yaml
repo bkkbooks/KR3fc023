@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/922
+seq: 922
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰地主六十一石六斗八升七合五勺佃戶二十四石六斗七升五合鋤青一十二石三斗三升七合五勺法曰各列置衰主七分半四三分一分半副併得一十二為法以分九十八石七斗乘未併者主得七百四十石二斗五升二百九十六石一斗得一百十八石五升各自為列實以法除之合問五百四十四匹絹枓泒四鄉從本縣自上須作六折半麼法兒算得見答曰甲鄉二百五十匹乙鄉一百五十匹丙鄉九十匹丁鄉五十四匹
+  hash: sha256:e76a223792f7e14c2aee8df947013a11c297e28ac5971f518199ef3f06c80adf
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:cc3bfb7f1d253ea1012f3e40b2b1ca72e6f5916d0bf84a9ed5a68c4701620eda

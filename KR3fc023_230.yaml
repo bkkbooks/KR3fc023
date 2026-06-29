@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/230
+seq: 230
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之得二百八十八以三乘得八百六十四以一十六除之合問今有欖核田一角正面長八步十七分步之十六半角周九步問為田幾何答曰一十八步法曰置正面長八步以分毋十七通之加分子十共得一百五十二自乘得二万三千一百四又以分毋十七減分子十六餘一以乘分子亦得十六併二數共得二万三千一百二十為實以分毋十七自乘得二百八十九為法除之得八十以九乘之得七百二十以四十而一合問今有碗田下周二百一十六步徑九十三步問為田幾何答曰二十畒九分二厘五毫
+  hash: sha256:004e9673428c749165fc95bf0af8e7e73fd43bfaceb5984e394070ff3ade64e4
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:6c2ebe2a0e87ef5469d0e671260a300b480ed793a3c80fddde024f4cdb5fa37d

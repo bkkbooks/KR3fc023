@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1804
+seq: 1804
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰半池水方如勾水深如股引幾平水如弦出水一尺如股弦較勾半池方五尺自乘得二十五以减股弦較出水一尺自乘得一尺餘得二十四爲實倍較出水一尺爲二尺爲法除之得股水深一丈二尺合問開門去閫一尺不合二寸問門廣幾何答曰一扇廣五十寸五分
+  hash: sha256:634d70afd314a1f1b2c22da95fc51536153237c1f2e300665b1c5ca1d486dcd4
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:1167cd6263e66935e105a4617f8cd7c71563cf816b5fbd07184e76795bc5873d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1454
+seq: 1454
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置甲行百步乗先行百步得一萬步爲實以甲行百步減乙行六十步餘四十步爲法除之合問實紙團圓一卷經量二尺無饒每張紙厚問根苗三忽無餘不少欲問舒開幾裏推窮裏數分毫英賢説你筭才高一問教公必倒右西江月答曰紙長五百五十五里二百步法曰置量二尺折半得一尺以三因得三尺邞以紙厚三尺除之得一百萬忽自乗得一萬億忽折半得五千億忽以尺位定之得五十萬尺以每步五尺除之得紙長一十萬步爲實以每里三百六十步爲法除之得二百七十七裏二百八十步倍之得紙長合問
+  hash: sha256:cde4b2d75e3207edf4eaa77e21d4ac3ee523cf6d3417232a05362b19e718cba5
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:e72dc37934d0ff4e1ed3bbaf24edc6568b794cbef1da8c62697a356682370cf6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1946
+seq: 1946
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二步併長平得和二十步合問積減三平等二長一平一較恰相當有人先求和步出便是寰中筭最強荅曰長六步平四步較二步和一十步法曰置三平與二長適等約之得四步以三乗之得一十二步以二除之得長六步減平四步得較二步加平四步得恰相當與長六步併長平得和一十步和問今將直積開方数併入原長四十五次將長步平啓云加平二十有一步荅曰長二十五步平一十六步
+  hash: sha256:57e2a120462faad3b1966ce9f2b8f4e17838cb7b0c920c2056566c29009c8697
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:3512e90cb47e45453926b1d01479d895a9ceabca902855be792b52518f8c9c22

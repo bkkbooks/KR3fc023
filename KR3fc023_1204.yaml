@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1204
+seq: 1204
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 縣二千三百七十五人乙縣二千三百七十八人丙縣五千二百四十七人各人㓛程常積一尺九寸八分一日役畢三縣共築今從尾與甲縣以次共乙丙問篭尾堤從頭至尾高袤廣及各縣該給髙袤廣各幾何答曰髙三丈袤六丈六尺上廣二丈四尺末廣一丈八尺甲縣髙一丈尺袤三丈三尺上廣二丈一尺乙縣髙二丈尺袤一丈三尺二寸上廣二丈尺寸
+  hash: sha256:56fb1efc9aeb66bba97b0588431db346615a53ccc6acc79394183189a5e291f9
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:14aea633b3a57d0c5bdd948f142102cb4e09e6d7d497fce3e8e5432a21ce6c71

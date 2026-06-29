@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1618
+seq: 1618
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 錢唐南湖後學吳敬信民編集方程計四十三問方者謂数之形也程者量度之緫名亦權衡丈尺斛斗之平法也尤課分明多寡之義以諸物緫併爲問其法以减損求源爲主去一存一以考其數如甲乙行列諸物與價先以甲行首位遍乗其乙復以乙行首位遍乗其甲求其有等用少减多以簡其位是去其物减其錢價爲實物爲法一法一實得數並以啇除之行位繁者次第求之同减異加異减同加正無正入之負無負入
+  hash: sha256:503990ebb4d5fc135e6c9a672b490a134fa65f68baa8a93b220381887c5c8217
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:bcc205d4f99e95a98815c31d80c6186f81a4e6007229b5f31a8edc8b30b4f0df

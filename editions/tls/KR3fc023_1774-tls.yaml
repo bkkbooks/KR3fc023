@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1774
+seq: 1774
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三得正十二價正一千得正四千以乙行雞負二爲法復遍乗甲行雞正四得正八与乙行雞負八異名對減尽兎負二得負二異減乙行雞正十二除得兎正一十爲法價正一千得正二千同和乙行正四千共得六千爲實以法除得兎價六百文甲行價正一千加兎負價六百共一千六百以雞四除得雞四百文合問六犬共二猪八兎數無餘各該兩貫價錢虛兎欠着一猪犬欠数恰買一箇兎猪欠四犬無差悮犬猪兎價怎生呼縯縱橫認取右醉太平荅曰兎價二百犬價三百猪價四百法曰排列問數先以右行六犬爲法遍乗中行得數
+  hash: sha256:e0f9254ed6d619e9345b4a4446872a2d4e7ee3a731bf64e9b9b92947cef657cb
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:085296de4da667cd8f23c55fedc64264efd6b78dcfbefbe40bb0cb4b6cd8c110

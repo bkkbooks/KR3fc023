@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/582
+seq: 582
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰大羊一百二十隻小羊二十隻法曰置羊一百四十以大羊剪毛十八兩一乘之得二千五百二十兩以減剪毛一千四百兩餘一百二十兩為實以大羊毛一十八兩減小羊毛一十二兩餘六兩為法除之得小羊二十以減總羊一百四十餘大羊一百一十合閣甲劉九成二兩叉七色相同李銀鋪內偶相逢各欲改成器用其子末所以懼埒一處銷鎔不惟悶惱李三翁又把算師擾動右西江月答曰共鎔成八色金四兩甲分金二兩二錢半折色一兩八錢
+  hash: sha256:0a9372d6ebccb811d2fb39c553607a8a345f1488cb4ea43db21d58557fa3da26
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:0cc14c2ed25ffaa5b2b456b7037d6f6b2288a742c1e7dcec42907d4d3ded6f5b

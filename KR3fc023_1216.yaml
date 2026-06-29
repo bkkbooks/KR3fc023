@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1216
+seq: 1216
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人一千八百得一十一万五千二百爲法除之合問今有築堰上廣一丈四尺下廣二丈二尺髙三丈二尺長一千五百二十尺每人一日自穿運築六十四尺問用人幾何答曰二萬五千五百一十五人法曰置上廣一十四尺併入下廣二十尺共三十六尺折半得一十八尺以髙三十六尺乗之得六百四十八尺又以長二千五百二十尺乗之得一百六十三万二千九百二十尺爲實以常積六十四尺爲法除之合問今有開河二十里上廣一十二丈下廣六丈深二丈五尺每人一日自穿運築常積一十二丈五尺須要三箇月開畢問用人幾何答曰七千二百人
+  hash: sha256:5d2b2ae7dad6fa6980f1c85c41e50613a14734ba2c9c1d732485bfe5a7972e12
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:e0e9cafa1b06df080b746844470d6df55adf5255aa062b29e9feec6cf1fd8bac

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1636
+seq: 1636
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 能上武馬借中馬一匹中馬借下馬一匹下馬借武馬一匹方過其坂問各馬一匹力引幾何荅曰武馬力二十二石七分石之大中馬力一十七石七分石之一下馬力五石七分石之五法曰此問馬亦同前借禾之意也列所問数以右行武一爲法遍乗左行得蒙右武一爲法中一空四十石中空中二下一四十石左武一得一空下三得三四十石得四十石復以左行武一爲法遍乗右行武一得一与左行武一對减尽中
+  hash: sha256:5e6cd4f645839558b360993ea70a7f1bf3825ade228845555f95b07015b792d0
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:c5657f53e02144745255ddb45f1b413c787a0bcdce8cf0fa244d8e89edf94620

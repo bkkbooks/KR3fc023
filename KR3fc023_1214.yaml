@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1214
+seq: 1214
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 除之得一丈一尺爲乙髙又置乙袤一丈尺二寸以甲廣差三尺乗之得三丈九尺六寸以甲袤三丈三尺除之得一尺二寸加甲上廣五丈一尺只得二丈二尺一寸爲乙縣上廣合問求丙縣併甲乙袤得四丈六尺二寸用减緫袤八丈六尺餘一丈九尺八寸爲袤合問今有築堰上廣一丈四尺下廣二丈二尺髙三丈二尺長一百六十丈每人自穿運築一日常積六十四尺令一千八百人築之問幾日畢答曰八日法曰併上下廣半之得一十八尺以髙三十二尺乗之得五百七十六尺以乗長一千六百尺得九十二万一千六百尺爲堰積以日積六十四尺乗
+  hash: sha256:4e644d2f200e456bea68c0dd22b4f2ce26209f31ab6f16f3f3eb853863eac318
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:6ca2ae1b456bef88c456552f3f12425493f3c9a022ba719b9ddcf8e2fbc375a2

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1154
+seq: 1154
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 圓錐下周三丈五尺髙五丈一尺問爲積幾何答曰一千七百三十五尺一十二分尺之五法曰形圓上方類粟置下周自乗得一千二百二十五尺以髙五十一尺乗之得六万二千四百七十五尺如三十六而一餘實三約之合問委粟平地下周一十二丈髙二丈問積尺及爲粟各幾何答曰積八千尺爲粟二千九百六十二石二十七分石之二十六法曰置下周自乗得一万四千四百尺以髙二十尺乗之得二十八万八千尺如三十六而一得八千尺以斛法二尺七寸除之得粟合問委菽倚垣下周三丈髙七尺問積尺及爲菽各幾何
+  hash: sha256:24c746dbf0402a3780ecb14d0e01d30855863f6201eeeb249ae4fe9da271aae6
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:568f0fc1bbe7dfa432fa5965ac3ec3dcc6e4cdec556992a5f12f0a3313fcc231

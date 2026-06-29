@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/832
+seq: 832
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰上田一頃八十五畒七分該絲二十三兩二錢一分二厘五毫中田一頃二十九畒三分該絲一十四兩二錢二分三厘法曰置田三頃一十五畒以上田科絲一糸二分五毫乘之得三十九兩三糸七分五毫以減共絲三十七兩四糸三分五厘五毫餘一兩九糸三分九厘五毫為實却以上田科絲一糸二分五厘減中田科絲一糸一分餘一分五厘為法除之得中田一頃二十九畒三分以減總田餘為上田一頃八十五畒七分各以每畒科絲得數合問異乘同除
+  hash: sha256:4d4b4a2c14f690a9b6ab1c09646859669ac5eed3f4d45857b274f9316274f62d
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:196b808f5be160ab429b78b49384b690dad653c51931d60af4d020b0e3954fc3

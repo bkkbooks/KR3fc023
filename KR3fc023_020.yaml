@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天之高也星辰之遠也苟求其故則千歲之日可坐而致也蓋天地之中有理斯有像也有像斯有數也有數斯有據也是以千歲之日至固廖邈而難知也聖賢傳侶丹衷登朗據其數而推致之亦有可知之道焉孟于之言豈欺我哉杭郡仁和之邑有良士吳氏主一翁
+  hash: sha256:ee7bd7c4acfe56e86d41863013b178facb5e6789ac798ca3eaf7fa7bf8ec8a6b
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:777eec834ba3989949fa605c924d4b991878ce75d14f1442ecade481e8a70c75

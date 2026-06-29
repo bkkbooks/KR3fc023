@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1468
+seq: 1468
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 甲乙二人同赴京二千七百路無零甲日一百二十里八十裏行是乙程甲今先到回迎乙未知幾里得相迎此法難不堪爲妙學者亦不可看輕答曰乙行二千二百六十里行二十七日甲回迎五百四十裏法曰置二千七百里爲實倂甲行一百二十里乙行八十里共二百里折半得一百里爲法除之得二十七日以甲行一百二十里乗之得三千二百四十里以減總程二千七百里餘五百四十里爲回迎步數又以二十七日乗乙行八十里得二千一百六十里合問甲乙二人同赴京不知日數不知程甲日行路百五十百
+  hash: sha256:aebaea155b33b5ec3986af3d7104561ce33ea16dfc79378d0aae69120006107c
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:7429c54dce878a66f3f3976a6e787831ae286b571b85acfd85fc9b6f4fec1414

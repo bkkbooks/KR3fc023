@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/624
+seq: 624
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五尓得二百五十九兩二尓爲實以原長二丈四尺闊一尺八寸相乗得四丈三尺二十爲法除之合問白麫一貫斤十二下麫一貫二斤四賫鈔三貫買兩停問公谷該多少是答曰各得二斤十五兩二錢五分法曰置鈔三貫以二價二十八兩三十六兩相乗得一千八乗之得三千二十四爲實併二價二十八兩三十六兩共得六十四兩爲法除之合問日該共用百疋布買得油塩千二數四疋買塩五十斤三疋買油二十五答曰塩一千一百斤用布八十八疋
+  hash: sha256:ab9f9e70db1186ae8769e97397a48904e52283089b80d647d68e7d6fdb482680
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:c00aa25bd286fbdb768ea023b925c143f551188461550102bae9fca848e90afd

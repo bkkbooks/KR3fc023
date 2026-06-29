@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/806
+seq: 806
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 逓多粮一石六斗差分今有某州所管九等稅戶甲三百六十四戶乙三百九十六戶丙四百三十二戶丁五百七十戶戊五百八十四戶已六百七十六戶庚八百五十戶辛九百二十戶壬一千六百八戶合科米六萬五千六百六十四石今作等数從甲起各差一石六斗出之問每戶及逐等各幾何答曰甲每戶一十八石五斗三升二合五勺三百六十四戶共六千七百四十五石八斗三升乙每戶一十六石九斗三升二合五勺三百九十六戶共六千七百五石二斗七升
+  hash: sha256:684c47beda401a883b45d9a36c55248819d60b6407dd7553ad483bfb8ff0c882
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:2de3cf45330c7e1cdcdbd234565b5f1f9ede7aa5d2c1a59a30b10754104d2fb1

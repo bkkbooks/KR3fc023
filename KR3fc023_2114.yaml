@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2114
+seq: 2114
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 勾股測望論唐荆川勾股之法橫為勾縱為股斜為弦勾股求弦勾股自乗相併為實平方開之得弦勾弦求股勾弦自乗相减為實平方開之得股股弦求勾同法蓋一弦實蔵一勾一股之實一勾一股之實併得一弦實也數非両不行因勾股而得弦因股弦而得勾因勾弦而得股三者之中其両者顯而可知其一者藏而不可知因兩以得三此勾股法之可通者也至如遠近可知而高下不可知如卑則塔影高則日
+  hash: sha256:d6f926ddb97f7703ca00ad685e3c233e5f7754f33523be230d44172e1622e575
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:04a0223c3c0b86e510530b940f098417c7263e5064e459db4fadb051c095c0c4

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/78
+seq: 78
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以二十四步除之爲分或以六十步除之爲角者便云幾畒幾步零幾何田廣十五步縱十六步爲田幾何荅曰一畝田廣除也縱長也長問相乗得數以旬法二百四十步之問按乗除初學田一長問知山人田爲簡易乗折之也法曰置廣十七縱十六步相乗得一四十步一合問田廣十二步縱十四步需田幾何荅曰一百六十八步法曰置廣十二步縱十四步相乗得一百六十八步合問田廣二里縱三里爲田幾何荅曰二十二頃五十畒法曰通廣二里爲六百步縱三里何加百步相乗得五十四万步以畒法除之合問田方一里爲田幾何荅曰三頃七十五畒
+  hash: sha256:8fcfff9e8daa11ac8fb0fea6e56ad2050fc2c87ae9023b04ce04efaa77ae5645
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:bc38c938ef00519e0edd1561f4c1248c6b12adf7baf5292108994e3215af5e9e

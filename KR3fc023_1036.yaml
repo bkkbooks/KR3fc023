@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1036
+seq: 1036
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有直田八畒只記得廣相和共九十二步問廣幾何答曰廣三十二步六十步法曰通積八畒得一千九百二十步四乗得七千六百八十步相和九十二步自乗得八千四百六十四步以少减多餘七百八十四步爲實以開平方法除之得廣之差二十八步加相和九十二步共一百二十步折半得六十步以减差二十八步得廣三十二步合問今有直田廣三十二步六十步問兩隅斜相去幾何答曰六十八步法曰置廣三十二步自乗得一千二十四步六十步自乗得三千六百步併之得四千六百二十四步爲實以開平方法除之得六十八步合問
+  hash: sha256:7406bff305beb180816da813fbf4a385540b4e6ac80c9b3051c758c6863a6c0b
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:f02d18cfb2ebbf427f8b1eb4bdb906c08b40595a39220b1bac20b1ef85fc8944

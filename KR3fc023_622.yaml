@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/622
+seq: 622
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰甲雞一兩一錢一分二厘五毫癸雞八錢八分七厘五毫法曰置雞十箇張二位一位减一得九箇相乘得九十折半得四十五却以轉差二分半乘之得一兩一尓二分五厘以减總賣十兩餘八兩八尓七分五厘為實以雞十為法除之得癸雞價八尓八分七厘五毫各加轉差二分半得數合問二丈四長尺八闊四兩半銀休打脫二丈六長尺六闊該銀多少要交割答曰六兩法曰置今長三丈六尺闊一尺六寸相乘得五丈七尺六寸以乘原銀四兩
+  hash: sha256:b487dc1d2572259a7c883193c0c81fb21b5237479054582c276b4140fd85771b
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:5fdf872be418332bdddbd4a82c6612aca7d2cce7a6e928e99877459e0c3a69c7

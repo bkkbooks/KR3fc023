@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1996
+seq: 1996
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法一退得一百四下法再退得一續啇置第二位以方法一百四啇餘實得八步下法亦置上啇八爲隅法以方隅二法共一百一十二皆與上啇八除餘實盡得闊四十八步合問今有直田二十二頃五十畝只云闊不及長一里問闊幾何荅曰二里法曰置積二十二頃五十畝以畝步通之得五十四万步爲實通不及長一里爲三百步爲徔方開平方法除之於實数之下將徔方二進得三万步下法四進得万以啇實得六百下法亦置上啇得六万爲方法與徔方共九万皆與上啇六除實盡得闊六百步以里步法三百步除之合問
+  hash: sha256:1ec21fd52187e4f50a9d7a09f10d23c58a39e653773a18cf777828629bba999b
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:cd7258dd540ba47c2b49baacee94f1a11e321205bd2d4dda48d22428e6d122bb

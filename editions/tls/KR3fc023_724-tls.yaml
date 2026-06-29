@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/724
+seq: 724
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乙二石三斗四升三合七勺五抄丙一石八斗七升五合法曰置納折米七石五斗爲實以共該米一百二十八石爲法除之得五升八合五勺抄三七五粟米得各該倍米合閤今有甲出絲一十八斤十二兩乙出絲一十五斤九兩丙出絲二十二斤十一兩丁出絲二十四斤十五兩戊出絲一十一斤十三兩共絲九十三斤十二兩共織絹九十一疋五尺二寸五分三六尺驗出絲以分之問各得幾何答曰甲一十八疋八尺二寸五分
+  hash: sha256:620a450ad2d23223db857a3fa19320ebc6dc5120470867e375dbff2e411fd659
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:edcc2c741d0bb6b8ae87957255a5e4f365e604fea5611e5c838846e9842b36aa

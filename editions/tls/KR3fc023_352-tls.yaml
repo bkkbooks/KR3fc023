@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/352
+seq: 352
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰通田七畒半得一千八百歩折半得九百歩爲實以開平方法除之得闊三十歩以除緫田得長六十歩合問長不及十六歩有餘十五長闊若相乘無零恰一畒荅曰長一十五歩六分二厘五毫闊一十五歩三分六厘法曰通田二百四十八歩爲實以闊一十五三分六厘除之得長合問九章詳註比類方田筭法大全卷第一
+  hash: sha256:2cccfe382fe455248f55eb7b2fd794675f5cdd5308e8dde43150103ca433d257
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:f6b0797c9de73dc92163bfb29d29a68114426a3c4d7c638b0e8d810dd7c4bc2c

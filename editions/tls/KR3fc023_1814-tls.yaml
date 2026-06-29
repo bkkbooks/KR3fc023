@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1814
+seq: 1814
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之得二百四十步爲實勾股求弦勾八股十五各自乘併之開方得弦十七加勾八股十五共得四十爲法除之得六步即圓經合問戶高多廣六尺八寸兩隅相去一張文高廣各幾何答曰高九尺六寸廣二尺八寸法曰击必尸弦一百寸自乗一
+  hash: sha256:62a0d582b84acdbb533efade2c4f6484e37d274a66d4a2ed847aafcecbbeabd2
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:b5d1174fe50728273a08603a3450be3737aec9e082ec8f0982735808e1941a99

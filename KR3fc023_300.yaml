@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/300
+seq: 300
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 零在記方至池邊有數每邊十步無疑外方池徑果能到處芳名說你右西江月答曰方面六十步池徑四十步法曰通田一十畝得二千四百步以每邊一十步約之得方面六十步自乘得三千六百步內減田積二千四百步餘得圓池積一千二百步以四因三而一得一千六百步以開平方法除之得徑合問今有圓田一假中間有箇方池打量田畝可耕犁恰好三分在記池面至周有數每邊三步無疑內方圓徑若能知堪作算中第一右西江月答曰圓徑一十二步池方六步
+  hash: sha256:8806b9f1c692d87ed990a1dda8a22588a326b63c6b7463973b9e470136e9cc73
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:0eede2ede1d0bed455f545a08b5d259e629bea99b0d795b41c81844a59adc1a5

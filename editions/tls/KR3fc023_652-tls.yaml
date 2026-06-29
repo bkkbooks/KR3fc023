@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/652
+seq: 652
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不出一斗簮㵗出四分斗之三上造出四分之二公士出四分斗之一法曰六人以前爵次出粟五斗法前同止大大五數各列置衰将五五四三二一副併得二爲法以所出粟五斗乘未併者五各得二十五四得二十三得十五二得十一得五各自爲列實以法二十除之二大夫各一斗餘五不更一斗簮㵗十五上造十公士五各不滿一斗止可爲分子法實俱五約之得數合問牛馬羊食人苗主責之粟五斗羊食馬之半馬食牛之半欲衰償之荅曰牛二斗八升七分升之二馬一斗四升七分升之二羊七升七分升之一
+  hash: sha256:0b0dbcf5210457cf23b24eabeed94db7fab90ca038598845557856b9e9ec987b
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:59cbb49da86d4eee812ce159971f2d00950fd377c41aaaf5acf12f77ed6daaa3

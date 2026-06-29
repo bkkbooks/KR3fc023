@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/854
+seq: 854
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 飯碗一百七十二隻法曰置碗三百一隻以三人因之得九百三爲實併三人四人得二人爲法除之得羙碗一百二十九隻以四因之得五百一十六人以三除之得飯碗一百七十二隻合問今有米不知幾何只云甲取一半乙取如甲三分之二丙取如乙八分之三餘下二斗問原米及各人得米幾何答曰原米四石八斗甲米二石四斗乙米一石六斗丙米六斗餘米二斗法曰置餘米二斗以三因之得丙米六斗如餘米二斗得八斗倍之得乙米一石六斗併入丙米六斗餘米二斗得甲米二石四斗倍之得
+  hash: sha256:11f33abdf58ff7ec5eecf73129e4a55ab8810a4862342e51c14bd93bc653558c
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:f175242772f0ab564f2578dbbb9666183d993dbd664f7371bc5206be354fd546

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1606
+seq: 1606
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之合問今有利錢加六筭初嵗先還一貫半次年又還三貫文餘有本錢整一貫荅曰原本二貫五百文法曰假令原本二貫不足一貫二百八十文三貫盈一貫二百八十文互乗盈得一貫五百六十文不足得三貫八百四十文併之得六貫四百文爲實併盈不足得二貫五百六十文爲法除之合問隔墻聽得客分綾不知綾数不知人每人六疋少六疋各人四疋恰相停荅曰三人綾一十二疋法曰以不足六疋爲實以分綾女疋四疋以少减多餘二爲法除之得三人以適足四疋乗之得綾一十二疋合問
+  hash: sha256:fa5c762cfa8b661c1d62af2b7ff7e3358f7b0169c2fbd0d5932614962af2a97c
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:b5d5a14919af8d5dbbefb10d3c931600cab7a8c6bb8435360eb108abc38999a2

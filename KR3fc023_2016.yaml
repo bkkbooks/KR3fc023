@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2016
+seq: 2016
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一位將徔方一進得六十下法二進得百以啇實得四十下法亦置上啇得四百爲方法與徔方共四百六十皆與上啇四除實一千八百四十餘實一百七十六乃二乗方法得八百併入徔方共得八百六十俱爲方法一退得八十六下法再退得一續啇置第二位以方法八十六啇餘實得二隻下法亦置上啇二爲隅法以方隅二法共八十八皆與上啇二除餘實盡得外周四十一隻合問今有平尖草一垜積六百三十箇問底子幾何荅曰三十五箇法曰倍積得一千二百六十个實以一爲徔方開平方法除之
+  hash: sha256:b662bf7bbaabf142901a57799b6e2ff01d0fe2fb7e8198220b759cd5b045d8a0
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:b81dc01ca2a57c9690e8410e4fb39eb119221c38fb13d8ce592c9aec54e9b732

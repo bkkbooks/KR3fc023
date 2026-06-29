@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1790
+seq: 1790
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有布絹三十疋共賣價鈔五百七十四疋絹值九十貫三疋步價該五十欲問絹布各幾何價鈔共該分端的若人筭得無差訛堪把芳名題郡邑答曰絹一十二疋該鈔二百七十貫布一十八疋該鈔三百貫法曰排列問数先一左行價九十貫爲法遍乘右行得数右絹四疋得三百六十布三疋得一百七十共三十疋得二千七百左價九十貫爲法五十貫五百七十貫却以右行絹四疋爲法復遍乘左行價九十得三百六十与左行三百六十對减尽價五十得二百减左行二百七十餘七十爲法價五百七
+  hash: sha256:95811824ac049bbf30421dafb835f7d29e0437f0328ec314c6209202376954db
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:fc0cdddc3fb55186fdaf39b488a9fe88f817e37b1e3d3e6972f7103506dee17d

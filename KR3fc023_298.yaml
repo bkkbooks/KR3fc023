@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/298
+seq: 298
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以畝步通之得三千三百步以每邊二十步方面六十步以減每邊二十步餘得圓徑合問二假結角池占中央池角試步至邊方四面方八畝三分八步耕犁之數魯量外方內面數明彰倣徨一晌右西江月答曰外方六十步內面四十步法曰置田八畝三分以畝步通之加零八步共二千步以四面方一十步約之得外方六十步自乘得三千六百步內減田積二千步餘一千六百步為實以開平方法除之得內面四十步合問今有方田一假中間有箇圓池步量田畝可耕犁十畝無
+  hash: sha256:3cfa91e74905f1709431a6081f83514adf0d2dbc8b2104c7667a17ad0634106f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a601240935d6e7cd725042e9773c07f43fcd157eb182cccc0b9b0e97503e850e

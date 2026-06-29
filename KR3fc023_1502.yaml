@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1502
+seq: 1502
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 公車轉幾何遭荅曰二十八萬遭法曰通行該七百里得二十五万二千步以每步五尺因之得一百二十六万尺爲實以車高一尺五寸三因得四尺五寸爲法除之合問鷂子曰飛八百鴈飛六百無疑鴈先飛去半月鷂子幾日趕齊荅曰四十五日法曰置鴈飛六百以先飛十五日乘之得九千爲實以鷂飛八百减鴈飛六百餘二百爲法除之合問
+  hash: sha256:48d1a59e3815d79c9aa6674b2fafc144b6e9426507f2ab0a2d4d6bc4b0a6a15f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:238e688fbd081fe967706ca80dcae324dd0a190c40bbc507006d694fb5d8f2b8

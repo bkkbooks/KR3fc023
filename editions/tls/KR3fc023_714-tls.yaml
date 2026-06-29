@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/714
+seq: 714
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二四八十六三十二六十四一百二十八二百五十六共得百一十一爲法除之得六十四是上一層燈數倍之得一百二十八爲第八層燈數以次加倍得各層數合問今有煮酒三棧東棧四升酒三千八百瓶西棧三升酒三千六百四十瓶北棧二升酒二千七百六十五瓶共賣鈔三千七百九十八貫問各棧該賣鈔幾何答曰東棧一千八百二十四貫西棧一千三百一十貫四百文北棧六百六十三貫六百文法曰客列置衰東棧二千八百瓶以四得一万五千棧棧西棧二十六万四千瓶以三棧得
+  hash: sha256:f8a08c8739011daa5671380e6d25a7b74190240b9f561b3d928bfb5b824656da
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:92bb7822ed2cbc6f141ae48178884aefe1a3c821e2c3d7de030122d73638af5a

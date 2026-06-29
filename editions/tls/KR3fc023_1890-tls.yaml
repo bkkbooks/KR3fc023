@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1890
+seq: 1890
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 詞詩四十八問今有方池一所每邊丈二無移中心蒲長一根肥出水過於二尺斜引蒲梢至岸適然與岸方齊饒公能筭更能推蒲深各該有幾右西江月答曰蒲長一丈水深八尺法曰半池方六尺自乗得三十六尺以减股弦較出水二尺自乗得四尺餘三十二尺爲實倍水二尺得四尺爲法除得股水深八尺加出水二尺得蒲合問豎立髙杆一所不知杆何杆尖索子平途委地二尺有五平地引斜恰杆十五无餘有人達得這玄機
+  hash: sha256:631b61a253fd3409cc57a30ee9e699f7dca4d905b4d76f7b481b7edd39d39538
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:63c5379757cffccd875d38806212547ca762b61c76dd581695dbd50a070bd2de

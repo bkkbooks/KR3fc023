@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/36
+seq: 36
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乘除開方起例計一百九十四問九章名數習算之法先賢格言九九演數大數小數量度論畒因乘加法起例歸除减法起例啓義乘除字驛相因乘定位因法八乘法三九歸歌法一撞歸法一歸除定位歸法八歸除法三加法四定位減法三定位商除法求一乘法二求一除法三袖中錦定位訣數二河圖書數積數一
+  hash: sha256:1590fea1d206b099795bbe68a613d7524be2d5ef3799701e4bac36a0b1435d15
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:83a687eab01e178178a85b8989828271dd334cd7e6be1606cc6f891f75152b43

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1706
+seq: 1706
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一綆一丈九尺一寸丙綆一丈四尺八寸丁綆一丈而尺九寸戊綆七尺六寸法曰此問戶綆數爲分母相頭其分也借綆數爲分子倂之內其子也如友方程正負入之得井深綆數五綆數爲分母相乗二三得六內四四六得二十四丁五因二十四得一百二十戊六因一百二十得七百二十再借綆數一爲分子倂之得七百二十一爲深積列各戶本綆所借及深積只戊行可取諸綆甲乙丙丁戊深積二一七百二十一三一七百二十一四一七百二十一
+  hash: sha256:1bc5bfc7bc10212e2e1a7ac31d3e69cf94175994d5343c37ab96badd466f6342
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:e3dac00bb174ae5097fbe35fc5f2d38eb8af03fe1b0e0a51468abdb3fe843236

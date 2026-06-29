@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/946
+seq: 946
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 寫一月多少是答曰四千五字法曰置一月計三十日張二位內一位减一餘得二十九日相乘三十日得八百七十折半得四百三十五以每日加三字乘之得一千三百五字併入一月三十日以九十字乘之得二千七百字共得四千五字合問有箇學生心性巧一部孟子三日了每日增添一倍多問公每日讀多少答曰初一日讀四千九百五十五字初二日讀九千九百一十字初三日讀一萬九千八百二十字
+  hash: sha256:8832c0e50fdd54b8b264a85e1524a420fb6a06489944c49959f5681e27706d85
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:9b2291973c11733ff36e8687187564afec32017bdf8f8cd2f9299e3921d6a2bb

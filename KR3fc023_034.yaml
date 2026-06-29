@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/34
+seq: 34
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 膺繁祉令終高年噫形峜者惟能寓其外之巧而亦莫能其中之玄也大中大夫山東布政使司右參政伺郡孫暲書
+  hash: sha256:b063e4c6affe62085cde03b1345ca45bb14985b51ce9a2e01b00911dc31cdb1f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a01c44deb31045d6dd8389a06762714878134d7ae9fe01356bdb29852df0ce15

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2098
+seq: 2098
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有鈊一十六萬九千五百九十九貫三百七十五文每米一石價一十二貫五百文問該米幾何荅曰一萬三千五百六十七石九斗五升法曰置鈔爲實以每石價鈔一十二貫五百文爲法定身减之
+  hash: sha256:47e19158598642b4ba5c2c183daa7a9a74941f80bb57a8cba8d7021d6a53c5cd
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:3b006937c4f24242ec2314abd5e9a5607d604b0bed07ac8e56a952633d6f76bd

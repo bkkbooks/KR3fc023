@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1428
+seq: 1428
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 兩問該人幾何答曰三十六人法曰置淘金照前法垂得一万六千二百爲實以原淘金十五兩乗今三十日得四百五十爲法除之合問今有四匠八日食米九斗今四十二匠十六日問食米幾何答曰一十八石九斗法曰置匠四十二以十六日乘得六百七十二又以食米九斗因之得六千四十八爲實以四匠因八日得三十二爲法除之合問今有三口三日食米八升今有米三十石令三十口食之問幾何日食畢答曰三箇月零二十二日半法曰置今米三千升以三口因之得九千升又以三日因之得二万七千
+  hash: sha256:4a1b36e0c52f2d3442ebe556196400ff21adc0f4b0550aeda6a62de8d57f287d
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:464197402ea73d886c73fcd398cc76acd01f5602802fff41cff9bafe20532ec8

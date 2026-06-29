@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/944
+seq: 944
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰各列七層衰數一二四八十六三十二六十四副併得一百為置共燈三百八十一為實以法除之合問饒均善有縱橫藝七月還錢七貫二每月利錢四十文多少本錢多少利答曰原本五貫六百二十五文利錢一貫五百七十五文法曰置鈔七貫二百文為實以利錢四十文因七月得二百八十文加一貫共得一貫二百八十文為法除之得原本五貫六百二十五文以减鈔餘得利錢合問今有書生至精細每日熟寫九十字師傅逐日加添二問
+  hash: sha256:e9e9bad58501fcd81dff08cdae4b4728120af9117192f53ef998f4e27ab8ddae
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:770457812b0684168240eb04abf7a1c5139f240e3edb5af9afd06db02d3e3b93

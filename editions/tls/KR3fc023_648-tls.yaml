@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/648
+seq: 648
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 錢唐南湖後學吳敬信民編集衰分計一百六十七問法曰各列置衰各自排列所求等次多寡之位列相與率也有分者率無分者非重則可約数重疊者以約分法約之位簡而易求分不重者勿用副併爲法併列衰之数以所分乗未併者各自爲列實以法除之不滿法者以法命之以法命實數可約者約之古人謂衰等位繁故立此法分也古問二十問六夫不更簮褭上造公士天公侯伯子男凡五人以爵次高下均五鹿問各得幾何
+  hash: sha256:455668b642045c8904290b48d7d5b7811ebc9c6ce6f1aa07b974a405999b3446
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:f62e2b746a63210f7b5c075c724b1af109f106e2c4f3eb522b5e0dadbd33cf9a

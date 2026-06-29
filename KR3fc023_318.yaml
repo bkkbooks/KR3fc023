@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/318
+seq: 318
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 田平五十二步法曰通田二十五畒三分五厘得六千八十四步為實以長九平四相乘得三十六為法除之得一百六十九步以開平方法除之得索長一十三步以長九乘之得一百一十七步平四乘之得五十一步合問昨日扜量田地得長步整三十廣斜相併五十步不知幾畒及分厘答曰二畒法曰併廣斜五十步自乘得二千五百步內減長三十步自乘得九百步餘一千六百步折半得八百步為實以廣斜五十為法除之得闊一十六步以乘長步合問今有直田恰一畒中心種石一根添遙望四得十三步問
+  hash: sha256:40fb962253ddbb422b28085405034b9bafe2dd1bfbecf87f527b2d9d818104c5
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:d3525a92b673e2123feecf3c6e3f9ad120a95af3765ac5839be1c5415b4896cb

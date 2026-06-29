@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/846
+seq: 846
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 幾何答曰一十九斤八兩法曰置濕麫二十六斤以乗乾麫三斤得七十八斤爲實以濕麫四斤爲法除之合問因乗歸除今有荒絲一千三百八十七斤毎一兩得凈絲九錢問該凈絲幾何答曰一千二百四十八斤四兩八錢法曰置荒絲一千三百八十七斤以凈絲九因之得一千二百四十八斤三分後步成斤加六得四兩八糸合問今有凈絲一千二百四十八斤四兩八錢毎凈絲九錢用荒絲一兩問該荒絲幾何答曰一千三百八十七斤
+  hash: sha256:93f8bfd9dbd6bf852623204bbc3463e1db0ca304c5245c4c722cb46104d7b689
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:b78ba88bcfb806df7fcb44f240a020da1874b71e1dadb9b4d8f8c5ae96190a43

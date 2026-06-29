@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/560
+seq: 560
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 該丈八有羅七十三丈也依前列無差出羅折興染坊家該染幾何可能右西江月荅曰染羅一十三疋五尺六寸出羅五疋四尺四寸法曰置有羅七十三丈乗染羅一丈八尺得一百三十一丈四尺爲寶併零羅十尺染羅一丈八尺共二丈五尺爲法除之得染羅五十二丈五尺六寸以減有羅餘得出羅合問白米三石五斗芝麻換得三石芝麻五斗五升知八斗小麥換已劫有小麥換米九石六斗無移知公能筭問端的不會傍人笑你右西江月
+  hash: sha256:f25ce4c81240f2d0afcaceeff2a980e537cff87fc55ff80f6ad7dd223244ca37
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:13bb3e081ceef67ee55a5938947874795e8b97c8f581f527fd44fc1ef9777cce

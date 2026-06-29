@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1694
+seq: 1694
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一百以牛二除得牛價一貫二百合問一禾三秉濟六斗當下禾十秉下禾五秉添一斗當上禾一秉問上下禾每秉各幾何荅曰上禾一秉八斗下禾一秉三斗法曰此問添積爲正當禾爲負求同前法列所問數以甲行上二爲法相乗乙行得數上正三爲法下負十添正六斗上負二得負六下正五得正一十五添正一斗得正三斗却以乙行上負二爲法復遍乗甲行上正三得正六与乙行負六異對減尽下負十得負二十異減第二行下正十五餘得下正五爲法正六斗得正十二斗同加乙行正三斗得正一十五斗爲實以法除得下禾一秉三斗
+  hash: sha256:32d0325dbf3afcec97bb4f5b641b8e11b13070c90bb9b88d54cb5326dc43ac07
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:77af99cceaa69392adac79a57c38a9df6980eb68d63e82f8b95d343c1ebce02b

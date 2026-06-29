@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/464
+seq: 464
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 六十三斤為法除實得三貫七百五十立合問今有絲一斤八兩換絹一匹四十尺及將絲九兩貼鈔四貫得絹二丈今將鈔五貫問該買絹幾何答曰六尺二寸五分法曰置絲九兩乘換絹四十尺得三百六十尺以通絲一斤八兩得二十四兩為法除之得一丈五尺為絲所得絹以減二丈餘五尺為鈔所直却乘今將鈔五貫得二十五貫為實以貼鈔四貫為法除之得該買絹合問今有鈔一十八貫五百四十文八分文之七買到降香二十六斤十六分斤之一問每斤價幾何
+  hash: sha256:2ecc759f465405b00c3e8f06358e6ebbbafd1f5e5db589f94214eb8620bc5668
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:0d59d83df5e591578a42f67b4e2ccdddeec0979e785a8e95c86cb097a8238b00

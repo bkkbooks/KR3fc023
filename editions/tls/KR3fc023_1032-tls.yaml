@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1032
+seq: 1032
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有宜田一畒二百步十一分步十七廣十八步七分步之五問縦幾何答曰二十三步十一分步之六法曰通田一畒加零二百步共四百四十步以分毋十一通之加分子七共得四千八百四十七又以廣分母七通之得三万二千九百二十九步爲實以廣十八步以分母七通之加分子五共得一百三十一爲法除之得二百五十九却以積分母十一除之得二十三步餘實六以法命之合問今有宜田一畝一百三十步一十一分步之一十問廣幾何荅曰一步六分步之五法曰通田一畒得二百四十步以分毋十一乗之得二千六百四十爲實
+  hash: sha256:d73465f0d96f31daf1e00912258f46d172783c2bdb01aa523b85b1ede450a25a
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:1f4308e98453fba6d4249c7baf03efedd83a21e74af2eba160b15dc17b7b30e0

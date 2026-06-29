@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 周禮太司徒以鄉三物教萬良三曰六藝而數居其一蓋藝者至理兩萬日用資為而數之為藝大二一十百千萬小而釐豪絲忽杪以至天之高也星辰之遠也滄海之深城郭宮室之大也舉不能逃置籌布算之中雖然其數易知而
+  hash: sha256:effb1456bd40c8cb66eb5668d01620fcc974c47694f5f4faef4cd95c04206f20
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:69c69aef1b0342c032667e749145a2319ef4132161d658d576878dfbdbda32dd

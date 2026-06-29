@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1782
+seq: 1782
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 價四百右行正一千加豬負二價八百共得一千八百以犬六除得犬價三百合問五兎四豬二羊言各價不及四千錢兎增二豬羊一隻豬增二兎一羊然羊添二豬三箇兎各得增添滿四千有人筭得無差錯堪八芳名到處傳荅曰兎價四百犬價六百豬價八百法曰排列問數以右行五兎爲法遍乗中左二行得數右兎五爲法豬二羊一價四千中兎二得一十豬四得二十羊一得五價四千得二万左兎三得一十五豬二得一十羊二得一十價四千得二万
+  hash: sha256:aed6df16bf97e4e2ae57a141d7675d57fb9819703084fa6a3f77aa1b70347186
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:03f89358ab96ec044766ebcebe5e9daa56c005ce86f34e623264a71f81f8006f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1100
+seq: 1100
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 都指揮二十員每員一面八步計六十四步共積一千二百八十步指揮二百四員每員一面六步計三十六步共積七千三百四十四步千戶四百八員每員一面五步計二十五步共積一萬二百步百戶二千四十員每員一面四步計一十六步共積三萬二千六百四十步兵士四千八十隊每隊一面一十二步計一百四十四步共積五十八萬七千五百二
+  hash: sha256:592616398d4d6fc6cf843fca8017d4bd7cc700595eb661fd046b96d44a02aff6
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:3e6eb911f3aa8974437979a0c8c0400e01fe992b410089f94df570d0784e6e3c

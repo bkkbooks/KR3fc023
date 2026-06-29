@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1610
+seq: 1610
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 地聽得客分銀不知銀数不知人七兩分之多四兩九兩分時少半斤荅曰六人銀四十六兩法曰置分銀七兩多四兩九兩少八兩互乗盈得三十六兩不足得五十六兩併之得九十二兩爲實以人分銀九兩七兩以少减多餘二爲法除之得銀四十六兩以减多四兩餘四十二兩以人分七兩除之得人六合問隅長堤邉搞劳夫盤堆紅果唱名呼七人八果剩二箇五人七果五人無荅曰三十五名果四十二顆法曰置盈不足互乗七人乗七果得四十九五人乗八果得四十以少减多餘九果爲法又置七人五人相乗得三十五人又爲法併盈不足
+  hash: sha256:cff506a2315b998803c5e788e2d7bacaf06277df4d80addd08a8281db2d22665
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:0a85e7f0f42f3a43d5fa572b9826ad98e0cc8ff1c1e63c1955a0e228fbab8875

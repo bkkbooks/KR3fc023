@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1000
+seq: 1000
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 退得一續啇置第五位以廉法一十二万六千四十啇寶得五下法亦置上啇五爲隅法以廉隅二法共一十二万六千四十五皆與上啇五除寶盡合問開平圓法曰置積問周以十二乘積爲寶問徑四乘積三而一爲寶以開平方法同積一千五百一十八步四分步之三問爲圓周幾何答曰一百三十五步法曰以方改圓國居方四分之三也置積一千五百一十八步以分毋四乘之得六千七十二加入內子三共得六千七千五以圓法十二乘之得七万二千九百又以分毋四乘之得二十九万一千六百爲寶以開平方法除
+  hash: sha256:dfd3e572a39faa4ee2f39c95d7a98e7835cb01c1508238c4dc5297c58ac74fc5
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:f1a39793059947bdbaec6a96a3ce6924c0c5dd8d1e75c0626ffafd36197ee7c2

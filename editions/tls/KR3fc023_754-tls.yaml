@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/754
+seq: 754
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰上上等六戶每戶九十分該一百六十八秤一十一斤四兩共一千一十二秤七斤八兩上中等八戶每戶七十分該一百二十一秤三斤十二兩共一千五十秤上下等一十二戶每戶六十分該一百一十二秤七斤八兩共一千三百五十秤中上等一十五戶每戶五十五分該一百三秤一斤十四兩共一千五百四十六秤一十三斤二兩
+  hash: sha256:8eb301669c251bdf2747b87b52c9b2dfa9976b6a3f2e34351f8a0cfa0314f9e6
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:dd5e503ebe9f31a50bcc3c78ff15fda84e255e64a4c0f7518ab621a713882dac

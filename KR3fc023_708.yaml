@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/708
+seq: 708
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 粟該鈔八十貫五百一十六文二分五厘法曰置鈔三百七十八貫九百文為實併四色斗價白米五百三十文黃米四百八十文豆二百五十文粟三百四十文共一貫六文為法除之得四色各該二十三石頭號斗八升一合二久五抄各以斗價乘之得各色價鈔合問今有九層塔置燈從上起各層倍數共用油八十三釣一稱七斤六兩一十六銖只云用五分甌每九甌用油十兩五錢用三分盞每六盞用油八兩問各層該燈幾何答曰第九層六十四第八層一百二十八第七層二百五十六第六層五百一十二第五層一千二十四第四層二
+  hash: sha256:b7d3cdea0642d24562f9c2b6ad6ff75f5037685e3ca69fa46ea7d910f23f9b9c
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:86439b44319c3bb8d11dea00d00dee133ea5feadecdb1d223009c1e6a99d8300

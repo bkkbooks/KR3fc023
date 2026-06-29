@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/792
+seq: 792
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之問得幾何答曰甲七百二十石九斗乙四百八十石六斗丙三百二十石四斗丁二百一十石六斗戊一百四十二石四斗法曰置米一千百七十七石九斗爲實以各戶從戊起逓以四六差乗之爲衰戊得四百丁得六百丙得九百乙得一千三百五十甲得二千二十五倂之得五千二百七十五爲法除之得三斗五升六合爲一分之数以乗各衰合問三七差分法曰以三爲首就以三因之二位者三七倂得
+  hash: sha256:daa1b7e959f47a4a13814327a277e66b483854cb4a830c32d49f6c708542146c
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:9c8d240d9b35ced716cc04c4fbb2eb27c01de5d965010c7049d435a8843a3266

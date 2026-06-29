@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2014
+seq: 2014
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得四十下法亦置上啇得四百爲方法與徔方共四百八十皆與上啇四除實一千九百二十餘實三千六百八十乃二乗方法得八百併入從方共得八百八十俱爲方法一退得八十八下法再退得一續啇置第二位以方法八十八啇餘實得四下法亦置上啇四爲隅法以方隅二法共九十二皆與上啇四除餘實盡得外周四十四隻合問今有圓箭積一百六十九隻問外周幾何荅曰四十二隻法曰置積減一得一百六十八以圓法十二乗之得二千一十六爲實半圓法得六爲徔方開平方法除之於實数之下啇置第
+  hash: sha256:e40780fcb46f62a51f3668cbd89865ccf893e3969af7aa623cddd7d5660f406c
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:92958f2af8838bcda673c02966a2337b958bae74aab8193370af14641d66e7cc

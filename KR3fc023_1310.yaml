@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1310
+seq: 1310
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 錢唐南湖後學吳敬信民編集均輸計一百一十九問法曰以所輸粟價等物貴賤高下地里遠近人戶多寡均而爲衰如衰分法求之古問二十八問今有五縣賦粟一萬石每車載二十五石行道一里出顧錢一文各縣到輸所遠近不等粟價高下欲令各縣勞費相登內甲縣二萬五百二十戶粟一石價錢二十自輸其縣乙縣一萬二千三百一十二戶粟一石價錢一十遠
+  hash: sha256:5aa19d39365e80e66c975e3838c76e800c855d38e6f7ab9ff3891ee9a70ffeb8
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:ce80d93989c3dbb5c3dcec226ae30d46e3d41bc6d6351d8140a6d070a2ce0b20

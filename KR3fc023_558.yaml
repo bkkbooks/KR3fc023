@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/558
+seq: 558
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 每兩藥直錢數四十一買良薑五十二文買檳榔八十丁香一兩客錢七貫五百三般分數商量檳三薑四二丁香多少要知各項右西江月答曰丁香一斤十五兩二錢五分檳榔二斤十四兩八錢七分五厘良薑三斤十四兩五錢法曰置鈔七貫五百文為寶併各價二丁香一百六十文三檳榔一百五十六文四良薑一百六十四文共四百八十文為法除之得一停率一十五兩六錢二分五厘以各物率乘之合問丁零羅七尺換訖五兩紅花染成裙假色偏佳六幅量
+  hash: sha256:b81795f92546339379747c1f2ce72c054debbc437ec2e29826f19dc730098177
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:bf214d4087fdc3b8356be15b30e73fa1eb3fea250f1d29c0a5b540b60b8826b3

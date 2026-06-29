@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/70
+seq: 70
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 勾股容圎一餘勾望木一日影量塔二矩望深谷一遙望波口一登山望邑一遙望海島一隔水望竿二立表望松一詞詩四十八問西江月十二鳳棲梧一叨叨令一折桂令一七言八句一七言六句三七言四句一六言四句一五言四句三各色方卷第十計九十四問開三乘方一開四乘方一開五乘方一帶從平方十四帶減從開平方二帶減積開平方二
+  hash: sha256:0ae15d3faff77b683845b64f4e362649c9eddb7f370cfd67e4485a1453e1ed73
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:48b299bdf4bf17eabc493730f4e9103341f3d643f910bae7c12a11b9b23ffaba

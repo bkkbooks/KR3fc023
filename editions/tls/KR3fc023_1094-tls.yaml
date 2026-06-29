@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1094
+seq: 1094
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得五十六又互乘南闊分母六得三百三十六又以北闊分母乘之得二千三百五十二倍之得四千七百四併入南北闊數共得萬二九十九爲法除之得正長四十一步合問今有平圓積一千七百二十八尺問徑幾何答曰四十八尺法曰置以四乘得六千九百一十二尺如三而一得二千二百四尺實以開平方法除之得四十八尺合問今有塔尖寶珠一顆以金裹之每金簿方一尺厚二厘用金一十七兩五錢共用金一百五十四兩三錢六分厘七毫五絲問珠徑幾何答曰一尺九寸八分
+  hash: sha256:3cf2083b2ef346e8807b83bd89f0ae1a0ed237a4037e70c64525ffc1f81b0a01
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:84ee657f6336c6e6f9af2aa184bd3c2fb059157ac9abdc74ccabaeaf97e59bb3

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/744
+seq: 744
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 置衰甲七千六百八十乙四千二百六十丙一千八百四十丁八百四十副並得一万四千六百二十為法以所輸絲三百乘未並者各自為實甲得二百三十万四千乙得一百二十七万八千丙得五十五万二千丁得二十五万二千以法一万四千六百二十除之餘實與法各二十約之合問今有鈔三百六十貫分給甲六人各支四分乙八人各支二分丙十人各支一分問各得幾何答曰甲各得二十八貫八百文乙各得一十四貫四百文丙各得七貫二百文法曰置各等戶以各分乘之為衰甲六人得二十四乙八人得一十六丙十
+  hash: sha256:85db89f24daab57e9fdd51acaee989dbcf566b65b0b41b3fa2c8bb34e0836dd7
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:597ecf60cc02563c2ca735fb92eaeb44955bf355f94eed3712ef437809a3b304

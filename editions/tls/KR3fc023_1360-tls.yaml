@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1360
+seq: 1360
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 馬日行三百里去忘持主覺日巳三分之一備馬追及而還視日四分之三問主馬不休日行幾何曰七百八十里法曰此間本分毋于互之術以主容馬運速爲問置二馬行率去馬三分日之一主馬四分日之三互乘三分乘之二得九四分乘之一得四相減九減四餘五爲法併二馬分子主馬分子四客馬分子九併之得一十三以乘客行三百里得三千九百里爲實以法五除之合問善行者百步拙行者六十步今拙者先行百步問善行者幾步追及曰二日五十步法曰置善行百步乘拙先行百步得一万步爲實以善行百步減拙
+  hash: sha256:0f7e0163b8cf75b3aeccfa9a07c4afb152cd2d123568631a54b701c800f47086
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a28589baa04e136b56f0745f707a9ec3f9931a2cb4ecc9346acb027f80ed795d

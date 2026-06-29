@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/450
+seq: 450
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 脚該三十疋一丈五尺七寸九分六厘八毫七絲五忽法曰置布一千九百六十二疋三尺以疋法通三尺爲一分二厘五毫以腳錢六十二文五分乗之得一百二十二貫六百三十文八分一厘二毫五系爲實併疋價三貫九百三十七文五分腳錢六十二文五分共得四貫爲法之得腳錢該布三十尺六分五厘八毫二絲三忽一鹿二渺五其疋下分數以法二丈四尺乗之以減共布餘得主留之數合問互換乗除今有鈔四百三十六貫五百文買紵絲二十四疋一丈二尺疋法四十八尺問毎疋價鈔幾何
+  hash: sha256:9b2a718273eb9c48858b7dcefb24f3d7bb39547f46c00c0a1e5b1d99cb82d8a0
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:14df76df0ef092f6c0de3008eb3d70fb1b92e536ce8eedcda960a1ca4b27e1ca

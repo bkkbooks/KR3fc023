@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/496
+seq: 496
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 桃箇法曰置桃子二百五十五箇以毎十箇二文乗之得五十文卻以瓜價三文除之得償瓜一十七箇梨子一百二十六箇以毎十箇五文乗之得六十三文卻以瓜價三文除之得償瓜二十一箇合問今有麥六十一石六斗五合易米三分之二麥存米半毎麥九斗易米七斗問各該幾何答曰米三十四石四斗九升八合八勺麥一十七石二斗四升九合四勺法曰併米麥率米二得一石四斗麥一得七斗共二石一斗以乗緫麥六十一石六千五合得一百二十九石三斗七升五勺爲實以併米麥率二麥得一石八斗一
+  hash: sha256:791cadc616182655bbdf52a9fd72622c239c3131934a67b7c9dcde41ffbe01aa
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:3a6cf046b6fcc696283c242fbb05d2273906ec9e40ada8a636882dc8d012983c

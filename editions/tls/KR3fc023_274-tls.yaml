@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/274
+seq: 274
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 別置截積三十三步倍得六十四步以矢四步除之得一十六步減矢四步得弦一十二步合問今有圓田內截弦矢田一叚弦長一十二步矢闊四步問圓田元徑幾何荅曰一十三步法曰半弦長得六步自乗得三十六步以矢四步除之得九步併矢四步共得一十三步爲圓田徑合問今有環田外周七十二步中周二十四步實徑八步今自外周截積二百八十五步問所截內周併實徑各幾何荅曰徑五步內周四十二步法曰二因截積得五百七十步却以外周減中周餘四十八步
+  hash: sha256:2642963d47270d122b1e1f2058eaf85882449743fc929ddfc3b67e9b0b5bd0f0
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a7a13db6abb440727c9dce685f8f14943f0400139841cc996683b9b89ae2a940

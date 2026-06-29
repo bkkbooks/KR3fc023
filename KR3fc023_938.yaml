@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/938
+seq: 938
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 將八折易瞞人答曰甲五稱八金三兩二錢乙一稱五斤十二兩八錢丙五斤三兩二錢丁一斤四兩八錢法曰各列置衰丁二丙八乙三十二甲一百二十八副併得一百七十為法以所分銀七稱五斤八兩以稱斤求兩得一千七百六十八兩乘未併者甲得二十二万六千三百四乙得五万六千五百七十六丙得一万四千一百四十四丁得三千五百三十六各自為列實以法一百七十各除之得數定身减六為斤又减五為稱合問半兩黃金分不定丙丁戌與甲乙等五人所得要詳明此
+  hash: sha256:78a55a8b5a876d3f7137c77becb284d4068335be583610fe7f7d87fffccaba27
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:1ca91eb150a2d86f80301b468dca962a87efd2064304cac51ffe79f4a05bedb8

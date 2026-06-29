@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/44
+seq: 44
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 約分三合分六課分四平分一乘分三除分三截田一十二問圭田二斜田二圓田二環田二梯田二直田二詞詩四十六問西江月十一封樓梧二雙搗練一七言八句一七言六句四七言四句廿一六言六句二六言四句二五言六句一五言四句一粟米卷第二計二百一十二問
+  hash: sha256:e97ff4508716947595349a268d8fa83aa38888c60b168bc8fd76e0a6390ced5e
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:9919ab22b5ec42c5508f212ee5520ed2c13b92046381101d6b97ed9a2a1b2e1f

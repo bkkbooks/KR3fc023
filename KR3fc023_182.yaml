@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/182
+seq: 182
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 田幾何答曰五十一步四分步之三法曰置外周二十七步自乘得七百二十九步以圓法十二除之得六十步四分步之三以減內方周十二步自乘得一百四十四步以方法十六除之得九步餘得五十一步四分步之三合問今有錢田半邊外周一十八步通長一十二步內方長六步闊三步徑三步問為田幾何答曰三十六步法曰倍外周得三十六步自乘得一千二百九十六步折半得六百四十八步以圓法十二除之得五十四步於上以內方長六步乘闊三步得一十八步以減上數餘得三十六步合問今有錢田三角外周二十七步內方東南長六步西北長
+  hash: sha256:6d868d05d11806f51fca78b9f5ae7d0238020dc6384d1eddb499eb3bcea9deb0
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:2bdbb70d9d81c043247aaa8fd22d141daf3ee1c063b0166739cfc8e222d1762a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1758
+seq: 1758
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乑二分該天八畒每畒絲一乑一分共八乑八分下田該四畒每畒絲八分五厘共三乑四分俱減緫絲餘得三乑一分二厘五毫以上田每畒絲一乑二分五厘除之得二畒五分合問今有舊有雲宗站田共二十六畒五分該秋粮米六石三升五合只云每畒科米站田二斗五升雲宗田二斗三升五合舊有田二斗問三色田并米各幾何荅曰站田八畒七分五厘該米二石一斗八升七合五勺雲宗田八畒五分該米一石九斗九升七合五勺
+  hash: sha256:69adad7a298b63f4f359c907abb646134f8202ae80b65e7e94e9bf503c1f4840
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:defecc640738039f404fe93aca51e5b8dff4bd8faaa8d162f14f7306db9fe503

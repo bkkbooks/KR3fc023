@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/538
+seq: 538
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰油六十八斤十二兩該錢一十貫三百一十二文五分塩一百三十七斤八兩該錢二十四貫七百五十文蜜二百六斤四兩該錢四十三貫三百一十二文五分絹四百一十二疋半該錢三百四十六貫五百文布二百七十五疋該錢二百六貫二百五十文
+  hash: sha256:a923c613d7f2dbde6432b6e25a7626e611d061455c42f757e5231384abbd6dbd
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:7df7186dd35a84d1977db9185d6cfa6367f21db4f2eb6e2cbd477ba73b3d95f9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1250
+seq: 1250
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置米照前以斛法乘之又以倚外率乘之万九千八十八尺爲實以二丈三尺爲法除之九以開平方法除之得周三丈六尺合問今有倚壁外角聚米下周三丈六尺高二丈三尺問樍及爲米各幾何答曰積一千一百四尺爲米四百四十一石六斗法曰置下周自乘一千二百九十六尺以高二十三尺乘之得二万九千八百八尺如二十七得積一千一百四尺爲實以斛法二尺五寸爲法除之得米合問今有倚壁內角堆米下周九尺七寸五分高四尺問積米
+  hash: sha256:fe60fe1c747d187939a77637cf57c64185ca1d60f5e93867c0a438e5351d1c90
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:f4d8185a6660b920274a599efa22afe2847741fe6b70803218f04b5ad91aed5b

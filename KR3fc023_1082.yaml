@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1082
+seq: 1082
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有杖鼓田四畒一百六十五步南北各闊二十五步正長五十步問中闊幾何答曰二十步法曰照前法通田加零四乗爲實以正長除得三闊之和九十步以减南北各闊二十五步餘四十步折半得二十步合問今有杖鼓田四畒一步二十四分步之十七南闊二十五步六分步之五北闊三十二步中闊一十八步問正長幾何答曰四十一步法曰置田四畒以畒法通之加零一步共得九百六十一步又以分母二十四通之加分子十九共得二万三十八十三爲實别置南闊二十五步以分母六通之加分子五共得一百五十五又置北闊三十二步
+  hash: sha256:81989c2f7c91ca1fdf2a7c3fd0a677b9315be5895412adb86bf497c80f9dabc0
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:22c597e87ff7ff4cead0fb1caf217ce50abfe669790241e16023728b338abece

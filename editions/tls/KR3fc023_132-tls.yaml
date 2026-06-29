@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/132
+seq: 132
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之加分子一十五共一万四千四百以乗廣得一百九十七万二千八百爲實以分毋相乗得八千二百一十爲法除之得二百四十步一合問今有直田廣二步一十分步之九縦九十七步四十九分步之四十七問爲田幾何荅曰一畒法曰置廣步以分毋二十乗之加入分子九共得四十九縦九十七步以分毋四十九乗之加入分子四十七共得四十八百以乗廣得一十三万五千二百爲實分毋相乗得九百八十爲法除之得一百四十步爲一畒合問今有直田廣三十二步併縦斜共一百三十八步問田幾何荅曰八畒
+  hash: sha256:e704f1f8df1472d1c5c074da7bd0e1fc32310f0cacbbe02e956b25fc435a3395
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:1e7132edb8a6fb8258ba59e30e4a175d8d8fe885c1a90676bdf6cb865043aef9

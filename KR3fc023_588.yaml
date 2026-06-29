@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/588
+seq: 588
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有鋪戶留鈔貫買客羅一匹言之賤若要五斤紅花换六斤四兩黃蠟滿令巳有之見該了二斤半蠟無差舛問貼紅花多少算玄撓妙法真羡右鳳樓梧答曰貼紅花三斤法曰以原花桓乘今稱黃蠟二斤得一十二斤半為實却以原黃蠟六斤四兩為法除之得已收作紅花二斤以減原紅花五斤餘得貼紅花三斤合問一袋江茶買將去八寸為長二寸闊之度其厚九分無差誤稱來恰好一斤數又有江茶分明許八寸四分量了為長處二寸一份知闊數九分為厚無零黍右鳳樓梧
+  hash: sha256:9e968bda868c7b4401e1eeb622307e2400882e05a5b1d69cbd3d2943efe6939d
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:3d4a7a4a2242d92994f07c58f7c2144efba9d50c9ee8bdcddfa53d6ab5e2924e

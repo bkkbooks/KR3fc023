@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2006
+seq: 2006
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰徑一十六步外周一百四十四步內周四十八步法曰通田六畝加零九十六步共得一千五百三十六步爲實半二不及得八十步爲從方開平方法除之於實数之下啇置第一位將徔方一進得八百下法二進得百以啇實得一十下法亦置上啇得一百爲方法與徔方共九百皆與上啇一除實九百餘實六百三十六乃二乗方法得二百併入徔方共得一千俱爲方法一退得一百下法再退得一續啇置第二位以方法一百啇餘實得六步下法亦置上啇六爲隅法以方隅二法共一百六皆與上啇六除餘實盡得徑一十六步各加
+  hash: sha256:1fae733aa2b2f5db56a98fda90c503d60137d0395aaa26c8e57c422bae69e5d7
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:cf2fb7a820b8aa36e41f205c5d05b41c26d6f5118bed56d96f9b7c03a958fc48

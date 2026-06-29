@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1362
+seq: 1362
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 行六十步餘四十步爲法除之合問遅者先往十里疾者追百里而遅者二十里問疾者幾何里而及之曰三十三里半里法曰置遅者先往十里乘疾者追百里得一千里爲實併先往十里追過二十里共三十里爲法除之合問尭先百步犬追二百五十步不及三十步而止問犬不止更追幾何步而及之曰一百七步七分之一法曰置不及三十步乘犬追二百五十得七千五百爲負以不及三十步減免先往一百步餘七十步爲法得百步餘實一十以法約之合問
+  hash: sha256:9b884fcd5716db902b4e64a34c237f6a00816ed9f76754ef0f405ef871753f73
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:ff036429a3b0d316d819dc49251de604c0920c7d3fdc2f587eacaf3a8e4e9a50

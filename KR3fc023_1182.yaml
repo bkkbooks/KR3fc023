@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1182
+seq: 1182
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 八寸問巳築髙得幾何答曰四尺八寸法曰以上廣减下廣餘一尺爲法置已築上廣二尺八寸减原下廣餘一尺二寸乗原髙得九尺六寸爲實以法除之合問今有築墻上廣一丈八尺下廣四丈八尺髙三丈六尺長一千六百三十二丈每人一日自穿運築折計㓛程常積二十四尺每髙一尺用搏子木二條每條長一丈二尺大頭徑六寸半小頭徑三寸半每條用橛葽三道每四十五道用草一束四靣去城五丈開濠取土起築先定濠上廣一十四丈下廣八丈限三箇月城濠俱畢問合用人夫及所用榑子木橛葽草并濠深各幾何
+  hash: sha256:857f7db7d3f3756d507ecc1ac2ba6af384c36d9a8451abd583b67b23afc278b1
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:86b0568a54b2ddcf49daa8e5693404292e9dda12eb9cd2b45f2952e04e49606e

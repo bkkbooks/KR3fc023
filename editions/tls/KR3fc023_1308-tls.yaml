@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1308
+seq: 1308
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乘之得六千八十四尺爲實以不及一十七自乘得二百八十九尺爲從方倍不及一十七尺得三十四尺爲從練以爲隅筭開立方法除這得高九加不及一丈七尺得周二丈六尺合問今有酒瓶一垜計該五百一十闊不及長五箇長闊誰能備識答曰長一十四箇闊九箇法曰置積五百一十以三乘得一千五百三十箇爲實半不及五箇得一箇半添半箇得三箇併不及五箇得八箇爲從方再添一得九箇爲從廉以爲隅筭開立方法除之得闊九箇加不及五箇得長一十四箇合問九章詳注比類商功筭法大全卷第五
+  hash: sha256:8ba66c3f8c22c94066d05b3c1b1e6652c37a108393925cfd7c8fd1f8e6ca8d2f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:42159c15acc85cce3950fc1ee3d8a040b22ecdf1a138a16ed086dd762f4be3e0

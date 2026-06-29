@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/808
+seq: 808
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丙每戶一十五石三斗三升二合五勺四百三十二戶共六千六百二十三石六斗四升丁每戶一十三石七斗三升二合五勺五百七十戶共七千四百二十七石五斗二升五合戊每戶一十二石一斗三升二合五勺五百八十四戶共七千八十五石三十八升已每戶一十石五斗三升二合五勺六百七十六戶共七千一百一十九石九斗七升庚每戶八石九斗三升二合五勺八百五十戶共七千五百九十石六斗二升五合
+  hash: sha256:3609c52fb68c5ef847188983a7bf592a3e6170fe39c153717349ebce221d3b0d
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:7f24f1dddf0bebf4e75646aab6319dd94f4adabd3072b091a8535dc1f4a1a3e6

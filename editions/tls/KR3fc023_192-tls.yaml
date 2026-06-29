@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/192
+seq: 192
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置毎面一十四歩以六乗得八十四歩以七而一得一十二歩爲實以毎面一十四歩折半得七歩爲法乗之合問今有六角田毎面一十五歩問爲田幾何荅曰二畒一百九十五歩法曰置毎面一十五歩自乗得二百二十五歩以二乗之得六百七十五歩以畒法除之合問今有八角田毎面一十四歩問爲田幾何荅曰四畒法曰置毎面一十四歩以五乗得七十歩七而一得一十歩倍之得二十歩加一面一十四歩共三十四歩自乗得一千一百五十六
+  hash: sha256:417a0efa7dafd5383f0194b3f97683cb1eea84f6a133db0708c1775099496d23
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:57e83fa7e036def4d73acc6dc405873813589aebf23700aa481620b2facbe3e7

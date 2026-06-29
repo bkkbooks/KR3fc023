@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1920
+seq: 1920
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 折繩量短七尺試問聰明能士要問原木長端的荅曰二丈二尺法曰倍短七尺得一丈四尺加長八尺共得原木長二丈二尺合問土埋圓木告知音周鋸截橫一寸深鋸道橫長一尺整不知多少徑中心荅曰徑二尺六寸法曰勾鋸道一尺折半得五寸自乘得二十五寸爲實半弦較一寸爲法除之如故加半較一寸共得二尺六寸合問六尺爲勾八尺內容方面如何取有人違得這玄機便可應過中舉荅曰容方面三尺四寸一十四分寸之四法曰置勾六尺八尺相乘得四十八尺爲實併勾六尺八尺共得
+  hash: sha256:7a22bfffed3d93690af3bb748aea30d65e837097030de32a3c3a934cbc8e646e
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:387eff8380659ed972b39a74f3f5cb6ff70a7de59bdf3c41fa690b6f6b9d3902

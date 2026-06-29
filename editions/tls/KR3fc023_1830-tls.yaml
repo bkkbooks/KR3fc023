@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1830
+seq: 1830
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰勾六步十二步相乘得七十二步爲實併勾六二十得十八爲法除之得方四步合問木遙不知去遠如方立四表相去各一丈令右二表與望木參直人立左後表之左三寸斜觀其前左表參合問木遠幾何荅曰木去右前表三百三十三尺三分尺之一
+  hash: sha256:1d8e665c4eb16011bbe56f55d3c9fc2bf3bf369c21323a64f2dbcaf45805d02e
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:5583d477b686f7d1f816088d744c076a800529ddfbe26b35f7057e399d9d62a1

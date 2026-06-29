@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2020
+seq: 2020
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二千八百四十名爲一大隊毎隊都督一貟都指揮二員其所居之地大將軍中軍帳用一十三隊数都督毎員用四隊数都指揮毎員用二隊数指揮毎二貟合一隊数千戶毎三貟合一隊数百戶毎四貟合一隊数毎隊亦照前外圓圍二十四步問共該幾隊積若干步异外周幾隊圓圍若干步及管軍頭目員数隊積各幾何荅曰通共四千九百二十一隊毎隊積六十一步共積三十萬一百八十一步外圍二百四十隊毎隊徑九步共外圓圍二千一百六十步
+  hash: sha256:79f1e7b2477c693d22d044a46f7c26eba1f96456bee084baabeea9b108d6fa9a
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:1c11b01ba589ddb7b84ff9006045c69828c7a7453979e7324f2f0c088a1505fb

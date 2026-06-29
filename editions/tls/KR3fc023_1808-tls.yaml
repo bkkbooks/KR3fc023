@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1808
+seq: 1808
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 爲實以股弦較索垂地法除之得三十二尺加較二十得三十四尺半之得斜長一十七尺合問垣高一丈歌木幾垣木較去本以記之臥而遇書二尺問去本幾何答曰四十九尺五寸法曰垣高如勾遇書如股弦較勾垣高一百寸自乘得一萬寸爲實以股弦較木餘十寸爲法除之得一千寸以减較十寸餘九百九十寸折半
+  hash: sha256:63d67a2740cf850d1f8eb7bf83416be7b08bd70e2fba18c2ea1f6e2c4ffdb975
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:0b8e3947126a877c47cc8cc08e43c83be664393546f85e9646ca8cd5844baf29

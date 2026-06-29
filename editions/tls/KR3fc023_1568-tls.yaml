@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1568
+seq: 1568
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 兩盈鈔三十一貫五百文問各價幾何答曰大紅每兩一十六貫青每兩九貫五百文法曰置列六紅九兩青一十五兩鈔一貫五百文左大紅十八兩青士兩鈔一貫五百石先以左列宋青十五爲法遍乘右行大紅得二百七十兩青得四百五兩鈔得四百七十二貫五百文以右行中青二十七兩爲法乘左行大紅得二百四十三對減右行大紅餘二十士兩青得四百五兩對減盡鈔得四十貫五百文對減餘四百三十以大紅二十七貫除之得大紅價二十六貫又以左行大紅九兩乘得一百貫內減盈一貫文餘一百四十二貫五百文以左
+  hash: sha256:39a57e6d2cd513d41017c0e3bd249ea6d714eb2a1e7ce18c536f4fc228defd64
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:eb011340c8da4a9d38e285d19cf1ec10195ecb0f70291685f189c88d32266ddf

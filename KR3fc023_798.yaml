@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/798
+seq: 798
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有鈔一萬四千四百九十三貫五百文令五人從下作三七分之問各得幾何答曰甲八千四百三貫五百文乙三千六百一貫五百文丙一千五百四十三貫五百文丁六百六十一貫五百文戊二百八十三貫五百文法曰置鈔万四千四百九十二貫六百文為實以各戶從戊起遞以差乘之為衰戊得八十一丁得一百八十九丙得四百十一乙得一千二十九甲得千四百二並之為法除之得三百五十文
+  hash: sha256:8949d5b8eea3276d2d392f0b8daa4bd73aa84b8b0df47dc9a137515e0859be70
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:f07e04ae85be71d5faf5951d101683658dcd8622ad7a689b7c4d4dff426bd229

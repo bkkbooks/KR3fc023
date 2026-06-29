@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/764
+seq: 764
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有官田一項三十八畒六分每畒科正米二斗每耗米三合五勺今要七分本色三分折納細絲每米一石折絲一斤問各納幾何答曰米二十石八升三合一勺四抄絲八斤九兩七錢一分二厘九毫六絲法曰置田一項三十八畒六分以科米二斗乗之得二十七石七斗二升每斗加耗米三合五勺共得二十八石六斗九升二勺副置二位上以十乘之得米二十石八斗三合一勺四抄下以三乗之得八石六斗七合六抄以石爲斤零斗合抄各加爲絲合問今有官旗軍一百一十三員名共支月粮一百二十五石
+  hash: sha256:0acb7643ffd793892af983bf831bd6b5a43e2323d961ff5026b262b61faf9ac3
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:e075388ab1ac0fdddde688ff1649d348f341be5b321cb461979c89660c308268

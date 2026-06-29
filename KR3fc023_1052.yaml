@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1052
+seq: 1052
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 南闊幾何答曰二十二步法曰通田一十四畒一分得三千三百八十四步倍之得六千七百六十八步爲實以正長九十四步爲法除之得七十三步以减比闊五十步合問今有梯田一十四畒一分南闊二十二步北闊五十步問正長幾何答曰九十四步法曰通田倍子得六千七百六十八步併二闊得七十二步除之合問今有梯田一十四畒一分南闊二十二步正長九十四步問北闊幾何答曰五十步法曰通田倍之得六千七百六十八步爲實以正長九十四步爲法除之得七十步以减南闊二十二步餘五十步合問
+  hash: sha256:1ad47951ba2b2c64e4039a665d7c38bcbeeb59d911cbd949963a2d95966ca57a
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:c21fad91022fa9d0a8f606e787aa962e811ccdd2da5d9886a32d88a8a8aa3180

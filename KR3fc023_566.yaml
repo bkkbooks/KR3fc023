@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/566
+seq: 566
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 請問明公箅取右西江月答曰稱價二石八斗八升斤價一斗九升二合斤兩價一升二合錢價一合二勺銖價五勺法曰置米四十三石一斗八升二合一勺為實以椒一十四稱一十四斤十四兩三錢三銖通為二百二十四斤九分一毫五絲六忽二微五虛為法除之得斤價一斗九升二合以各率約之得價合問十二肥豚小豕將來賣典英賢人定價不項言每箇得添錢半總銀二十一兩九錢交足無論不知女小價糧此法如何可見
+  hash: sha256:4897d9698e4e3bdda3b1254961f5205499b14f43cc33343c6be06b42a58a4b7a
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:00e65423f60a77842fc76c7d8830ef14554d232e63e12791fcffa4028c3eca19

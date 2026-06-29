@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/406
+seq: 406
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 該米幾何答曰一百一石五丰法曰置今有鈔四百一十一貫六百文爲實以每石二貫四百文爲法除之合問今有鈔六十六貫二百文粮芝麻二十六石四斗八升問每五斗價幾何答曰一貫二百五十文法曰以所求率五斗乗鈔六十六貫二百文貫三百三十一貫爲實以所戀芝麻二十六石四斗八升爲法除之合問今有鈔六十六貫二百文糴芝麻每石價二貫五百文問該糴芝麻幾何答曰二十六石四斗八升法曰置今有鈔六十六貫二百文爲實以每石二貫五百文爲法除
+  hash: sha256:65c6c3fbbd790bec434401975efa6d0bd2221d9b4e708c8302d1c5cba18fb1fe
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:295e45de7eecaec3396a45fd86839357b29c9ad413d4e5f384cb379dc19e5c3c

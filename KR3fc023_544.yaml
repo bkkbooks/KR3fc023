@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/544
+seq: 544
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 豆三石五斗該鈔四十二貫法曰置鈔一千一百四十四貫五百文為實併各價共得三十二貫七百文為法除之得三十五匹半各以匹斗價乘之布匹價六貫得二百一十貫絹匹價七貫二百文得二百五十二貫綾匹價八貫二百文得二百八十七貫羅匹價六貫九百文得二百四十一貫五百文米斗價三貫二百文得一百一十二貫豆斗價一貫二百文得四十二貫合問借寬還窄今有借布一端長五丈二尺闊二尺一寸今無原布還只有常行布闊一尺六寸問合還長幾何答曰六丈八尺二寸五分
+  hash: sha256:ef781059fb357368a658ab2ee27b04300b200ca04a7c9c74bcc3ac91d1abbc8d
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:71feb730c07eedb8bd0cd3db8b23d2ef473a814d4ebf4d4733773da9d0495a7a

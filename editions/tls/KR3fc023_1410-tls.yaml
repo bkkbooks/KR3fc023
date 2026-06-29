@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1410
+seq: 1410
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 顧率行道今有顧車一輛行道一千里載重一千二百斤與鈔七貫五百文今減重四百八十斤行道一千七百里問與鈔幾何答曰七貫六百五十文法曰置原與鈔七千三百乘今行道一千七百得一千二百七十五万又乗今幾何七百二十得九一千一億八千万爲實以原載重一千二百斤乗原行道一千四百得一百一十万爲法除之合問今有顧車一輛行道一千里載重一千二百斤與鈔七貫五百文今減重四百九十二斤與鈔六貫七百六十八文問合行道幾何答曰六百口四十里
+  hash: sha256:81f55dad25812113d502c78db2add14e36e42f6d3eb46079ab645eca8b33eeed
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:45a8b6f5f55f08918f2e25baa4e0301ea994cf8f0770715b11d70e274b09b493

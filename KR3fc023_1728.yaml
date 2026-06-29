@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1728
+seq: 1728
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 空中三下一二十五石上一空下四二十五石先以右行上二爲法乗左行下四得八二十五石得五十石中行負一減二十五石餘得二十五石又以中行中三爲法乗左行下八得二十四添共得二十五爲法二十五石得七十五石添中行正一得二十五石共得一百石爲實以法除得四石爲下戶所出之數中行二十五石以減下戶一得石四餘得二十一石以中戶三除得七石爲中戶數右行二十五石以減中戶一得七石餘一十八石以上戶二除得九石上戶數合問今有人齊僧仞曰大僧一十八小僧一十二支襯千九貫
+  hash: sha256:4d44ac74570ba5f81a8922fa57ac4ef88b1dda7ae2033f9a9443b121c0cef970
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:81f526cb15248be156523adf29082fb25b850091f819282a2e8bebaa9fec1a61

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1178
+seq: 1178
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰五尺六寸二十七分寸之八法曰置積六百八尺爲實以下周三十六尺自乗得一千二百九十六尺如圓法十二而一得一百八尺爲法除之得髙五尺六寸餘實三尺二寸法實皆四約之得二十七分寸之八合問今有方䑓一所上方八尺下方一十二尺高九尺計積九百一十二尺欲截高上方與下方相等問該髙幾何荅曰六尺三寸三分寸之一法曰置積九百一十二尺爲實以下方一十二尺自乗得一百四十四尺爲法除之得該髙六尺三寸餘實四尺八寸法實皆四十八約之得三分寸之一合問
+  hash: sha256:616cca4950fbe8d79642d9c585d211052fb6a440d23e7667b727a73bc92ae2f1
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:886707a17f2c1338f3f3deb31e2f4a534cab4d597cab0e8f160b9ccc89663d7f

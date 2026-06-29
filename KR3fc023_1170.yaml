@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1170
+seq: 1170
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 巳築髙八尺問上方幾何荅曰一十尺法曰置上方八尺减下方一十四尺餘六尺以髙一十二又除之得五寸爲法又置一十二尺减巳築髙八尺餘四尺爲實以法乗之得二尺加入上方八尺得一十尺合問今有築圓䑓一所上周一十二尺下周一十八尺髙八尺今巳築上周一十三尺五寸問該髙幾何荅曰六尺法曰置巳築上周一十二尺五寸减下周一十八尺餘四尺五寸以乗原髙八尺得三十六尺爲實以上周一十二尺减下周一十八尺餘六尺爲法除之得髙六尺合問今有圓錐下周三十六尺髙二十四尺欲截上周一十二
+  hash: sha256:f8e0d77c3a600d83e440d1de777b65ab0bf2fc5cbb96ea03e77b2e7098f48049
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:7ff1e2535d6453903eedd8a4fa4bd1dbb71260cdebb5da7519addc6a503ef039

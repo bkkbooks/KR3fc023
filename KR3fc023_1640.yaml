@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1640
+seq: 1640
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 青黄青取黄黑黄取黑白黑取白青各一步即實滿斗問白青黄黑禾一步各實幾何荅曰白禾一百一十一分斗之三十三青禾一百一十一分斗之二十八黄禾一百一十一分斗之一十七黑禾一百一十一分斗之一十法曰此問子偕来之意同排列問数以第一行白二爲法遍乗第三四行得数一白二爲法青一黄一空一斗二空青三黄一黑一得一斗三白一得八空黄四得八黑一得二一斗得二斗
+  hash: sha256:127bba915ccac3d2cc1a5a5f4917d39f16527b29017ae9a6e1632c9481d3342c
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:92374ebc071a48d465671e14155a76350f8e34cd6cb008ba8545793744d15d3b

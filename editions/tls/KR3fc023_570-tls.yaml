@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/570
+seq: 570
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 折半爲一停率以二爲細絲三因得盧絲乘價合問五瓠干梨萬棗曰銀英豪牙人估價兩平又六兩二錢無耗瓠貴梨見一倍来不差分毫梨多于倍之高三物價各多少右西江月答曰瓠價二計二錢梨價一厘計一兩東價七計五兩法曰置銀二兩六絲爲併價一萬梨二千瓠四百共一萬兩千四百爲法除之得五厘毫各價加之合問七升豐見量黍五升將粟共通量得三石六被人攪和一處九升一斗每粟量得兩石四足若還分得不差違
+  hash: sha256:d471143c3e1d43d98756906fe642d950800b80df673f22ee8be01bf06a895226
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:c19902ca5f965fbfcac7b12c5175c0117f60c39a709567d9ac9dddb3d86571e0

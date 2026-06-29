@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/694
+seq: 694
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 千八百四十貫中二乘得一十五万一千六百八十貫下三乘得二十二万七千五百二十貫各自為實以法各除之上得綾數中得羅數下得絹數合問今有鈔六貫四百文買礬每兩十十文黃丹每兩三十文蘇木八十文欲買一停礬二停丹三停木問各該幾何答曰礬一斤四兩黃丹二斤八兩蘇木三斤十二兩法曰置鈔六貫四百文為實併三色價一礬二十文二丹六十文三蘇木二百四十文共三百二十文為法除之得礬一斤四兩二因為黃丹二斤八兩三因為蘇木三斤十二兩合問
+  hash: sha256:a0a25f5276a2e0dce07a5b1cdc6e1c377936aa1ac77f8ecf392a5d6137c07b64
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a9ccc9d91c9d28a538158aed905ea19764971a096596eac1a1af6fd0758b4c09

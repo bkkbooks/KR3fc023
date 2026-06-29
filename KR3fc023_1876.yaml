@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1876
+seq: 1876
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰以後表却行一千三百五十寸乗入索四百二寸得五十四万二千七百寸以兩表相去九百寸除之得六百三寸內减前表却行六百寸餘三寸爲法又置從後去表一千三百五十寸內减前去表六百寸餘七百五十寸乗所望表裏一百二十寸得九万寸以法二寸除之得三万寸爲實以里法一万八千寸除之得一里餘寸以步法除得二百四十步合問今有登山臨邑邑在山南偃矩山上勾髙三尺五寸勾端與邑東南隅及東北隅參相直從勾端遙望東北隅入下長一丈二尺又橫勾於入股之外從勾端望西北隅入階十五尺東南隅入下股一丈八尺又設重矩於上矩間相
+  hash: sha256:0dbfde3e748bad13d14b8122eb63e499dbd68b2023eb7fc48e26a7ffadfcb3d2
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:db14ae19e158ac905cde9eb39c3a952a570763d821e8daadb93a1bde55391dde

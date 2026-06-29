@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1864
+seq: 1864
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弦一百二十五步法曰置相乗四千三百七十五步爲實以相和一百六十步爲减從方開平方法除之得勾闊三十五步以减和步餘得弦長一百二十五步次以勾弦各自乗相减餘得一万四千四百步爲實以開平方法除之得股長合問今有勾股田相乗得積四千三百七十五步只云勾弦相九十步問勾股弦各幾何答曰勾三十五步股一百二十步弦一百二十五步法曰置相乗四千三百七十五步爲實以差九十步爲從方開平方
+  hash: sha256:73f35300f18e48b452fd0250b0e4ed4ce4030d17be04e5d47c5181f59d45fd07
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:e5843b75bed03d93732bdffbd03bdc890ccdb15f35a423d3da30faa3274cd6ac

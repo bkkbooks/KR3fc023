@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1478
+seq: 1478
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 減多餘二倍之得四爲法除之得小車三十五輛以減總數五十一餘得大車一十六輛合問騾行七十馬行九先放騾行六日走次後放馬去追騾不知幾日得答曰二十一日法曰置騾行七十乗先行六日得四百二十爲實以騾行七十減馬行九十餘二十爲法除之合問三人二日四升七一十三口要糧吃一年三百六十日借問該糧幾多石答曰三十六石六鬥六升法曰置今吃糧一年計三百六十日乗今人口一十三口得四千六百八十又以原吃糧四升七合乗之得二百一十九石九鬥六升爲實以原人
+  hash: sha256:a143606fbd09379815864079dc23fdee02911a8cbf83518866c5aca521c9d0b3
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:c5eb6ef9e7f2facae8b425803a6ca2ef97676db2ac98f4fd24f8a509525dcb3f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1420
+seq: 1420
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 慢使臣日行里數合問今有快行者日行九十八里慢行者日行六十六里今慢行者先發八日問快行者趕至幾日及之答曰十六日二分日之一及半日法曰置慢行者日行六十六里以先發八日乗之得五百二十八里爲實以快慢行里相減餘三十二里爲法除之合問互換用工今有織匠二十四人一百九十二日織紵絲五百七十六疋欲令六十二人織三百六十日問蔎織幾何答曰二千七百九十疋
+  hash: sha256:d7c5f4a232d6726f43fc791480e12834eba78da843b123656318232c5093d02f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:eddc47533c530cf590164367e4a6dfdef5096e6ddfd91ef573b1a455e17d0bb0

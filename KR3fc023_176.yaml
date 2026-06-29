@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/176
+seq: 176
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 步上數餘八百四十六步為實以畒法除之合問今有箭劉田兩畔各長一十二步中長六步闊一十四步問為田幾何答曰一百二十六步法曰置一畔十二步併中長六步共得一十八步以闊一十四步相乘得二百五十二步折半合問今有箭劉田兩畔各長六步中長一十二步闊一十四步問為田幾何答曰一百二十六步法曰置一畔八步併中長一十二步共得一十八步乘問一十四步得二百五十一步折半合問今有丘田周六百四十步徑三百八十步問為田幾何
+  hash: sha256:355900fd514a4d99f1633538d8e72362e5fdbe2540d4525f3500d854a1b21aff
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:405782f2b03e10500fe55cbc770ea08da03211f17a1b200153d962c1baeb2fa1

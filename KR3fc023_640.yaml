@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/640
+seq: 640
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七兩四分銀錠糴得米麥同盛九石四斗三升二價髙例各另米價九分一斗麥價七分無剩請問米麥分明精術果然通聖答曰米二石一斗九升五合麥七石二斗三升五合法曰置米麥九石四斗三升為實以米斗價九分因之得八兩四十八分七厘以減原銀七兩四分餘剩銀一兩四爾四分七厘為實以米價九分減麥價七分餘價二分為法除之得麥七石二斗三升五合以減總數餘得米二石一斗九升五合合問今有一田好粟七石六斗五升鄉例自來六米如何展得
+  hash: sha256:293a6c41ddd1a043cc08fc4c1ff1a4c9d8c05ff515561d0fa0ae09f6c2b962b7
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:e64b48a0caa3f436a1393eb2530847e09952d58097ec98e7830a8b3d14ec41ef

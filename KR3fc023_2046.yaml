@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2046
+seq: 2046
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 袖中錦定位訣掌中定位法爲奇從寅爲主是根基加乗順数還回轉減除逆数順還回小乗除大皆順数大乗小数亦如之乗除大小隨術化釐毫絲忽不差池大乗大今有金五萬六千五百兩毎兩價錢二百五十三貫文問該錢幾何荅曰一千四百二十九萬四千五百貫文法曰置金爲實以毎兩價錢爲法乗之得数不動却從寅位上定實順数實金万兩卯上得千兩辰上得百兩已上得十兩午上得一兩乃未上得法首錢百貫復逆数回午上
+  hash: sha256:020b85f947ef710b6c016c110edcda94ad6e8e9ed7b7074233e182c024f589c3
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:048b3df82e765d48b071ac55135a01187ad17ce91ae589c75bd09d97da16a21a

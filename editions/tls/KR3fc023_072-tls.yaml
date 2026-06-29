@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/72
+seq: 72
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 帶從負隅減從開平方四廉從減積除實開平方一廉法從方減積開平方四從方益隅添實開平方二帶從減積開平方一廉從乗減積開平方一帶從減實開平方一減從翻法開平方一負隅減從翻法開平方一帶從廉開平方一益隅開平方一帶從隅益積開平方帶從廉開平方一減積隅筭益從添實平方帶從方廉開立方廿帶益從方廉隅筭開立方十四帶從廉開立方二帶益從方廉開立方一帶益從廉添積開三乗方一
+  hash: sha256:a75e4be0db72bab5a75b2f5228305c07d6367fb319924b5b4a47b13731f322fc
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:09fe2e815cde82528c1768506e453abe593764e43deafc708fb177beef6ff688

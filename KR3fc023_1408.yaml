@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1408
+seq: 1408
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十六日爲實久大船三隻乗一百得一百小船四隻乗五百得二千併之得二千九百爲法除之得一十四隻以乘各載塩合問今有盐五千七百引欲令大船一停小船二停載之只云大航三隻載五百引小船四隻載三百引問各船載幾何答曰大船一十八隻載三千引小船三十六隻載二千七百引法曰置盐五千七百引以大船三隻小船四隻相乗得一十二乗之得六万八千四百爲實以大小船載盐互乗倍大船得六隻乗三百得一千八百小船四隻乗五百得二千併之得二千八百爲法除之得大船一十八隻倍之得小船三十六隻以各乗盐合問
+  hash: sha256:9f32c40bf9b7d2a179d5e2bbb12474fe4296b781531d4a25da9ca60f36ec44f4
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:342a8e9b7f9c57dea5c963596ba22ccac9b582e1a72c8b51af5798f90206ddac

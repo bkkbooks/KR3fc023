@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1944
+seq: 1944
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置地一畝以畝法通之得二百四十步爲實以八較三平四和約之得較八步爲徔方開平方法除之得平一十二步以除總步得長二十步併長平得和五十二步合問閑將直積立方開得数如平更莫猜七股八勾較筭問和得幾勿徘徊荅曰平四步長一十六步和二十步較一十二步法曰以七長八平約之直積立方開如平得四步再自乗得六十四以平四步除之得長一十六步以七長乗得一百一十二以八勾乗平四得三十二併之得一百四十四開平方法除之得較一十
+  hash: sha256:49636cff0a8de3b0f18f34fd46b42efceb975bff0c9ab56c9af49a20fb23f53e
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:51871f60e9d99466d799e7ca4bfba2d6dc1e021c0ac90019a45c63839de66ce5

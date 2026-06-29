@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1906
+seq: 1906
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 演立天源窮䆒右西江月荅曰索長一十三步法曰置踐跡田五分以畝法除之務一百二十步加零八步共一百二十八步以弧矢約之得弦長二十四步矢闊八步加離邊五步合問今有碌一顆原長四尺無疑二十五寸大頭齊小徑原高二尺如意輕推一逅碾成環樣堪稽問公能及分厘不會傍人笑你右西江月荅曰七厘二毫法曰置長四尺大頭徑二十五寸小頭徑二十寸該差五寸每尺該一寸二分半以除大頭徑二尺五寸得半圓徑二十尺倍之得
+  hash: sha256:69fc8853d15d74997255ee717d6ee02b1e4d12f62e87d449c07d26a2abcdaaf8
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:51523225c78d64df963dfce6985fb11981ccee5c9c10997ea31ce40b5a9375ef

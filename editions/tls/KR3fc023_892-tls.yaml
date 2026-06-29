@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/892
+seq: 892
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分共一兩二乑八分爲法除之得本銀以减緫銀餘息銀合問甲借乙銀作本逐年倍息曾言啇經遠䖏整十年近日還家計筭二百五十六兩連本和利都全不知原本問根源甚法求之可見答曰原本銀二錢五分法曰置銀二百五十六兩爲實以三度八除得五乑折半合問丙借丁鈔不用保原本無稽考不知多少月利四分雖些小今經八月來取討還得利錢分明道四十四兩得了皆倍告請問當初實多少賢家筭時休心惱右鳳棲梧答曰兩錠三十七兩半
+  hash: sha256:ecde24da2f2db2e1fd2bd304dc2921a0adf2d44cb7f3802a28a215105444d6da
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:357a18405db9a2940b561296f5af28dff0f0ecbcf1ad89aa64e94d898345d949

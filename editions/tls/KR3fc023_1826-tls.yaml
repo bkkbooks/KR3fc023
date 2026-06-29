@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1826
+seq: 1826
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 門以弦卒十七乘得三万加千一百步爲實再以卒十五乘得三万四千五百步亦爲實皆以勾卒八炎法除之得弦甲斜之四千八百八十七步半得乙東行四十三百一十二步半合問戶不知高廣竿不矢短長橫之不出四只從之不出二尺斜之適出問高廣褒各幾何荅曰高八尺廣六尺褒一丈縱如股橫如勾斜如弦縱之不出二尺名股弦較橫之不出四尺名勾弦較以二較求勾股
+  hash: sha256:de19b8309657976cd91e8fb009a3c3403f1ce7d75b0bbcabd1ec5447c229ef71
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:ced2d541768105672c67836b593e9db23afa8dc5db17669c459c24edfe4604c7

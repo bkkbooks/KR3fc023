@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1278
+seq: 1278
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰二百一十六斤法曰置金方六寸再自乘得二百一十六寸以一寸重一斤乘之合問今有金園圎二尺四寸厚一寸問重幾何答曰四十八斤法曰置園圎二尺四寸自乘得五百七十六寸以厚一寸乘之如故以圎法十二除之得四十八寸以寸斤乘之合問今有圎金一塊徑二尺四寸問重幾何答曰七千七百七十六斤法曰置徑二十四寸再自乘得一万三千八百二十四寸以立圎法九乘得一十二万四千四百一十六寸十六而一得七千七百七十六寸寸斤除之合問
+  hash: sha256:b8402c32c090bd1d63309d114a7764040eb1bd6345ae1c53d2c4361c17994390
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:aee00fadf0d34fb85ec4101f326b1b84f44df90df149c99e0985176acd605ed2

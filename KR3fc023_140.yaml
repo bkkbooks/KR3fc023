@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/140
+seq: 140
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得一十九百七十八步九分五毫六絲為實以畝法除之合問今有直田縱一百步廣四十二步中有圓池周二十步徑一十步問除池占外該田幾何答曰一十七畝一分八厘七毫五絲法曰置縱一百步以乘廣四十二步得四千二百步為總積半池周得一十五步徑得五步相乘得七十五步以減總積餘四十一百二十五步為實以畝法除之合問今有方田積八万八千一百八十二步問諛田幾何答曰三頃六十七畒四分二厘五毫法曰置田積八万八千一百八十二步為實以畒法除之合問
+  hash: sha256:baa1b743d72dadff81bcd6972493c8fd45300473fc7b6fdcf17b066720657908
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:e93f403f27479e52fc4ffb1989bab1a066471a7898bb62526e09301a1efa4ed0

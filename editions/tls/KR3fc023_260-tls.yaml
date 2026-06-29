@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/260
+seq: 260
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 八千五百六十一文以分母九通之加分子七共得七万七千五十六以乗前數得一百九十二万六千四百爲實以二分母七分九分相乗得六十三爲法除之得三十貫五百七十七文餘實四十九法實皆七紬之合問今有一百九十人每人支鈔一貫十九分貫之一問該鈔幾何荅曰二百貫法曰置人支鈔一貫以分母十九通之加分子一得二千又以人一百九十乗之得三千八百爲實却以支钞一貫以分母十九通之得十九貫爲法除之合問除分今有絹六疋三分疋之以易銀一兩二錢二分錢之一問一疋易銀
+  hash: sha256:ac6a3c2ab6733e8b70189cc35559ce6ff8af8b6e59661d7e4423cc63da14add6
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:255680672cdd39f9df642c3c2935bc69c82c05af71b9d672d2623c9e6eae9950

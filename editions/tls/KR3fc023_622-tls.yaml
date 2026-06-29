@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/622
+seq: 622
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰甲鷄一兩一錢一分二厘五毫癸鷄八錢八分七厘五毫法曰置鷄十箇張二位一位减一得九箇相乗得九十折半得四十五却以轉差二分半乗之得一兩一尓二分五厘以减総賣十兩餘八兩八尓七分五厘爲實以鷄十爲法除之得癸鷄價八尓八分七厘五毫各加轉差二分半得数合問二丈四長尺八闊四兩半銀休打脫二丈六長尺六闊該銀多少要交割答曰六兩法曰置今長三丈六尺闊一尺六寸相乗得五丈七尺六寸以乗原銀四兩
+  hash: sha256:3dc67a1b31bdcb6ee82da4ed52c6a678830e41f2600d6b2f1891e6873ebd645d
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:dd6d79ececfe04e46bec4043715dee2dce35d4159202776755fffc3c0f8ee024

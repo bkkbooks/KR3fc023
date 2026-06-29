@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/526
+seq: 526
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 貨稱市中貨買油斤價一百五十文鹽斤價一百七十五文粉褁價三百五十文布匹價七百四十文麻稱價八百四十文米斗價五百文上響各物實過除原本外問各物斤重原本和實并利息該幾何答曰共實錢一千二貫一百八十八文三分四厘三毫七絲五忽息利錢六百三十七貫九百三十八文三分四厘三毫七絲五忽油七百二十八斤八兩原本該錢四十三貫七兩一十文
+  hash: sha256:953757300b508b82157cd5ff2dcf428fb7ba1cd9447820121bdf15f4a33a0831
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:9fe466a547a9a91f8a46430cb71dd09aa8337ec1455683945afca9513913d848

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2084
+seq: 2084
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法今有鈔一十六萬四千一百九十七貫五百二十三文買紵絲七百疋問毎疋該鈔幾何荅曰二百三十四貫五百六十七文八分九厘
+  hash: sha256:506eb0ff19b594f299f6b107a6f1399463ec905f7082b92252f9e94c371373ac
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:3632a0992de8c63b61aefb16d8ed78931f8de39d2beacfdd28a4292599c434b8

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1498
+seq: 1498
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得三百六十六兩爲法除之合問今有四人來做二八日工價九錢銀二十四人做半月試問工錢該幾分荅曰一十兩一錢二分五厘法曰置人三十四以作二十五乘之得三百六千又以銀九冬因之得三百二十四兩爲實以人四東八日三十二爲法除之合問當年蘇武去北邊不知去了幾周年分明記得天邊月二百三十五番圓荅曰一十九年法曰置月圓二百三十五以周年十二月除之得一十九年不盡七乃閨月也合問二十四匹馬和驢支實斗並餘馬支五升驢支二問
+  hash: sha256:754120f97d91eaf5e7eca0e9c2f74467a545ee25546c6dd73697e32e90425d83
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:1ff92d573d43ca06d64d4f781f193797ace9a0f1531d35aedd191d769b242bf2

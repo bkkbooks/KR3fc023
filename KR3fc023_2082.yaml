@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2082
+seq: 2082
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有白米一萬三千五百石價一十二貫五百六十七石九斗五升毎石五升一二五五文價鈔一十二貫五百文問九斗一八四五七十該鈔幾何七石一四三五三百荅曰一十六萬九千五六十一二三九貫百九十九貫三百七五百一二五九十十五文三千六一五五百法曰置米一万三千五百六十七石二万二五九千九斗五升爲實以毎石價共鈔一十六万鈔爲法加之合問
+  hash: sha256:c23a4c700c4b480518295de44773563f93c5f7ee9d21a73d1aea7af47d5994d2
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:f6754fe8a7c12f34e66e84b8ee6b96f4539fcefc4594bdc0314ed7bf2ae5c7a7

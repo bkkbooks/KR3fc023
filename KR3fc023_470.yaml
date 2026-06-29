@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/470
+seq: 470
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 米三斗二升换鹽九斤問該鹽幾何答曰一千五十四斤十一兩法曰置稻穀九十三石七斗五升乘出米一斗六升得一百五十石却以每四斗除之得三十七石五斗又以換鹽九斤因之得三十三石七斗五升為實以每米二斗二升為法除之得一千五十四斤六分八厘七毫五絲斤下分數加六為兩合問今有絹六千九百七十四尺每三尺一寸二分五厘換絲三兩二錢每絲十二兩八錢換紗一匹長二丈八尺問該紗幾何答曰五百五十七匹二丈五尺七寸六分法曰置絹六千九百七十四尺乘換絲三兩二錢得二万二千三百一十六兩八禾卻
+  hash: sha256:d5c7c34bbd8f7036356e02d12b12047fe8001050dda8abaa842c8e735d8db980
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:f536f153b2bba42e72e21c35f46872fc7ff1dce129e9fa3a01c88e7732cf7c3b

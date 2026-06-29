@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/146
+seq: 146
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置勾闊六步自乗得三十六步弦斜一十步自乗得一百步內減勾餘六十四步爲實以開平方法除之得股長八步以乗勾闊六步得四十八步折半全問今有梭田中闊二十四步直長四十六步問爲田幾何荅曰二畆三分法曰置中闊二十四步乗直長四十六步得一千一百四步折半得五百五十二步爲實以畆法除之合問今有半梭田闊一十一步直長五十二步問爲田幾何荅曰一畆四十六步法曰置中闊一十一步乗直長五十二步得五百七十二步折半
+  hash: sha256:7e99c432cd360b44bd1f3c15d151b59741d94223b56f256e1871e37a83db8e39
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:14d21e817f8cfebf8b2cb154255fc7816dccec5aedbfab670ff71582d9cbbd64

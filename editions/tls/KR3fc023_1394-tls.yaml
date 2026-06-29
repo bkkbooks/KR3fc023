@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1394
+seq: 1394
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 織造各物今有織造段疋每荒絲一十兩得淨絲九兩每經緯一兩煉熟得七錢五分每熟經緯却加顏料三分今織成紵絲一千二百四十疋秤重二千二百六十三斤六錢二分問通用荒絲及每疋斤重料例各幾何答曰通用荒絲三千二百五十五斤每疋該荒絲二斤十兩得生經緯二斤五兩八錢煉熟經緯一斤十二兩三錢五分加顏料八錢五分五毫計重一斤十三兩二錢五毫法曰置秤重絲二千二百六十三斤以斤求兩法通零六乑二分
+  hash: sha256:e5db4b0869ebccce9069a3e154744e10dbf04d1f29a6a5cdae87a014b4d149c8
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:dd68954efb7fa740f02a69da9eea143190dfdcf84d302a4e675ec3fae373949e

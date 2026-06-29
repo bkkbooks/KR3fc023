@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1296
+seq: 1296
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置下多三丈以築高二丈四尺乘之得七百二十尺却以原高該三丈七尺除之得二十尺以减下廣四丈八尺餘得已築上廣合問今有圓倉一座高一丈二尺周比高多三丈齊八寸貯一石欲要盤秤見數頰公推筭先知君還筭得不差池諸處談讃係右西江月答曰積一千七百六十四尺貯二千二百五石法曰置周四十二尺自乘得一千七百六十四尺以高一十二尺乘之得二万一千一百六十八尺如十二而一得一千七百六十四尺以每積八十爲法除之得合問今有方倉貯米五百一十八石更加四斗再無餘方比高
+  hash: sha256:455cfce4d420702d5bb3657fb146417419d5a09383bacb20393b0c48455198d2
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:ea8fb7ee522f97fd0ce6ead0573f19d36b484a5af863b6ae2a6cf8655b95ef2e

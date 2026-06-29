@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/52
+seq: 52
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五言四句四少廣卷第四計一百二問古問二十四問田廣問十一開平方五開平圓二開立方四開立圓一開三乘方一比類六十六問直田十一方田十一梯田六圭田七圓田二環田六錢田三斜田二畹田一弧田一仗鼓田九平圓問徑一塔尖寶珠一官兵藥柵一官兵問隊一二不知數一
+  hash: sha256:6d2391e45cc34f0b861232faf00673772996370c17d577e4c050c52f166ccd53
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:c1e3f68801067e4897b63856179f7fba8b274573faa5f1d148a72ed18e243a66

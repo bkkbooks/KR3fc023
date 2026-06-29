@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1590
+seq: 1590
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得九十折半得四十五日爲相齊曰数以苽蒌五寸因之得二百二十五寸以三歸得苽蒌士尺五寸尺折日数以三寸因之得一百三十五以蒺梨九日除之得尺五寸合問昨日獨看瓜因事來家牧童盗去眼昏花信步廟東墻外過聽得争差十三俱分咱十五增加每人十六少十八借問人瓜各有幾會者先荅右浪淘沙荅曰十一人瓜一百五十八枚法曰併盈十五不足十八得三十三爲寶以各得率十三十六以少减多餘三爲法除之得人十一以各得十六乗之得一百七十六减不足十八餘得瓜一百五十八枚合問
+  hash: sha256:5ddbb00873e52ec292e958a47acf6cad63d3c6a0e4fc2467c4ee5c81acfd4437
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:5061e7b5fcba634ec63a864b7d10bb0d06586ca3b0666235fc39328b0f1c0859

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1834
+seq: 1834
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰勾中容直即餘勾求餘股以容積井徑五尺人目入徑四寸餘開四十大寸以木高五十寸乘得二千三百寸爲實以餘勾入徑四寸爲法除之得長五丈七尺五寸即是徑深合問邑東西七里南北九里各中開門東門外十五里見木問出南門外幾何見木荅曰三百一十五步法曰求容積東西七里三通之得二千一百步南北九里三通之得二千七百步各半之相乘得
+  hash: sha256:9d8fe72334a0db73c99c0efb9d238030a204adaf8ca4e5d84a2aeba9fef6cf5d
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:99e1132fa8ea144c35632837baa863c8ec765c154143cd72110fbc0daf059886

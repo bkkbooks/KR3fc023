@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1376
+seq: 1376
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 爲衰數之爲實有米二百五十萬石令五府實運只云甲府一十縣內四縣運十二分中四縣運十一分下二縣運一十分乙府一十一縣上四縣運九分中四縣運八分下三縣運七分丙府一十一縣上二縣運七分中五縣運六分下四縣運五分丁府一十縣上三縣運五分中三縣運四分下四縣運三分戊府八縣上二縣運三分中四縣運二分下二縣運一分問各運幾何荅曰甲府一十縣共運五十二萬五千石上四縣每縣五萬六千二百五十石共二
+  hash: sha256:d32cdf716d0aa865ac4c56aa55160f5afc19bf0981260433eed892635f3b0ecb
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:63bf8d4cfcf82203d3f36a6814240cad5cdf23ea8cff9def649f6d7041039b66

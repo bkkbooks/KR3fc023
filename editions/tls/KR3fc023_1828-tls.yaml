@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1828
+seq: 1828
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰勾弦較不出四尺弦較後不凡二尺相乘得八尺倍之得十六尺爲弦和較積以開平方法除得四尺爲弦和較加弦較二得六爲勾戶廣仍以弦和較四加勾弦較四共得八爲即戶高以勾六自乘得三十六八自乘得大十四併得一百以開平方法除得十爲褒合問勾六步十二步問容方幾何荅曰方四步容方白積十六與容直黑積十步等大小二勾白積與大小二勾黑積等
+  hash: sha256:e44925cd1340cc1742fd938eb2d76eb5b877491965b72b7b5d7139a2de9d1f4b
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:874500dfe47e6e9fadc2ac590605fc0b4f8251de529e427d73aeaf1ffc94159b

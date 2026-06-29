@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1480
+seq: 1480
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三乘原曰二得六爲法除之合問三人二日四升七一十三只要粮吃三十六石六斗六不知吃了幾何日荅曰三百六十日法曰置今吃粮三十六石六斗六升以原人三乘之得一百九石九斗八升又以原日二乘之得二百一十九石九斗六升爲實以吃粮四升七合乘今人一十三口得六斗一升一合爲法除之合問今有竹筒長五節上容二升四升中間三節容多少不知差数請開明荅曰上一節二升二節二升五合三節三升四節三升五合五節四升
+  hash: sha256:d37c7a674aec591ddde964f1f02946f00af0e8195154d05b8a57a72021898c0e
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:2e70fcde27012a63da792c1e2ec2948d50b893fad4195978faaa9a7dff3b724b

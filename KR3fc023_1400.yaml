@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1400
+seq: 1400
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十大通之得一千五百六十八以每百斤除之得一十五兩六糸八分合問今有錫一十三斤十二兩顧匠製器皿爲是錫少再與匠者鈔七十貫四百文買錫添造錫每兩價四百文手工鈔五十文湏要錫工鈔各無虧剝問錫器斤重工鈔各幾何答曰錫器二十二斤爲實錫八斤四兩價鈔五十二貫八百文手工鈔一十七貫六百文法曰置錫一十三斤以斤法十六通之加零十二兩共得二百二十兩以工鈔五十文乗之得一十一貫以减総與鈔餘五十九貫四百文爲實以錫兩價并工鈔共四百五十文爲法除之得一百三十二兩以斤
+  hash: sha256:bcaac9bcfa66ea2bb5c8292fba12151581ae2e169073ff861858c69f8cc4393b
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:7f32a9bcec3ac54657ffde279c9d7e05f06758301623d55d22161acfa2367fce

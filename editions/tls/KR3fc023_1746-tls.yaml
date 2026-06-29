@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1746
+seq: 1746
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 爲法二貫五百文得負二貫五百文異加左行正七貫五百文共得一十貫爲實以法除得丹價四百文中行價二貫五百文以減丹一兩價四百文餘得二貫一百文以粉三兩除得粉價七百文右行價二貫五百文以減粉一兩價七百文餘得二貫八百文以硃二兩除得硃價九百文合問今有緫期三名小旗二名軍人一名支米七石九斗又緫旗二名小旗三名軍人一名支米七石六斗又緫旗一名小旗二名軍人三名支米六石九斗問每名各該支幾何荅曰緫旗一石五斗小旗一石二斗軍人一石
+  hash: sha256:3a20366312c12bd49dd49fc9d244fb3a235d9d6cbcf777517529b5c376f4e71c
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:01bc3d13f041ade395c2c9e0e25e1a0ccefaa1fa26fc16c9fd451b5d1294e2a4

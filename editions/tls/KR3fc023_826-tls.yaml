@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/826
+seq: 826
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有杉木六根共賣鈔九十二貫甲四人買小根乙三人買中二根丙二人買一大根問各該價幾何答曰甲三十六貫乙三十二貫丙二十四貫法曰各列置衰列相與率也人爲分毋木爲分子甲四分之三乙三分之二两二分之一以毋互乗子甲得十八乙得十六兩得十二重則可約各半之甲得九乙得八兩得六副併得二十三爲法以賣鈔九十二貫乗未併者甲得八百二十八乙得七百三十六兩得五百五十二各自爲列實以法二十三各除之合問今有鈔一百貫令三人分之只云甲多乙五貫丙得鈔如
+  hash: sha256:bc616e33b50dd6cb708dc648fce58ab89a6a31ffd30a0b8358768fa614b238ab
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:17ad5dd83c787bf6407d5da06571dc458aef65ace9cded8e89bfc95043d3e62b

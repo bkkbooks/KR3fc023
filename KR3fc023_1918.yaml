@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1918
+seq: 1918
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 步每步五尺乘之得四十尺自乘得一千六百尺弦鈎繩五十尺自乘得二千五百尺以减一千六百尺餘九百尺爲實開平方法除之得勾水深三十尺合問家有粉墙一丈六墙頭斜倚一杆木將木離墙八尺地木倒墙根恰齊足不知杆子幾多長得分明免勞碌荅曰杆長二丈法曰置墙高一丈六尺自乘得二十五丈六尺爲實以勾弦較木離墙八尺爲法除得三丈二尺加勾弦較八尺共得折半得杆長二尺合問借木棖短不記得止將草繩去量木繩比其木長八尺以
+  hash: sha256:1253b56ce106296271d0e8d06729ef6b378300aff69972f94a39b2857491f818
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:ab261d69fd705531cf66733c3206d2570b9ebfe1ef2a4db7a08974bffd89818d

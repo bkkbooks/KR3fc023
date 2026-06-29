@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2078
+seq: 2078
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有芝麻四百二十五石毎石價鈔四十五貫六百七十八文九分問該鈔幾何荅曰一萬九千四百一十三貫五百三十二文五分法曰置芝麻四百二十五石爲實以毎石價鈔四十五貫六百七十八文九分爲法乗之得一万九千四百一十三貫五百三十二文五分合問石價四十五貫六百七十八文九分五石二二五三三五四四五五分二十八一一二一四一六一八二文四百一六二二四二八三二三六三十共鈔一万九千四百一十三貫五百
+  hash: sha256:cd6807f8089ded8e83149ac12255e12b33745ecfd38f3d34b54cb6dd045e2744
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:67ad4b58a2314b978522e4137e22c55c915488affdd1f39ec623233cfc2dc9cf

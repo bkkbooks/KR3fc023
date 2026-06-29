@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/144
+seq: 144
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰二畆六分法曰置勾闊二十六步股長四十八步相乗得一千二百四十八步折半得六百二十四步爲實以畒法除之合問今有勾股田股長八步弦斜一十步問爲田幾何荅曰二十四步法曰置投長八步自乗得六十四步弦斜一十步自乗得一百步內減股餘三十六步爲實以開平方法除之得勾闊六步以乗股長八步得四十八步折半合問今有勾股田勾闊六步弦斜一十步問爲田幾何荅曰二十四步
+  hash: sha256:9a27c56d64db11eca82990c35f3e87bb418e8f524a1b9db8c181d4dcb5b999a2
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:e56cd2521691ea2f38c94d509fc1dc67128a38f0f559f292b4b1b544e76d50e9

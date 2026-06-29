@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1966
+seq: 1966
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 干下法五退得若干續啇置第二位以方廉四法共若干啇餘實得若干下法亦置上啇爲若干三遍若干乗得若干爲隅法又以上啇若干一遍乗上廉得若干二遍乗中廉得若干三遍乗下廉得若干以方廉隅五法共若干皆與上啇若干除餘實若干仍餘實若干乃二乗上廉得若干三乗中廉得若干四乗下廉得若干五乗隅法得若干皆併入方法共若干又於下法再置上啇共若干進四位爲若干副置三位第一位以若干二遍乗得若干又以一十乗之得若干爲上廉第二位以若干乗之得若干又以一十乗之得若干爲中廉第三位以五乗得若干爲下廉乃方法一退得若干
+  hash: sha256:a9ab55cf4b3c8fefec533722d048bd85a0bf9e38384dc60d2018bfc4fcaa6fe0
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:ca0dadfb6875fee63ebf344895cba41a6393f88ee9564d39e46654f1bba7a745

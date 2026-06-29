@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1106
+seq: 1106
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 爲無錢還就將絲准還只記得准染錢絲二斤四兩二錢三分四毫問絲總數及價錢染給絲錢數各幾何答曰絲共二百三十五斤十四兩每兩價錢五十文共錢一百八十八貫七百文絡絲錢二十二貫六百四十四文該絲二十八斤四兩八錢八分染錢一貫八百一十一文五分二厘該二斤四兩二錢三分四毫法曰置總錢一百八十八貫七百文以絡絲錢六文乘之貫二百文又以染錢四文乘之得四千五百二十八貫八文爲實卻以染
+  hash: sha256:5099e5adb4c010c6b0562e1f27d8d473d7cd67e98df014f432ea1a3f3f166e92
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:1cdffb2b28e8320c1e6d434b376dc9c8eff2be5d8c6e5c30bcdb3923cd8f8803

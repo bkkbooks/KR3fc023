@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1354
+seq: 1354
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九節次第差等上四節容三升下三節容四升問中二節次第各幾何曰上四節容三升第一節六十六分升之二十九第二節六十六分升之四十六第三節六十六分升之五十三第四節六十六分升之六十中二節容二升六十六分升之九第五節一升六十六分升之一第六節一升六十六分升之八下三節容四升第七節一升六十六分升之十五
+  hash: sha256:fbac9455f32316296e78040702165d48eafd7b4f2859faaf29aaa3a0de22ab12
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:2bb2f69854bb3347c5deddb1f5f04967c9328bad71f7e1c4e0af080c5b75571a

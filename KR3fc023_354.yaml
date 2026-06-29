@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/354
+seq: 354
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 錢唐南湖後學吳敬信民編集粟米二百一十二問率數如粟求糲以所求糲率乘為粟率為除又如糲求御以所求御率為乘以糲率為除又如粟求糲粟糲各以分子者令以各分毋通之以上內子仍前例以所求糲率乘粟數為實以粟率數乘四為法除之餘皆做此粟米輕重大小不等故以折變之閣猶乘除方田為題之意粟率五十稻率六十糲率三十糲飰七十五稗米二十七稗飰五十四糳米二十四糳飰四十八御米二十一御飰四十二大䵂五十四小䵂十三半
+  hash: sha256:feda5496f496e10eb8733d3f25afa383b80e9aaab461d0a3797f7e4c03ae995e
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:122c89978159f0cae6b1b86faf77f3cfc0861c0be26d22716a99d16c7b5005d4

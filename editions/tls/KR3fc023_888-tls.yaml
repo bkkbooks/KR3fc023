@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/888
+seq: 888
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四紡訖織成布疋一百八尺曾量兩家分有要明彰莫得些兒偏向右西江月答曰張昌一疋二丈八尺二寸李德三丈八尺二寸法曰各列置衰張昌九斤十二兩李德五斤四兩以斤通兩副併爲法得二百四十兩以織布一百八尺乗未併者張得一千六百八十四丈八尺李得九百七丈二尺各自爲列實以法除之又以疋法四丈二尺約之合問今借人銀一兩年終出利三錢其中九月主任煎盡数歸還步怨七兩三錢半数連本和利斗全問公此法兩根源甚法求之可見右西江月
+  hash: sha256:4eee061d1503fd2d2075c9094c94778453bcc5c4c6d4a31a9af4edd246bbe7db
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:57bd7ff5d847f6465b3f51882247dbe919cdb640bafd7b6a1b3e6c64890d8ef1

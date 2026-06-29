@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/328
+seq: 328
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 步闊八步四面存留各三步半法曰通田二百四十步為實以差一步為從方開平方除之得闊一十五步以除總田得長一十六步又通賣三分得七十二步為實以差一步為從方開平方法除之得闊八步以除七十二步得長九步以減原長闊各餘七步折半得四面各存合問今有方圓田地九畒四分五厘方面圓徑適等如何得見端的答曰方面圓徑各三十六步法曰通田九畒四分五厘得二千二百六十八步於上以方四圓三併之得七除之得三百二十四為一停率以四乘之得一千二百九十六為實以開平方法除之合問
+  hash: sha256:3c1e65258ec9e96ccfb25f3df8f2d7637eb9b57607cf1b2d4f3da0c1313ce29c
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:b7eea658b819d2778a471b66279e2dc3a167aa80ed0680e8a5152ab3cffaca91

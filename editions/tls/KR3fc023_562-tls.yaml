@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/562
+seq: 562
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰米三石七斗法曰置令有小麥六石六斗乗所問芝麻五斗五升得五石二斗八升又以白米三石五斗乗之得一十八石四斗八升爲寶以換芝麻三石乘小麥八斗得二石四斗爲法除之合問客向新街糴米共量八十四石一貫二百七十知石價書依鄉例顧覔小車搬運裝錢三百三十脚言家內秧粮食只據原錢貫米右西江月荅曰客米六十六石六斗七升五合脚米一十七石三斗兩升五合法曰置米八十四石以石價一貫二百七十文乗之得一百六貫六百八十文爲
+  hash: sha256:f0ba61b9a3aa5e397741268763dd9363f712b79c3cf6655f5797179c192b6b20
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:359f635886e8a8d359f45c185636ea8e7cd11ad53feb7731049f5aab6682eda4

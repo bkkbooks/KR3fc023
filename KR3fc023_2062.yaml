@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2062
+seq: 2062
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有人支銀四錢五分又支三錢四分又支三兩五錢問共該幾何荅曰四兩二錢九分法曰置錢九圖用銅錢九箇若遇問分只動分圖上一箇錢至扵千萬皆然先下四尔將銅錢置錢圖異四上又將五分置分圖中五上再加二尔四分將錢圖異四改作兊七外有四分扵分圖內起中五改作離九再加三兩五尔置兩圖下異四却除錢圖內兊七改作坤二共得四兩二尔九分合問今有白米五百七十六石毎石價鈔三貫問該鈔幾何荅曰一千七百二十八貫
+  hash: sha256:cae574a59df967d9dfc63ed69d2d0d720c3dbd4e0cfc4ad26705d5e3d06d0f8c
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a650e3267b0fcdedcecd06c4cc23581174390c5e3e26617f334c766347469e00

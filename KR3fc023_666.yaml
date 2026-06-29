@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/666
+seq: 666
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二千二百五十除之不滿法者以法約之合問絲一斤直二百四十今有有錢一千三百二十八文問買絲幾何答曰五斤八兩十二銖五分銖之四法曰以所有絲一斤以銖法通之得三百八十四銖乘今有錢一千三百二十八文得五十万九千九百五十二為實以所直錢二百四十為法除之得二千一百二十四銖以銖約之得五斤八兩一十一銖餘實一百九十二法實皆四十八約之得五分銖之四合問絲一斤直三百四十五今有絲七兩一十二銖問直錢幾何答曰一百六十一錢三十二分錢之二十三法曰以所有錢二百四十五乘今有絲七兩通一十二銖為五錢得二十五百
+  hash: sha256:1356608dfd46b4bfbfc5cdef047d5da39cfa2091f53c9a5495e4543b7c4d11a9
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:5d80bfa6b00fe4cda9ebebf4f698f4cee567574b9e6a8f3e24b92b660d1506a3

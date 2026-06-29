@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/30
+seq: 30
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言行好古鄊黨樂成因數察理其心孔明賜進士中憲大夫福建汀州知府前禮科都給事中賜一品眼吳興張寧贊
+  hash: sha256:b5d83b08c4e80911ebf85f4e7d0fdc5586c151b2516ba5978db8f90289542b46
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:f94674ed943b69b7f06f900e2d73c1ede79384554562408469a712f6ebce0fe7

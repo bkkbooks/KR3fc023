@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1548
+seq: 1548
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得二斗五升合問持錢之蜀價利十三初返歸一萬四千次返歸一萬三千次返歸一萬二千次返歸一萬一千復返歸一萬九五返歸本利盡問本利各幾何答曰原本三萬四百六十八錢三十七万一千二百九十三分之八万四千八百七十六息二萬九千五百三十一錢三十七万一千二百九十三分之二十八万六千四百一十七法曰假令原本三萬不足一千七百三十八錢五分木三万併得利三万九千除初一万四千除二万五千加利十三得三万二千五百除第二
+  hash: sha256:01f411740ccf76341633a42717471724fc61cfd3ca368efdad28acd8aae776d4
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:2843d344b40edd8a5a61f7496cb2e7206eec3dac45529d214b0f7b43942cfdff

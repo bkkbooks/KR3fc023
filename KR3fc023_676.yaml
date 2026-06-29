@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/676
+seq: 676
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 幾何答曰六錢四分之三法曰以所求今貸七百五十乘歸之九日得六千七百五十以乘所有月息三十得二十万二千五百為實以所有貸錢一貫乘月息三十得三万為法除之得六糸餘實二万二千五百法實皆七千五百約之合問比類八十八問合率差分今有甲乙丙丁戊五人甲出鈔三百八十七貫乙出鈔三百二十三貫丙出鈔二百八十五貫丁出鈔二百六十六貫戊出鈔二百三十九貫販到油一卓共賣到鈔一千八百七十五貫問各得本利幾何
+  hash: sha256:1b00233cca60030c9a1dcfb1714cc95e17e18c427a9e98f003a351610c6a95aa
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:017112060e68743f1fa2072757e033e5b80c7f08aef907aa8044dfa7a6fb5f63

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1074
+seq: 1074
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰六步法曰置徑一十一步自乗得一百四十四步又三乗得四百三十二步於上别置田積七十二步以四乗之得二百八十八步以减上数餘一百四十四步爲實以四爲隅筭開平方法除之合問今有錢田積七十二步只云内方六步問外周幾何答曰三十六步法曰置内方六步自乗得三十六步併入積步七十二步共得一百八步以圓法十二乗之得一千二百九十六步爲實以開平方法除之合問今有錢田積七十二步只云靣徑三步問内方幾何答曰六步
+  hash: sha256:c02283a1639f1b7ebd3c0d5b91ba6eb1a1b430a56dd63cb0339d315747043246
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:b252924e2b13dade0e5bb82cb53a6a70f3090291d26ffe4519559d170ed83336

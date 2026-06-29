@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2066
+seq: 2066
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乹六十四六二十四將乹六改作震三却將次位兊七改作坎一六七四十二將次位震三改作兊七又將下位坎一改作震三兊七百四七二十八將兊七改作震三却將次位兊七改作中五二六一十二將次位震三改作異四又將下位中五改作兊七坤二千二四如八將坤二改作坎一却將次位異四改作坤二今有鈔一千七百二十八貫毎石該鈔三貫問該糶米幾何荅曰五百七十六石法曰置鈔一千七百二十八貫爲實以毎石三貫爲法除之合問艮八貫見九進一十將离九除去却進前位將震三改作乹六合坎定位得六石坤二十三一三十一將坎一改作震三又得次位艮八改作离九
+  hash: sha256:f2aa3a19f7512eeeaff7c8b53ee0f6ff4fca1664f9a047a710a1d05d38f3709a
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:f4aee80f4dd2c49453d6c84969a45664a0adbefcdd822edfa3016d404a56ec33

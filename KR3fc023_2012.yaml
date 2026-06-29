@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2012
+seq: 2012
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二百四十乃二乗方法得二百併入徔方共三百四十俱爲方法一退得三十四下法再退得一續啇置第二位以方法三十四啇餘實得六步下法亦置上啇六爲隅法以方隅二法共四十皆與上啇六除餘實盡得徑一十六步加不及一十四步得下周三十步合問今有方箭積一百四十四隻問外周幾何荅曰四十四隻法曰置積減一得一百四十三隻以方法十六乗之得二千二百八十八隻爲實半方法得八爲徔方開平方法除之於實数之下啇置第一位將徔方一進得八十下法二進得百以啇實
+  hash: sha256:0a987e1cf22c167dffefa4f587e716b9d81a64e2788e2f651d79280b6631e609
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:8063598eff4e192daa68a7f4d42a7da0eed5c2cade9290936b18228027ec67f2

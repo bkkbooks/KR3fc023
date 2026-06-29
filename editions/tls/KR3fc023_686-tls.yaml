@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/686
+seq: 686
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 實以法各除之木滿法法約之合問今有官差夫二百五十名令五區照粮多寡均差甲區粮一千五百七十五石乙區粮一千四百二十五石丙區粮一千三百五十石丁區粮一千一百二十五石戊區粮七百七十五石問各區差夫幾何答曰甲區六十三名乙區五十七名丙區五十四名丁區四十五名戊區三十一名法曰置各區粮數爲粮副併得五千二百五十爲法以所差夫二百五十乗禾併者各曰爲實甲得三十九万三千七百五十七三十五万
+  hash: sha256:dc53fa6bcb6949284c912477bfd1158a8a33d9b8e0095d68ee31307a1308abc0
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:c6c987ee4b01798b4b9d7658fa62e757a50007a79998c3c91f2d8a671f0446ba

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1822
+seq: 1822
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十步爲勾即甲南行十步也卒乙行三步勾弦卒甲行七步相乘得二十一步爲即乙東行十步半也以有卒十步爲法乘求勾二十得二百二十一得二百一十弦二十九得二百九十三卒爲列實以勾卒二十爲法除之得各行合問邑方十里分中開門二人同立邑之中乙出東行卒三甲出南行卒五甲乃斜之磨邑隅角與乙會問各行幾何荅曰甲邑中行一千五百步出南門八百步甲斜之四千八百八十七步半乙東行四千三百一十二步半
+  hash: sha256:c25a4a20999b0e533d35feb275603543f257291f26143acc461e6878cf7813f0
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:48cc41d555341ad8d3593e8cb94784a2dd99534ddf2bbf896d20ddda7b45214e

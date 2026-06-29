@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/506
+seq: 506
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰米一十三石二斗豆二十三石芝麻一十八石九斗七升五合各該價七百五十九貫法曰置米麻二價相乘得二千三百貫得豆二十三石米豆二價相乘得一千八百九十七貫五百文得芝麻一十八石九都七十五合芝豆二價相乘得一千三百二十貫得米一十三石二斗各以石價乘之合問今有綾一百匹羅一百五十匹絹二百匹共賣鈔四萬五千七百五十貫只云綾匹價比羅匹價多二十五貫羅匹價比絹匹價多六十五貫問三色匹價各幾何答曰綾匹價一百五十貫絹匹價六十貫
+  hash: sha256:f565b0c171464b3b495e2234239e067bb2c4a2530128d747fd4553ab4f03af2c
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:af733300f5bcf92c727d980ebfa2e384cfdb714c4d793e9364bf7f77d423d52d

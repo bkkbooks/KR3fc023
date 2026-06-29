@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/444
+seq: 444
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 疋三丈七尺八寸以減緫數餘得綾九十五疋二丈九尺四寸各以尺價乗之見鈔合問今有錢五百七十九文毎文買桃四十一箇若買李三十二箇共買桃李二萬八百五箇問桃李并鈔各該幾何答曰三百二十六文買李一萬四百三十二箇二百五十三文買桃一萬三百七十三箇法曰置錢五百七十九文以桃四十一箇乗之得三万三千七百三十九箇以減桃李二万八百五箇餘二千九百三十四箇爲實以桃四十一箇減李三十二箇餘九箇爲法除之得買李三百二十六文以減原鈔餘得買桃二百五十三文以各價乗之合問
+  hash: sha256:d8b35a7e57cd39d8a7e7b21e6c2dfe23124d68f7254ba7e9279faae42afeccc8
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:182bf5b6feb821cfef8db2aa0b72201c56e10f14a528bc27da8cedf725ab5dff

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1444
+seq: 1444
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十畝見又有九十八頃昨朝遍謁鄉賢四十五具壯黃犍偣問幾朝耕遍右西江月答曰三十五日法曰置有田九十八頃乗借犍四十五具得四千四百一十爲實以原犍九具乗原耕日五日得四十五日又乗耕田二頃八十畝得一百二十丈爲法除之合問鶴起南朝七日飛臨北海波津北溟雁起又南行九日南陽避令鶴雁同時飛起不知何日相侵諸人通筭會縱橫莫要佯推不醒右西江月答曰三日一十六分日之一十五
+  hash: sha256:3b8c7325fcca380bac69c80346a6d28b1771e007579e718d01ebe0178214a07e
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:c5e7da5ac7e60468a6f3dc5d0bbf04cc80c218c064a344083e745d1d800889f6

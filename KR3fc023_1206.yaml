@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1206
+seq: 1206
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丙縣髙三丈袤一丈九尺八寸上廣二丈四尺法曰求篭尾堤髙袤廣置緫人一万以程㓛一尺九寸八分乗之得一万九千八百尺以六因得一十一万八千八百尺於上以少髙一十二尺乗少袤四十八尺得五百七十六尺爲隅置又以少上廣六尺乗之得三千四百五十六尺爲减積一十一万八千八百餘積一十一万五千三百四十四尺以三除之得三万八千四百四十八尺爲實併少髙一丈二尺少袤四丈八尺共六十尺以少廣六尺乗之得三百六十尺以三除之得一百二十尺加入隅羃五百七十六尺共得六百九十六尺爲從方置廣差六尺以三除之得二
+  hash: sha256:8f83d0d508aba28bcf37b643b6d0b836895f2d28be0a0ac132f37b7f812ee37e
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:cd7d4af34003172abfcbd6d2b9a6cb2a42e47f6869f33b0eb7c6a784da85663d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/164
+seq: 164
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 約及畝法而一合問今有圓田徑一十八步周五十四步問爲田幾何荅曰一畝三步法曰徑求積置徑一十八步自乗得三百二十四步以三乗之得九百七十二步以四而一合問周求積置周五十四步自乗得二千九百一十六步以十二而一合問今有圓田徑六步十三分步之十二周二十步四十一分步之三十二問爲田幾何荅曰三十六步法曰徑求積置徑六步以分毋十三通之加分子十二共得九十自乗得八又以分毋十三減分子十二餘一以乗分子亦得十二
+  hash: sha256:3497644b906da952b947c658ebd8afffa959b660b35a199b6544bed3f0d0cf97
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:8a4ab8107582efa223888a9eb4fa8feddb6a28515b0aec451425fc9ce41380c7

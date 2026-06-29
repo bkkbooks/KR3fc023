@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/726
+seq: 726
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乙一十五疋四尺六寸八分七厘五毫丙二十二疋二尺六分二厘五毫丁二十四疋八尺八寸一分二厘五毫戊一十一疋一丈七尺四寸三分七厘五毫法曰置共織絹九十一疋以疋法三丈六尺通之加零五尺二寸五分共得三百二十八丈一尺二寸五分爲實通共絲九十三斤十二兩爲七分五厘爲法除之得三丈五尺乃絲一斤織絹之數以乗各出絲數斤下百兩減六爲分得絹尺以疋法除之合問今有兄第三人共當里長一年約用鈔七百二十貫長兄四丁民田一頭二十八畝次兄三丁民田九十六畝三第
+  hash: sha256:f72fe6c37c22644858f4c42ce2e8c48822b6848f1dda0b21a8233850d829659f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:d880f1e54450ce68a9f2066770b3bcd2620f9d969820a8febfae777df0dac96a

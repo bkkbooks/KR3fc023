@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/968
+seq: 968
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 日一畒廣一步半三分步之一四分步之一五分步之一六分步之一問幾何答曰九十七步四十九分步之四十七法曰列置全步及分毋字照前法列而副併分毋自乘得七百二十以乘全步一分得七百二十分子之一得七百二十以全步積分七百二十通畒步得一十七萬二千八百為實各以本毋除子照前法除併之得一千七百六十四為法除之得九十七步餘實一千六百力十二法實皆三十六約之合問田一畒廣一步半三分步之一四分步之一五分步之一六分步之一七分步之一問幾何答曰九十二步一百二十一分步之六十八法曰列置全步及分毋子照前法列而副併分毋自乘得五千四
+  hash: sha256:cea1e6cd693c288b49b4ec0c602dddf136b0fdea353ada135ed5bca0b2f547ae
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:cf6746d80751a15751f42f4e23aa6340d15dec5fa9e75c69df13ccddf9ad6cb6

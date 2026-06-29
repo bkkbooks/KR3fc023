@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1382
+seq: 1382
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丁府一十縣共運一十八萬二千八百一十二石五斗上三縣每縣二萬三千四百三十七石五斗共七萬三百一十二石五斗中三縣每縣一萬八千七百五十石共五萬六千二百五十石下四縣每縣一萬四千六十二石五斗共五萬六千二百五十石戊府八縣共運七萬五千石上二縣每縣一萬四千六十二石五斗共
+  hash: sha256:13a047ddb628e86b999197ebfab2739de91b5b463037d811f938dca9d44ae05f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:d66da19abdb0222030d35c79496f794e6ab2a3584bceda1d11dfd241ae8cd182

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1930
+seq: 1930
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之得一十二寸加勾一尺股六寸六分七厘共二十八寸六分七厘爲法除之得毬徑四寸六分五厘有奇合問一條小竿三丈三底頭尺二小頭尖有環徑該七寸半徔上放下那處拈荅曰從上至環徑二丈六寸二分半法曰置底頭一尺二寸以減環徑七寸半餘四寸半以乗竿長三丈三尺得一亍四丈八尺五寸爲實以底頭一尺二寸爲法除之得一丈二尺三寸七分五厘以減竿長三丈三尺餘得至環合問一条杆長三十二上尖底徑二尺四九寸環徑徔上安自然至住多少是荅曰二丈法曰置底徑二尺四寸減環徑九寸餘一十五寸以乗杆長三十二寸得
+  hash: sha256:5cab4b6a7486769176e68b3aaa0297bcf4bc31b534e6fa40d39b694b6b0d6afd
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:f3d9ee3269f3a55bf435e52c3f795b17ad299badfae40edf2447a4f04c081a79

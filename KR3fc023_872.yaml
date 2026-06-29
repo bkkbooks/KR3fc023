@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/872
+seq: 872
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰甲二十万乙一十八石四斗丙一十六石八斗丁一十五石二斗戊一十三石六斗己一十二石法曰各列置衰甲五乙四丙三丁二戊一併之得十五石乘均多一石六斗得二十四石以减總粟九十六石餘七十二石為實以六為法除得一十二石為已數遞如一石六斗得各數合問今有銅錢一百三人分豁難完乙不及甲五文錢丙不及乙稍遠然在七分之五何願疊只開言煩公計算莫教倫甚法推之可見右西江月答曰甲四十文乙三十五文丙二十五文
+  hash: sha256:a6e58c9ffb3a00342abb936c6bb2d4509214f58d321fbcab3478cfd48fe88dab
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:d7c6e0507ff6269c2b8128bca636d684da026c8c8291b91255d2bf255161fbee

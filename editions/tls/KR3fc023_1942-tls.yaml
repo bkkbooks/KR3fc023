@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1942
+seq: 1942
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三十五步併長平得和八十五步合問今有直積開方数加和一百零五步四十五步長平差請問三般多少数荅曰長六十步平一十五步和七十五步法曰置加和得積一百五步減差四十五步餘得長六十步減差四十五步餘得平一十五步併長平得和七十五步合問八較三平有四和二百二十八無多吕得當初一畝地和較長平各幾何荅曰長二十步平一十二步和三十二步較八步
+  hash: sha256:253936ec4a83ca47e50c3f7d90f57c23251ca55fd53f5da085ee4837d4159475
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:b81c5d2a3208e781451dc9d118f72e3482cd04b68112196a97b4caa12421fca7

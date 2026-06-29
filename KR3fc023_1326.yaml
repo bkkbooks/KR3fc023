@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1326
+seq: 1326
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百二十傭一日顧一文目輸其縣乙縣三萬四千二百七十二筭粟一石直一千八傭一日顧十文遠七十里丙縣一萬九千三百二十八筭粟一石直一十六傭一日顧五文遠一百四十里丁縣一萬七千七百筭粟一石直一十四傭一日顧五文遠一百七千五里戊縣二萬三千四十筭粟一石直一十二傭一日顧五文遠二百一十里已縣一萬九千一百三十六筭粟一石直一十傭一日顧五文遠二百八十里問各縣該粟幾何荅曰甲縣一萬八千九百四十七石一百三十三分石之四十九
+  hash: sha256:9281a7637aa2236ca9abb1c82839369da2ea43392d0464c78b1e89fc075f9fd3
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:d645e218f1c2adc89b7b66d652fb08a4680b3750a705ca3e063f3b32738bacd7

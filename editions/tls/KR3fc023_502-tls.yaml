@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/502
+seq: 502
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 數各以定率約之合問今有粟豆共六百三十八石粟斗價二百五十文豆斗價一百五十文問粟豆各幾何答曰粟二百三十九石二斗五升豆三百九十八石七斗五升法曰置粟豆六百三十八石乗粟斗價二百五十文得一十五百九十五貫爲實併二價粟二百五十文豆一百五十共四百文爲法除之得豆三百九十八石以緫數餘得粟二百三十九石二斗五升合問
+  hash: sha256:155c97b4bd1106a13d8386fb2aa78d663072461509147470d9d7901323764e20
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:9b7fbe08debe2f53b7da41322f44d86adf4685719478ae9b771c3613840af75a

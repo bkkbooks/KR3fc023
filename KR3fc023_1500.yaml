@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1500
+seq: 1500
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 公多少馬和驢荅曰馬一十四匹支七斗驢一十匹支二斗法曰置馬驢二十四匹每匹支二升共四十九升以减共支九斗餘剩四斗二升爲實以驢支二升减馬支五升餘三升爲法除之得馬一十四匹减総数餘得驢一十匹合問騾行七里馬行九先放騾行七里走次後馬走趕騾行幾里相隨一處有荅曰三士里半法曰置馬行九里以乘騾先行七里得六十三里爲實以騾行七里减马行九里餘二里为法除之合問一輛車兒尺五高推徃西京走一遭徃來行該七百里問
+  hash: sha256:add24f5bc09cbaf665f675db1bf2163fbeb44f5abfbc8b03108a074076ed72f6
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:c45c45beb8e2ce5de77cc64166be399048d345456de1c84996d99f7fac3ef8b9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1868
+seq: 1868
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 池一箇至弦問池方幾何答曰四步法曰置勾六步乗股一十二步得七十二步爲實併勾股共一十八步爲法除之得池方四步合問今有勾股地一叚勾闊八尺股長一十五尺中開一井與二邊適等問井徑幾何答曰六尺法曰置勾八尺乗股一十五尺得一百二十尺倍之得二百四十尺爲實又置勾自乗得六十四尺股自乗得二百二十五尺併得二百八十九尺爲實以開平方法除之得弦一十七尺併勾股共得四十尺爲法除實二百四十尺得井徑六尺合問今有木不知去遠前有一地方一十二丈爲則較之置四
+  hash: sha256:f98a5f0292a56042cb24ce2e6830612aff288e6552e7e8ee77a68f89821ff7be
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:ee92cf9f0674f30b11e5412d4106ae711208d07dd4ee0b3d41ac83b29d02b53e

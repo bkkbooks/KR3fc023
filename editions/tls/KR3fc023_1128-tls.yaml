@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1128
+seq: 1128
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三十六萬寸自乘得一千二百九十六億寸倍之得二千四百九十二億寸每寸得金一斤合問大小方田積共有六千五百二十九方面止差一十七諸人會者先開口答曰大方面六十五步小方面四十八步法曰置積六千五百二十九以減差一十七步自乘得二百八十九餘得六千二百四十爲實倍差一十七步得三十四步爲從方以二爲隅筭開乎方法除之得小方面四十八步加差得大方面合問今有一箇碾槽佔地一厘二毫槽口闊尺五不知內外周遭答曰內周四十三尺半外周五十二尺半
+  hash: sha256:f3535761e9b4cbec29fb646c1cd5a5fd1fbbd73d865c9a99703e1ac1be121cbb
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:af7a534b6d13913fd2d794e6c8ee21675eded18e82adac8efaf8ace7fcb7cec9

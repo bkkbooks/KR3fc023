@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/88
+seq: 88
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以分母三除得一千七百三十步十二分步之一以畆法而一合問圓田周三十步徑一十步爲田幾何荅曰七十五步法曰半周一十五步半徑五步相乗得七十五步合問晥田下周九十九步徑五十一步爲田幾何荅曰五畆六十二步四分步之一法曰置周九十九步徑五十一步相乗得五千四十九歩以四而一得一千二百六十二歩四分歩之一爲實以畆法除之合問晥田下周三十步徑一十六步爲田幾何荅曰一百二十歩法曰置周三十歩徑一十六歩相乗得四百八十歩以四而一合問
+  hash: sha256:58a7b628d4bfb7e9b3cadb1b0d52d96f041dda2663730dc03089d85361df2fef
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:2b6cfaadf239bf026ff3a279e19eb39e814313f45b933ce94d90e6a3fb0550f9

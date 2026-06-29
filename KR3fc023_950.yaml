@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/950
+seq: 950
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 公原本要先知答曰五十斤法曰通絲五得七十五斤為實以月十二為法除之得六十二斤半以息二兩作一二五除之得原本五十斤合問十萬三十短竹做成好筆堪言管三冒五有則不知多少圑圎答曰筆一十九萬三千一百二十五管管用竹六萬四千三百七十五竿冒用竹三萬八千六百二十五竿法曰置竹一十万三千為實併管三冒五共得八為法除之得一万二千八百七十土為一停率以三乘之得冒用竹三万八千六百二十五竿以五乘以管三乘之得
+  hash: sha256:73b918edb242eb4dd6aad0eb64e346d34f09935341d83a186cd3ab0a9f647330
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:8eb4513a27b76b99e054a1e87f319ec17c4e3687cf1e5a8cade5433b3de5399b

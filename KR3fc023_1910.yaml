@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1910
+seq: 1910
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乘得二百五十六尺併之一千一百五十六尺爲實以開平方法除之得索長二十尺合問方邑當中朱戶闡東門路畔誰把墳塔建去門六百步不遠一條直道端如箭出自南門行且健四百八十六步適然見借問方城幾許面有人得真堪羨右鳳樓梧荅曰城方三里法曰餘東門外建塔六百步與餘勾南門行四百八十六步相乘得二十九万一千六百步乃半邑方積四乘得一百一十六万六千四百步爲實以開平方法除之得一千八十步以里步除之得三里合問積加差用和减聽分訴立方開與半廣相適步併零和較
+  hash: sha256:3fd02754f2719d24ad35d7a6502698824eb2c837e831d9dfeb371c1ca3f68096
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:7cfb092de655900dc484e602ae4cfe109607f9a9d61dc9ef9b998c3da0a76fc2

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1176
+seq: 1176
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 積一尺五寸乃三分尺之一以分母三分乗一丈三尺加十一共得四丈以乗前餘一丈五尺得六丈𨚫以分母三除之得接髙二丈合問今有圓䑓一所上周二丈四尺下周三丈六尺髙八尺計積六百八尺欲截下周與上周相等問輳高幾何荅曰一丈二尺六寸三分寸之二法曰置積六百八尺爲實以上周二十四尺自乗得五百七十六尺如圓法十二而一得四十八尺爲法除之得輳高一丈二尺六寸餘實三尺二寸法實俱十六約之得三分寸之二合問今有圓䑓一所上周二丈四尺下周三丈六尺髙八尺計積六百八尺欲截髙輳上周與下周相等問該高幾何
+  hash: sha256:a999f4a95ad74a68e968f27cebc8afaab0c29a2f79085f1ae9d285139f19c3bd
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:915da7bd2b7a210a5deb3ad0a0c5aab79bc1c86b3d17083452e3c7edd9774b3e

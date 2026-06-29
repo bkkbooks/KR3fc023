@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/42
+seq: 42
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二梯田一圭田三半圭田四圓田四環田三二不等田一四不等田一八不等田一箭筈田一箭翎田一丘田一盆田一覆月田一錢田六火塘田一三廣田一抹角田一眉田一牛角田一船田一三角田一六角田一八角田一幞頭田一磬田一曲尺田一鞋底田一苽田一蕭田一蛇田一牆田一鼓田一杖鼓田五錠田四錠腰田六攬核田五碗田一凹田一勾月田一車輞田一
+  hash: sha256:e2c3df6915ec129528f56d47eaf38ae453e49ef9f2c15602b521dc2c0cc432c9
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:d9eda6a9ad13451542a8c068836419bc693539e18354c66613ae3e98097f359e

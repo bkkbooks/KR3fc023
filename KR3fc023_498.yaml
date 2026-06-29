@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/498
+seq: 498
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得七斗共二石五斗以三因之得七石五斗為法除之得麥十七石二斗四升九合四勺倍之得米三十四石四斗九升八合八勺合問今有粟一十九石六斗八合欲為細糙二米每粟一斗春細米五升一合二勺糙米八升須令糙米倍細米問各幾何答曰細米四石四斗三合二勺糙米四石四斗三合二勺法曰置粟一十九石六斗八合以細米率五升一合二勺乘之得一十石三斗九合一勺九抄六為實倍細米以八升除加細米粟一斗共得二十二升八合為法除得細米四石四斗三合二勺倍之得糙米合問今有金銀一百錠直鈔一千七百二貫七百五十文只云
+  hash: sha256:44515795b813b7b7f922bfc531aaa05debc38cf41634a17b14fd1dda9894a4cd
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:0045fc5d7fb96be845ea0be708ce26606624769b236ecabdba26abecc15833ab

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/184
+seq: 184
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三步徑三步問為田幾何答曰五十四步法曰置外周二十七步以四乘三而一得三十六步自乘得一千二百九十六步以三乘四而一得九百七十二步以圓法十二除之得八十一步於上併內方長六步闊三步共九步以徑三步乘之得二十七步以減上數餘五十四步合問今有錢田一角外周九步內方三步問為田幾何答曰一十八步法曰四乘外周九步得三十六步自乘得一千二百九十六步以四而一得三百二十四步以圓法十二除之得二十七步以減內方三步自乘得九步餘得一十八步合問
+  hash: sha256:6aa1ec83e7c6c7fe3efdab65dc37b712f467511ebe27b129670954f6f54677e0
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:ba46745ee9b5671574dd8bb46ab61b1035e854bfdbb113eeb126089b7dfead2b

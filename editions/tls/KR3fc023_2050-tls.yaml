@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2050
+seq: 2050
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置金爲實以毎兩價錢爲法乗之得数亦從寅位上定兩順数法錢卯上得千万辰上得百万已上得十万合問小乗小今有金四厘五毫毎厘價銀五厘五毫問該銀幾何荅曰二分四厘七毫五絲法曰置金爲實以毎厘價銀爲法乗之得数亦從寅位上定實順数卯上得兩辰上得尔已上得分合問大除大今有錢一百四十二億九千四百五十萬文共買金五萬六千五百兩問毎兩該銀幾何荅曰二十六萬三千文法曰置錢爲實以共買金爲法除之得数却從寅位上
+  hash: sha256:4f3492dbadec053231e4ef91d943c57f5c6ea2e011512d7f514c4dc9c4420d33
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:954ed56356de9a66a52b1704a381a8bd620e0364aaf90cad36e96a875863bb2b

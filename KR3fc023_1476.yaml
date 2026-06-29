@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1476
+seq: 1476
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置州裏二千七百里爲實以人十八爲法除之得每人一五十裏以馬七匹乗之得騎馬一千五十裏以減州裏餘得人行一千六百五十裏合問今有某州二千八十四人騎九匹馬每人十裏輪轉騎幾里騎行幾步要答曰人行一千里騎馬一千八百里法曰與前法同大車一輪十八輻小車一輪十六輻數了五十一條軸幹六九十條輻答曰大車一十六輛小車三十五輛法曰置總數五十一條爲實以大車十八二回得三十六乗之得一千八百三十六以減一千六百九十六餘一百四十以大車十八小車十六以少
+  hash: sha256:4df05d64d1ad287380ab27cbc70e79a0157ba8ae72d79d320cae848dee42dd5e
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:91c9351414568809ddd31101a8c969104836ba0edc12dd57aeed489e3c07cbc0

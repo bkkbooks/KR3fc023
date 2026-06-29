@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/120
+seq: 120
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 問田廣七步步縱十五步五為田幾何答曰百二十步九步法曰分毋乘其全分子之置七步以四分三共得三十一十五步九分加分子五一百十相乘百四十乘三十一得四千三百四十為實分毋相乘四分九分得二十分為法實如法而一得一百一十步餘三十六分之二十俱之得九分之五合問問田廣三步二分步之一縱五步五步之為田幾何答曰一十八步法曰分毋各乘其全分子從置三步以三分乘分子一共得一十五步以五分乘加分子二共得二十七相乘一乘二十七此得百七十為實以分毋
+  hash: sha256:19bfc88d4f4a20723a75010b149d4c7fd84ab19ed02d43a35a444bfc9a1548c6
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:fc1d0a513b4424d0476d423fbcf1eb10dc03451d386b083567446586e7c5dd1c

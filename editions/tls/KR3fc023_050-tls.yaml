@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/50
+seq: 50
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乾絲問生問天收粟保錢問日貸錢問息比類八十八問合率差分廿四各分差分十折半差分二互和減半三四六差分三三七差分二二八差分一多石六分一多五差分一多七五分一分母子分八貴賤差分一異乗同除十二因乗歸除五物不知緫八借本還利五詞詩五十九問西江月十六鳳棲梧三寄生草一折桂令一玉樓春一水仙子二鷓鴣天五七言八句二七言六句六七言四句十八六言四句一五言六句二
+  hash: sha256:4a2aefdf6c04779da1d7c26f9ef27e04b1dc1a95e1cc0c6f8546284327719a8e
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:63ad249693ac45f3cba65ea4fb569f72c9947cd8c1d0fb5d79da5d6d8f50920c

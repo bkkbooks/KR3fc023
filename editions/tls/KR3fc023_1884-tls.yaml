@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1884
+seq: 1884
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 髙及前去竿各幾何答曰竿髙三十六丈前表去竿隔水二十五尺法曰置表髙六尺乗表間相去一十五尺得九十尺爲實以二表退行八尺五尺相减餘三尺爲法除之得三十尺加表髙六尺得三十六尺又法置前表退行五尺乗相去一十五尺得七十五尺爲實以二表退行相减餘三尺爲法除之得前表去竿二十五尺合問今有隔水有竿不知其髙立二表各髙一丈前後相去一十五尺從前表退行五尺人目髙四尺望竿與前表末齊平又從後表退行八尺人目髙四尺望竿與後表末齊平問竿髙及前表去竿各幾何
+  hash: sha256:f94cc9405494ea86cb4c348e66ac2c2bc2abe1082fdfcf4725a314d06c3ea433
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:1fa9f7f1ac9b45b86438a72dc4d38115067370333a764bbd3b8f63f2a404ae53

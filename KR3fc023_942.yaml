@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/942
+seq: 942
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 斤三男一百五十斤四男一百三十三斤五男一百一十六斤六男九十九斤七男八十二斤八男六十五斤法曰各列置衰一二三四五六七皆以十七乘之為各人衰副併得四百七十六以减總綿餘五百二十為實以八為法除之得六十五為第八子數遞加十七得各子數合問遠望鬼嵬塔七層紅光點點倍加增共燈三百八十一請問尖頭幾碗燈答曰三碗
+  hash: sha256:cee39b5ec91fba1cb610d82ecdd24ffe81e1c2b861f79c40b9ff2238f58a5087
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:fd15e1193c083d1f420a80943b0410992b7831b2b312185a4bdb37aa1f1c8075

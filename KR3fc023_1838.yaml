@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1838
+seq: 1838
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰以容積爲實山去木五十三里以一里得一千五百尺通之得七万九千五百尺以人目七尺减木高九十五尺餘八十八尺相乘得六百九十九万六千尺爲實以
+  hash: sha256:1c77b93169a3d7c3623a112d21c51ecdf35f8b3e0d93dd86762553264c97c32a
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:928443b6c0c1630d3b915868d06a229cda41dd3b66ac746acc9769747ffe41c7

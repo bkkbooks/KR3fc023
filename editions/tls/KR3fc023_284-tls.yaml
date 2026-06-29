@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/284
+seq: 284
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 先生一晌右西江月荅曰截長一百二十步截闊三十六步法曰置截田九畝以畝步二百四十步通之得二千一百六十步以直長一百八十步乗之得三十八万八千八百步却以半闊二十七步除之得一万四千四百步爲實以開平方法除之得截長一百二十步求截闊以闊五十四步乗截長一百二十步得六千四百八十步爲實却以原長一百八十步爲法除之得闊合問今有圭田一叚相期乙買啇量一百八十正中長五十四南廣截積一十一畝二分半數休忘有人筭得是高興得臨時謙讓右西江月
+  hash: sha256:bd0257dfd3ef951bd69d0b973e9a76476aa4b0003f1d876181f87f1643e6c492
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:845d1d52618e9ca73f668822e0649ad2cd15d122ee93dfd5cbced68bc046e208

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1924
+seq: 1924
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得二十三步四厘以開平方法除之得圓徑四步八分以五尺乘之得二十四尺折半得勾一十二尺自乘得一百四十四尺杆子一十六尺自乘得二百五十六尺併之得四百尺爲實以開平方法除之得索長二合問村南地面一株桑樹上搭索鎖腔羊踐了一畝八分地不知索有幾多長荅曰索長六十尺法曰通地一畝八分得四百三十一步以四因而一得五百七六步爲實以開平方法除之得徑二十四步以五尺乘之得一百二十尺折半得索長六十尺合問五尺瓦盆口口中恰着一方斗斗角四繋依盆借
+  hash: sha256:e26cc3870c5ec403eb478086069a4d5f48fb561caf31f4a4aaf63ad49b36ec2b
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:91cd776a6ab083d2812ab2ff70b3da6ac2253726dd03c6980d82cbda3ef6e8f1

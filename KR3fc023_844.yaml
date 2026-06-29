@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/844
+seq: 844
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有貸錢七百五十文於九日歸之得息六錢四分尓之問貸錢一貫該月息幾何答曰三十文法曰以所有貸錢七百五十乘歸之九日得六千七百五十又票所求一月三十日得二十万二千五百以原分毋四通得八十一万為實以所有息錢六小以分毋四通之加分子三共得二十七乘貸錢一貫得二万七千為法除之合問今有乾麵三斤得濕麵四斤却有乾麵九斤十二兩問得濕麵幾何答曰一十三斤法曰置乾麵九斤通十二兩作七五以乘濕麵四斤得三十九斤為實以乾麵三斤為法除之合問今有濕麵四斤該乾麵三斤却有濕麵二十六斤該乾麵
+  hash: sha256:89476a461612bb9ce9fc179572ca15de58148fa84f82c1f1ca30b8999310ed7f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:dbbd2cdd005ff5cb7dbc277f80c374bfc5cafc408600ab0ae8485d6d5bfe8b4b

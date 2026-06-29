@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1914
+seq: 1914
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 長空中住穩喜量得上下相應七百六十尺無零試問先生會縱橫甚法推之多少爲平左折挂令荅曰五百七十尺法曰弦求勾也以繩長九百五十尺自乘得九十万二千五百尺爲弦繩頭量至風箏上下相應七百六十尺自乘得五十七万七千六百尺爲以减弦餘得三十二万四千九百尺爲實以開平方法除之得勾五百七十尺合問村南一叚地四方忘了賣時曾打量中心立竿二百尺杆頭索兒徹四傍繩端垂地餘五十有人筭得是高強方面幾何地多少可把佳名到楊
+  hash: sha256:003b38f3fbd6dbf3e579a6be23dba24298d358da3f90efc8d330f90d050bc08f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:9b52cfcdcd03f16f4c9d39e7cd71e638839a01085f3586efb82099713eb7fde7

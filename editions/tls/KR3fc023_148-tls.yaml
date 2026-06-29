@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/148
+seq: 148
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得百八十步爲實以畆法除之合問今有梯田南闊二十二步北闊五十步長九十四步問爲田幾何荅曰一十四畆一分法曰併二闊得七十二步以乗長九十四步得六千七百六十八步折半得三千三百八十四步爲實以畆法除之合問今有梯田南闊二十四步七分步之五北闊三十六步長四十步問爲田幾何荅曰五畆一十七步七分步之一法曰置南闊二十四步以分毋七通之加分子六共得一百七十四又置北闊二十六步以南闊分毋七通之得二百五十二併二闊共四百二十六又置長四十步以南闊分毋七通之得二百八十以乗
+  hash: sha256:fae2f9bff642ca64a22be9445dfa7fd5cb6dd8980654584b14d6e43661953b90
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:d6e621dfe39054ec3dc7ff9fecf35ff345963124c182fb36550c2489c2ca088b

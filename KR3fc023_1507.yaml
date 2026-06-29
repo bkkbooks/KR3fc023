@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1507
+seq: 1507
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 錢唐南湖後學吳敬信民編集盈不足計六十四問法曰置出率盈與不足各居其下出率盈率出率不足以盈不足令維乘維乘即互乘出率各人出数併以爲實併已聚出率併盈不足爲法實如法而一出率爲實盈爲法有分者通之有分者通無分不用盈不足相與同其物者盈不足爲物率同列其位也置位出率人数盈率出率人数不足所出率以少减多副相减餘以約法預爲約法求源物價爲實人数爲法其一法曰併盈不足爲實以所出率以少减多餘数爲
+  hash: sha256:33aecc746abc8af5f2d9a8869a21761d0eeaf2a8e7ea3f48f25ae37eb4ead44b
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:cde6905e62a2203443988715b196bdfa8c61fa224369a54c006cbe06cec71433

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1220
+seq: 1220
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有開渠長一百六十里上廣八丈下廣五丈深三丈二尺今已開渠二丈四尺問下廣幾何答曰五丈七尺五寸法曰置上廣八丈减下廣五丈餘二十尺乗已開深二十四尺得七百二十尺却以原深三十尺除之得二十二尺五寸與上廣八丈相减餘五丈七尺五寸合問今有穿渠一百六十里上廣八丈下廣五丈深三丈二尺每人一日自穿運一百二十尺計用人夫三十三萬二千八百人限半箇月開畢今只有夫二十萬八千人問積及幾日工畢
+  hash: sha256:f601f445889c5c8e0d97c80a2b19a9459ee9bf51ee4cd9a8826d19a9ab5f08c8
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:47a24f739251498915493bd7c1fd3131ce0970fa20197cf261816a51d830dd07

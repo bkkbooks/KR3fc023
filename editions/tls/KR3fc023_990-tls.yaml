@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/990
+seq: 990
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三位以廉法五百二十啇寶八得下法亦置上啇八爲隅法以廉隅二法共五百二十八皆與上啇八除寶畫合問積二萬五千二百八十一步問平方一面幾何答曰一日五十九步法曰置積一万五千二百八十一步爲寶別置一筭爲下法從末常超一位約寶上啇置第一位得百下法亦置上啇一百進二位得万名曰方法與上啇除寶一万餘寶一万五千二百八十一乃二乘方法得二万爲廉法一退得二千下法再退得百於上啇之次續啇置第二位以廉法二千啇寶得五十下法之上亦置上啇五十進二位得九百爲隅法以廉
+  hash: sha256:e1f8d05c281897611aa9e04dc3dfd56ec0f1ffabd97c52f75df2e08ad5b39b6e
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:996a17b225bff424b46e5e13e12fc4c12f3048a7662b876a252bbb82afa940fb

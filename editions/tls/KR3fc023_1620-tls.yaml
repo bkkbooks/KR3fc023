@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1620
+seq: 1620
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之所謂正者正数也負者欠数也使學者參題取用依法布筭古問一十八問上禾三束中禾二束下禾一束共米三十九斗上禾二束中禾三束下禾一束共米三十四斗上禾一束中禾二束下禾三束共米二十六斗問上中下禾一束各米幾何荅曰上禾一束得九斗四分斗之一中禾一束得四斗四分斗之一下禾一束得二斗四分斗之三法曰此問銀物隱互其實問三禾之数欲分其實當求出工中十个各見一位之数如啇除之法
+  hash: sha256:fc9b0dd2915c3cbe652e70e7e6520b966607d16d7d9244088d6f22f00853fce7
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:e9aa33c42f3e8580a7dd30ca79b5143174ac06fee850afaac4e6d17ad05d92e3

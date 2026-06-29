@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1894
+seq: 1894
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰勾離根三尺自乗得九尺如股弦和竹髙一丈而一得九寸以减股弦和竹髙一丈餘九尺一寸折半得竹未折髙四尺五寸半合問今有廳門一座不知門廣高低長竿橫握使歸室爭奈門狹四尺隨即豎竿過去亦長二尺無疑兩隅斜去恰方齊三色各該有幾右西江月答曰門髙八尺廣六尺竿長一丈法曰勾弦較橫狹四尺股弦較豎不出二尺相乗得八尺倍之得一十六尺爲弦和較積以開平方法除之得四尺加股弦較二尺得六尺爲勾即門廣仍以弦和較四尺加勾弦較四尺共得八尺爲股
+  hash: sha256:c6ac615969ed5d0677d2c8f20ed7ee22a9864cff860b69651c31a3c5b18c149c
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a81398cb71e5099b355cc22c09303d3b866c09eab51b9de093a1a78d06ae7a19

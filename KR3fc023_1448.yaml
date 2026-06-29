@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1448
+seq: 1448
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 要見原持試問石西江月答曰十二稱三斤法曰置共稅香二百七十四斤以所稅九分八分相乗得七十二分乗之得一萬九千七百二十八爲實以稅九分稅一餘八八分稅一餘七相乗得五十六減所稅相乗七十二餘一十六爲法除之合問一匠專功爲羽五十儘自終朝一日爲筸逞功勞日晚三十方了一匠專功爲筈朝昏十五無饒欲令獨造俲前條日造矢成多少答曰八矢少半矢法曰置所造矢䓍三十羽五七十爲分毋以匠一人一人爲分子以毋互乗子一人乗二十又乗五十得一千五百一人乗三十又乗一十五的四百
+  hash: sha256:63ef951a7603b3373e3192e39ba0ac8a43adfef135f469ecdf647ae7a7ce56a0
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:7b4554f7cd07da8caa295bc1037396d92fcf7faceb583e5d8d5d7cc8f2cff29b

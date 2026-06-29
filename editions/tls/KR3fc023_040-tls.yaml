@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/40
+seq: 40
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 堆垜四修藥六方田卷第一計二百一十四問古問四十一問直田二里田二圭田二斜田二箕田二圓天三晥田一弧田二環田二約分三合分二課分五平分二乗分六除分二比類一百一十五問直田十方田三里田一勾股田三梭田一半梭田一梯田四半梯田一
+  hash: sha256:132d7c03bbedd87b79bd0b47c2827ee773d6337933a92dd54b7c42782a3e0dcf
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:ac47ec189796513664d17b43b70db26aadc445bc613729bca6b64597fc81d032

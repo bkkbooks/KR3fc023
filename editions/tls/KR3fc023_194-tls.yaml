@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/194
+seq: 194
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歩以一面一十四歩自乗得一百九十六歩以減實五十六歩餘九百六十步步爲實以畒法除之得四畒合問今有幞頭田東長六十歩南闊一十八歩西長二十七歩又南闊一十五歩問爲田幾何荅曰六畒一分八厘七毫五絲法曰置東長六十歩乗南闊一十八歩得一千八十歩又列西長二十七歩乗又南闊一十五歩得四百五歩併之得一千四百八十五以畒法而合問今有磬田內曲一十四歩外曲二十二歩兩頭各闊四歩問爲田幾何荅曰七十二歩
+  hash: sha256:931228af430b9594a145722c031acf47e2e4dd14f2fd1a29b0d06b1469b90ab1
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:26c754bbd43bba12676252ee9576a5daab79f4c3903bc86bd7397be75bff4718

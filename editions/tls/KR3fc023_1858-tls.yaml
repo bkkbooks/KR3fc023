@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1858
+seq: 1858
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弦各幾何答曰勾七十步股二百四十步弦二百五十步法曰置相乗得六万步爲以相差一十步爲從方開平方法除之得股長二百四十步加差一十步得弦長二百五十步置股弦各乗相减餘四千九百步爲實以開平方法除之得勾闊七十步合問今有勾股田積三千九百七十六步只云勾不及股八十六步問勾股各幾何答曰勾闊五十六步股長一百四十二步法曰二乗田積得七千九百五十二步爲實以不及八十六步爲從方
+  hash: sha256:f2741787f4a49b18513bd9af876b593673e4b6637aab01b432356f3cb3e8d489
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:2dcce25be753584253822c5dc5009acc715c3081695a3c8233ededbfc9fd80fc

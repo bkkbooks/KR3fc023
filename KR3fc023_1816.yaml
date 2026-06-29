@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1816
+seq: 1816
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 万寸勾弦較戶高多光六十八步折半得三十四寸自乘得一千一百五十六寸倍之得二千三百一十二寸以减積一万寸餘七千六百八十八寸折半得三千八百四十四寸開方除之得弦六十二寸以减半較三十四寸餘二十八寸爲勾即戶廣加較六十八寸其得九十六寸爲戶高合問邑方不云大小各中開門此門外二十步有木出南門十四步折而西行一千七百七十五步木紋邑方幾何
+  hash: sha256:ac443433c95010dee63797303b5de921654f0321badb71fdaaf87a933149057c
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:ce7d13b84ccc272fa3a0a4488df39a3e26c58234a62e128298ec8781ab47c1bc

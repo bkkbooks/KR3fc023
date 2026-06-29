@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/556
+seq: 556
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置鐵一百一十四斤以斤法十六通之加零十五兩六錢四分六厘二毫共得一千八百三十九兩六錢四分六厘二毫爲實以煉熟鐵七斤再自乗得三百四十三斤爲法除之得五千三百六十二兩四錢以斤法除之合問詩詞六十三問物斛市中價例牙人開説各般小麥八百七十言細米整該一貫五百五十買粟七百八十糴豌三十九貫四百全各物俱停怎筭右西江月答曰各得一十二石三斗一升二合五勺法曰置鈔三十九貫四百文爲寶併各價小麥八百七十文米一貫粟五百五十文豌七百八十文共三貫二百文爲法除之合問
+  hash: sha256:50e8338dbdc6a9a04c89b9f12e080dad63e399067e9b19aaddd9b6a0d6ae5772
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:ba5d6010455c6b9962e6157d564bd66968f35c45fbcd3d0d6ce9bbde58bf249e

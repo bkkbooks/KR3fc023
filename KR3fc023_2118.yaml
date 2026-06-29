@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2118
+seq: 2118
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之則為小勾至塔頂之積縱橫之恰同是變勾以為股因橫而得縱者也勾股弦三者有一可知則立表之法可得而用若其高與遠之數皆不可知而但目力可及如隔海望山之類則勾股弦三者無一可知而立表之法又窮矣扵是有重表之法盖両表相去幾何為影差者幾何因其差以求勾股亦可得矣立表者以通勾股之窮也重表者以通一表之窮也其實重表一表也一表勾股也無二法也
+  hash: sha256:44fbde4355b5c32e6cea79c90b48f41cdce95f432fd36b980259993d0967c49f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:31a7806ddce2102ffca1bdb6de7e5aa15242a8c1c9df5fdcc0def5def5faf057

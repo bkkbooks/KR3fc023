@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2088
+seq: 2088
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 位二十內增四作六七六八十四將八位作六內增二作八更扵九位三文內增四作七見七進一十除九位作七尽却進前八位作八內增一合定作九厘合問今有鈔一萬二千九十八貫七百六十一文五分買絹三百五十疋問毎疋該鈔幾何荅曰三十四貫五百六十七文八分九厘
+  hash: sha256:516fc2b0823a1ff3b2f7286b025125d689dc62c5015ba8dbeac58e3492a45b24
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:5e2d222329a9fe5aa92b6bce75a47f8b36dd10e5c7944c7cec09bae6f3605f53

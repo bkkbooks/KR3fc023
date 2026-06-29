@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1824
+seq: 1824
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰勾弦和卒甲行五自乘得二十五卒乙行三自乘得九併得三十四折半得十七爲弦卒以和卒乙三相乘得十五爲卒弦卒十七減和幕二十五餘八即勾卒鐵有卒数却未見真数當以五换求之半邑方一千五百步係小直数以勾卒八乘得一万二千步爲却以股卒十五爲法除之得八百步南門外小勾之数加半邑方一千五百步共得二千三百步爲大勾之数邑出
+  hash: sha256:ef5f4ccbf0fd5b369c00c0e63081bcc71dfd6d2ab07d1786dfe444a57376c9fd
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:33abfd63a60546ccbe733b81c4a9ad582825096fb903eb2d43a06fb311b39d88

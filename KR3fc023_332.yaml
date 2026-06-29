@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/332
+seq: 332
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 厘以畒法而一得一畒四分八厘四毫三絲七忽五微一今依圖截作三假算一假直田長二十四步以闊八步乘之得一百九十二步一假勾股田股長二十四步乘勾闊七步得一百六十八步折半得八十四步一假勾股田股長一十五步乘勾闊八步得一百二十步折半得六十步併三位共得三百三十六步為實以畒法而一得一畒四分合問今有環田積二畒五十五步是零多徑比二周皆不及中周八十七步過外周一百一十七中外周徑各幾何答曰中周九十二步外周一百二十二步徑五步
+  hash: sha256:59f6e98b730ce5d6a5e3c4deca1d0777fa9bbd9200bb07b0b9c46136fd4574e7
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:1c98fcb628ab263b80178d5ecc2dbd1b44212af7bf867c8bdd0f99d54e139b96

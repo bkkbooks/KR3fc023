@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/246
+seq: 246
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有甲出錢二貫七分貫之五乙出錢一貫六分貫之一丙出錢一貫十九分貫之十一問合之得幾何答曰五貫法曰置甲錢一貫以分母七通之加分子五共得一十九又置乙錢一貫以分母六分通之加分子一共得七又置丙錢一貫以分母十九通之加分子十一共得二十甲乙丙相乘甲十九乘乙七得一百三十三以乘得三十共得三千九百九十為實以三分相乘七分乘六分得四十二分又乘一十九分共得七百九十八為法除之合問課分今有錢五貫四百五十八文五分文之二減去錢四貫三百六十三文二分文之一問尚餘幾何
+  hash: sha256:c57e276db7fbbc07ce7065c0ddadcbcb3c6b6cd57e0ca0163f68847aee406b3c
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:07cf24d3a8aad8e2786b91275a262aca4906519f95f004b2ad51260c0afec1bc

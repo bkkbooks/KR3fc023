@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1144
+seq: 1144
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 幾何答曰七千一百一十二尺法曰併上下廣半之得一十四尺以髙四尺乗之得五十六尺又以袤一百二十七尺乗之合問溝上廣一丈五尺下廣一丈深五尺袤七丈問爲積幾何答曰四千三百七十五尺法曰併上下廣半之得一十二尺五寸以深五尺乗之得六十二尺五寸又以袤七十尺乗之合問壍上廣一丈六尺三寸下廣一丈深六尺三寸袤一十三丈二尺一寸問爲積幾何答曰一萬九百四十三尺八寸二分四厘五毫
+  hash: sha256:49113b3579f86efe5e3368fdedf1f3cf5c906c6328990650ff454a0880a7f5fd
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:09ec9b4772dcdba7a55b1ecc705347bc5e0c18cfa5645e7168ced9686d1a64ef

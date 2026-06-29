@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1298
+seq: 1298
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 多三尺今要依数置造方闊高低聞公能筭必先知此法如何辨取右西江月答曰倉方一丈高九尺法曰置米五百一十八百四斗以斛法二尺五寸乘之得一千二百九十六尺爲實以多三尺自乘得九尺爲從方倍多三得六尺爲從廉以一爲隅筭開立方法除之利市九尺加二尺得倉方合問今有秋粮白米四百四十一石更加六斗共堆積停聚外角倚壁高比下周缺少計該一丈三尺煩公推筭問端的要見高周各幾右江西月答曰高二丈三尺下周三丈六尺
+  hash: sha256:d5e99574f6629cb59d6699cd9bbfdea59e254d45a2e492147fc0342e40b07146
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:8fcc80f1db866c475158b6dfc53479cebda481b16eac4d378b171e2bbd91d240

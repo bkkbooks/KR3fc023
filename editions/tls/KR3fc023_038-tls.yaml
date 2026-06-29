@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/38
+seq: 38
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 因法一乗法一歸法一歸除法一加法一减法一冩筭因法一乗法三加法一歸法一歸除法二减法一乗除易會筭訣乗法一歸除法一約分二乗分四除分四開平方法一代開平方一百面成數開立方法一代開立方一百面成数田畒四積歩爲畒法起畒見步法端疋四斤秤八十三兩求斤法斤秤兩銖筭法兵乗同除三就物抽分二差分二買賤差分二等椎男女一占病法一盤量
+  hash: sha256:209f93a39cc6035145978ae9a1f5818877701637f850538631538105287de5b3
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:cb5c5483814ff34ce631d81f9d16765b428c370c57e7cf502b70881afec07957

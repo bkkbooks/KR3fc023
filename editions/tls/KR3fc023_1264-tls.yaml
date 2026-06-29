@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1264
+seq: 1264
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有屋盖垜下廣八箇長九箇高八箇問積幾何答曰三百二十四箇法曰置下廣八箇與長九箇相乘得七十二箇以高八加一箇得九箇乘之得六百四十八箇如二而一合問今有平尖草一垜底子三十五箇問積幾何答曰六百三十箇法曰置底子三十五箇張二位一位增一箇三十箇相乘得一千二百六十箇折半合問今有瓦不知數只云三十四片作一堆剩五片若三十六作一堆剩七片問該瓦幾何
+  hash: sha256:f9f6ef0812340ffe5143e229a61379dddcf4c11db5f51156b3db6a8a3c002844
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:127ce938e019651f58226046bd6d30e87fbabf88ae39a3a04f943132b532a3de

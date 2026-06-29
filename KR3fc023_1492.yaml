@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1492
+seq: 1492
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雞兎同籠不知数上数有六十箇却向下頭細意数一百六十八双脚荅曰雞三十六雙兎二十四箇法曰置頭六十以兎四乘之得二四十却减腳一五六十八餘七十爲實以兎腳四减雞腳二餘二爲法除之得雞三十六减総頭六十餘得兎二十四个合問四腳碾子三腳樓一群八十四雙牛趕了一出恰輥遍幾多樓碾得相投荅曰楼四十八雙碾三十六雙法曰置牛八寸四雙以碾四楼三腳相乘得一十二乘之得一千八爲實併碾四楼三共得七爲法除之得一百四十四以三四除之得楼四十八以四腳除之得碾三十六十合問
+  hash: sha256:b12b6ba18db4f98f007b12ec8990dda3d414011dfa1dbac57e3beceb98bb3ea9
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a9eae300382a10f689f9efff6cfc5a3ece26251b3f7328101bca25497096fd64

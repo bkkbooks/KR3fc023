@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1110
+seq: 1110
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雲准糯米就要做酒每石要工食鈔三貫爲無鈔還亦將糯米准還只記得准到工食鈔折糯米一斗二升五合四勺二抄四撮要問糯米總數及價鈔並船腳工食鈔並各准糯米數共幾何答曰糯米四千三百五十五石每石價鈔五十貫船鈔一千三百六貫五百文該准糯米二十六石一斗三升挑腳鈔一百四貫五百一十文該准糯米二石九升四勺做酒工食鈔六貫二百七十一文二分該
+  hash: sha256:2d126da73acd030d9258ad8f71e0e87e15f96cc87c25677dce85d47be79dcfa5
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:85750cc24921cabb35556e03b29484f2989d8e9ec6cd5909953c7f6d9a06e0e9

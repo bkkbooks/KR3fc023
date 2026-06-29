@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/780
+seq: 780
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有鈔二百四十貫令四人從上作互和减半分之只云甲多丁鈔一十八貫問各該鈔幾何答曰甲六十九貫乙六十三貫丙五十七貫丁五十一貫法曰置鈔二百四十貫爲實以例用鈔二百四百六百八百倂得一貫爲法除之得一百二十貫乃甲丁二人共数於內减甲多一十八貫餘一百二貫折半得丁鈔五十一貫加多一十八貫得甲鈔六十九貫惟乙丙之数不可倂折得之却以題內甲多一十八貫以三除得六貫加入丁鈔五十一貫得丙鈔五十七貫又加六貫得乙鈔六十三貫合問
+  hash: sha256:68ece56931b66e21e7a26a244cd3ffb8001d18779f2b18f7c79ae7e1f1104607
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a2de5b4c989fcb182aa0371f750f80e6acc8cbad84c37ebefcb69b36421c448b

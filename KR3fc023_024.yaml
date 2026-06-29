@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/24
+seq: 24
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 毀于鄰烻而十存其六焉翁之長嗣怡庵庱士歎惜彌深輒命其季子名訥字仲敏而號循善者重加編較而印行之以上繼其父祖之素志又何其厚也然則披閲斯集而攻乎算藝者可不深念夫吳氏諸良更涉三世而其立心制衍一掃于忠厚有如是焉而必圖所以參
+  hash: sha256:0182ba7b2a605e3cc2d6ebda32c2f47be16d5f22a3bf4880c104d616b4f3cf59
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:8c77712933aa452d386747c23e4da546acbe16bbeb110f68694266711e725d49

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1509
+seq: 1509
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法寶如法而一得人数位無互乘以術求人数以所出率乘之乘人数减盈增不足即物價也觲以盈乘出率爲是餘盈馬毋出率爲子互乘齊其数也或向列出率而有孫湘今不以出率乘盈而以盈乘出率者何議曰上下相乘其理剩一欲存盈併爲人数故以盈而乘出率此之謂也又同併盈爲人数者何議曰盈数爲毋已乘出率数爲母亦乘出率二子併而盈此二者亦有之爲人此作注之意乎古問二十問共實物人出八文盈三文人出七文不足四文問人数物價各幾何荅曰七人物價五十三注曰以盈不足盈三十不足令筆乘出率盈三乘出七得二十一不足四
+  hash: sha256:24a484e2a0995acdaf55ccca31af5a6c6e76b1bab233468b710ebcc9b14cf278
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:65a8437bbb0e5be0ab8928b8bf0b1b96c2d0b2f73f3c21f88ed05e20411face7

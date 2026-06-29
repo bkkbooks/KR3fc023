@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/614
+seq: 614
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 石三斗五升五雖然六米與粟同米黍不知各幾許答曰米變黍一石六斗三升七合五勺米一石七斗一升七合五勺法曰置黍四石五斗以米率六乘之得二石六斗以减簸去糠三石三斗五升五合餘六斗五升五合為實以米率六减黍一斗餘四升為法除之得未變黍一石六斗三升七合五勺以减簸去糠三石三斗五升五合餘得米一石七斗一升七合五勺合問錢千三三十二欲白米來向市每斗牙錢該二文於該果五升米就算貼面一文錢米價不知多少是答曰米一百八斗斗價七十四文
+  hash: sha256:8662940e7d442d2ef5dd06a1a5615a1b00e11999dc8171b74ea0411ae568d900
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:3702e8264ab676bdbdaa5a6b13336b59add0ebceaa6142cb9bdb4c008c3bedea

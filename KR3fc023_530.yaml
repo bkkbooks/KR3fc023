@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/530
+seq: 530
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 息錢一百五十三貫六百六十七文九分六厘八毫七絲五忽布一百八十二匹三尺原本錢五十八貫二百八十文今賣錢一百三十四貫七百七十二文五分息錢七十六貫四百九十二文五分麻二百九十一稱六斤原本錢九十一貫六十二文五分今賣錢二百四十四貫七百七十六文息錢一百五十三貫七百一十三文五分
+  hash: sha256:723a6360fe8c02dc3440bab1652ab0b9a9fa23dcb44b1839087ead03dc10098e
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:b7989cc4e2d9f563a4da1a019a230dfdc52cff9ec367d315d2dd0adbc89135c7

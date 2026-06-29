@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2004
+seq: 2004
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 續啇置第二位以方法五千六百二十啇餘實得八十下法亦置上啇得八百爲隅法以方隅二法共六千四百二十皆與上啇八除餘實五万一千三百六十仍餘實七百二十三乃二乗隅法得一千六百併入徔方共七千二百二十爲方法一退得七百二十二下法再退得一再啇置第三位以方法七百二十二啇餘實得一步下法亦置上啇一爲隅法以方隅二法共七百二十三皆與上啇一除餘實盡得周一百八十一步以三除之得徑六十步三分步之一合問今有環田積六畝九十六步只云徑不及外周一百二十八步又不及內周三十二問內外周徑各幾何
+  hash: sha256:9ac4bed06dad907c6da0a6b520fb5f39e592b5f6458ce4092c7e0e3dcd5a6b1e
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:1583456aa70033062dcb03d9ea7e8cf885a6895ac9869b222fb9ca9283adfa50

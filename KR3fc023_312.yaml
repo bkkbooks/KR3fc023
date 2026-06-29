@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/312
+seq: 312
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰通田一畒得二百四十步為實半相併一百六十步得八十步為法除之得徑三步以三因得九步以減半併八十步每七十一步為內周以減總步一百六十步餘得外周八十九步合問三十八萬四千步正長端的無差誤六絲二忽五微闊不知共該多少畒答曰一畒法曰置長三十八万四千步為實以闊六絲二忽五微為法乘之合問直田一畒無零字不知長闊如何是長中減二約分了平步恰當三分二答曰長二十步闊一十二步法曰通田一四得二百四十步以長減二十餘該長三分平二分長一十八步加二步共二十步以除總步得一十二步乃三分二合問
+  hash: sha256:37daea91c3e59d35ca7d31021b62b4136882c71aac5e08d3b198997f82dffd58
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:b85820ea3003539e900f20cdbfdbf09cc7b0b2e6db9222efdadb000f5ef87f09

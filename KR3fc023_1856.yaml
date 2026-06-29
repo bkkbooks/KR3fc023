@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1856
+seq: 1856
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 開平方法除之得弦長合問今有勾股田用繩量之兩角斜弦適等量股餘剩五步呂云勾闊六十五步問股弦各幾何荅曰股四百二十步弦四百二十五步法曰置勾六十五步自乘得四千二百二十五步又餘五步自乘得二十五步二位相减餘四千二百步爲實又倍餘五步得一十步爲法除之得股長四百二十步自乘得一十七万六千四百步併入勾四千二百二十五步共得一十八万六百二十八爲實以開平方除之得弦長四万二十五步合問今有股弦相乘得萬步只云股弦相差一十步問勾股
+  hash: sha256:d6637b115a5461c94d4b7cbcdffa4d03b30bf62b4b7cbedb365457dd151a3f8f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:23aaddfdea71e2fb00764d86ccc641dfcc9fb4ca1484dd631a65b2b1aa2a6bf3

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1114
+seq: 1114
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方面各該幾許右西江月答曰大方面八十四步中方面六十八步小方面五十二步較面一十六步法曰置積一萬四千三百八十四步於上以方方較等約之各得較一十六步大方面多小方面三十二步自乘得一千二十四中方面多小方面一十六步自乘得二百五十六各減上數餘一萬三千一百四步爲實置大多三十二中多一十六共四十八倍之得九十六爲從方以三爲隅筭開平方法除之得小方面五十二步各加較一十六步得數合問今有直田一叚不知長闊根源都來二十亩
+  hash: sha256:2acbb85eac98c350b0e05064dfd175f0d2a5a8530ec5a4ae879001cf672a4e18
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:fa11e7a03539e318c972418f32f28d046d5d7dfaecad070047bf4f40513a2d54

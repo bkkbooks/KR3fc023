@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1936
+seq: 1936
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 斜倚墻齊放一木木去墻根六尺六今東立木放墻邊却比墻頭高尺五荅曰墻高一丈三尺七寸七分木長一丈五尺二寸七分法曰置木去墻六尺六寸如勾自乗得四百三十五尺六寸比墻高一尺五寸如股弦較爲法除之得二十九尺四分以減較一尺五寸餘得二十七尺五寸四分折半得墻高一丈三尺七寸七分加較一尺五寸得木長一丈五尺二寸七分合問直積內減平自乗八百七十五無零五較七平数適等不知和較與長平荅曰長六十步平二十五步
+  hash: sha256:199dd66a9b9ac6c21b15b83d5b6f51c8a627fdde890c5e4c1f12e25b0fa9a4b9
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:73c938ea7c80d657b9b07685e2d0365f495ece89d79de6d8f7a4b24fe2a0b6fb

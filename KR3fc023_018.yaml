@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九章算法比類大全序天一地二天三地四天五地六天七地八天九地十此天地生成萬類大數之元會也爰侯伏羲氏之王天下也神會豫上下神祈肇彂其閥而傳歷乎百千萬世以可于旡紀極而咸有賴焉神聖之王開物成務之功大矣哉衁軻氏曰
+  hash: sha256:bc8cc173674607375e04ac943a442172b615e9627f84a0b0f47c9f0465af12c8
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:18c7fba2258dcccee5a1f0a7be0ed58273835a0562b67188639dc7e26d76aaf7

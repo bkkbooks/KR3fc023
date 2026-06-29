@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1418
+seq: 1418
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 船行一千三百七十五里法曰置計程四千二百二十五里爲實併船行二百五十里馬行二百里共四百五十里爲法除之得九日半爲相會日數各以原行里數除之得合問今有慢使臣已共八日績令緊使臣趕去七日追至中途及之其程已一千八百四十八里問緊慢使各日行幾何答曰緊使臣日行二百六十里慢使臣日行一百二十三里五分里之一法曰置其程一千八百四十八里爲實已趕去七日爲法除之得緊使臣日行二百七十四別併七日八日共得一十五日爲法除之得
+  hash: sha256:8bb07d8de174263e0c426499225f93920e4f47dc8cb50babb86505de6d25b2c5
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:813dbada16aa593ace7cce42bc4a4b2b274087c96e6db6b4390de8154ee78bf6

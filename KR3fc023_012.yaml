@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 博至理微妙殆非學意刨啓鍾儀坂算數之家心稱九章算法為宗世傳至書出于囷公然世既函件而無習而貫通者豫以草茅末學苗心算術蓋之者年密訪九章全書久未之見一旦幸謢寫本至目二百回又者六內方田粟米寡分不過乘除互換人皆易曉若少廣之截多益少開平方圓商功之侑築堆積均輸之遠迫勞歸學法頠難玉于盈朏方
+  hash: sha256:b8f97fc75b9fd9f8a0fc6fa27bb1edc2ab527ffa9e5d30ca83aa1f6f8ac10a79
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:3dc36d7b54fa48eeaf15f606bb3469bfbe96f57fab90a8ede6effba9879f6b6a

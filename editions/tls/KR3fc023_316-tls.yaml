@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/316
+seq: 316
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置相和一十七步減不及五步餘一十二步以闊五步相乘合問今有直田一畒積長減一步闊減七兩隅相去十七步長闊何以見端的荅曰長一十六步平一十五步法曰置兩隅相去一十七步自乘得二百八十九步於上以二減一七併之得八步自乘得六十四步以減上數餘二百二十五步爲實以開平方法除之得長一十五步加一步共長一十六步以除一畒遍爲二百四十步得平一十五步合問直田二十五畒數更有三分零五厘長量九索平量四三事如何得俻知荅曰索長一十三步田長一百一十三步
+  hash: sha256:f98d3de0381b0ba8a27eaf4fd2270f572d318840b2bb14c6bb177b94cad50e6f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:2dee7deea90ae5020bd7ae02be3e7f48c95be7498c064ad88997e77b2d36c396

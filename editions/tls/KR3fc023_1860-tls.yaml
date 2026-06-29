@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1860
+seq: 1860
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 開平方法除之得勾闊五十六步加不及得股長一百四十二步合問今有股弦相乗得六萬步只云股弦相和四百九十步問勾股弦各幾何答曰勾七十步股二百四十步弦二百五十步法曰置相乗六万步爲實以和步四百九十步爲從方開平方法除之得股長二百四十步减和步餘得弦長二百五十步次置股弦各自乗相减餘四千九百步以開平方法除之得勾闊七十步合問今有勾股相乗得六千四十八步只云勾股相和一百八
+  hash: sha256:59e8ab072972e4f7e787a0d4c28fa95b8ed972e18704ebac9ecb81d420eb7730
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:1dc10ed2c746a046cc32ac7cf67c33ba43d6f09e7762b01b9cf0cb3aebebf4d9

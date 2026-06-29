@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1040
+seq: 1040
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰通積八畒得一千九百二十步以四乗得七千六百八十步併不及自乗得七百八十四步共得八千四百六十四步爲實以開平方法除之得廣九十二步合問今有直田八畒只云廣共九十二步問廣少如幾何答曰二十八步法曰通田八畒得一千九百二十步以四乗得七千六百八十步於上又廣九十一步自乗得八千四百六十四步以少减多餘七百八十四步爲實以開平方法除之合問今有直田三頃七十五畒方一面幾何答曰一里
+  hash: sha256:1cd74b8e5d642c4c005d18b3e97a725ae2a489c11afaf92ee9a493095dc08980
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:d8c97b2f3001939ccabd6f74b2e8a853784313fbb3a9e9d48ee689a58467661d

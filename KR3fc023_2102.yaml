@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2102
+seq: 2102
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十五九减四十五將第七位作十內减四存六更扵第八位七十內减五存二二五减一十將第位存六內减一存五合依定位得五升五五减二十五將第八位存二尽第八位五文尽共得二万三千五百六十七石九斗五升合問乗除易會筭訣乗法除雙還倍數須知去一要添原歸除蒲法過身一實無折半當身五不用九歸并小九只將二十字爲先乗除加减皆從與萬兩黃金不與傳今有銀四百二十五兩每兩價鈔四十五貫問該錢幾何荅曰一萬九千一百二十五貫
+  hash: sha256:8371c51e0ad4fb20d8d53fe72805d2bd57b6a211fa63dda05ee8ae07546970e1
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:1270bf95a94f1ee90e9316a0aa1a69b6c30a75b034b6d15aaf1714690477c56c

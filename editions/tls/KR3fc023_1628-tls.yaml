@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1628
+seq: 1628
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二羊價四十餘一百七十爲實以分母二十一乗牛五得一百五爲法除之得牛價一兩餘實六十五法實皆五約之得二十一分兩之十三合問上禾二束中禾三束下禾四束實各不滿斗上禾取中禾一束中禾取下禾一束下禾取上禾一束而實滿斗問上中下禾實一束幾何荅曰上禾一束二十五分斗之九中禾一束二十五分斗之七下禾一束二十五分斗之四法曰此問乃偕上中下禾揍數而方滿斗爲說文其實上禾二中禾十中禾三下禾一滿斗下禾四
+  hash: sha256:606644490d6ebd14c258071658abe3b7b0bd6dd47cf933cda712ef5dec8ee6aa
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:9beb02549d213cd18438e1655772f03d4905e80272f91fa7b47e0ad8068ba9c3

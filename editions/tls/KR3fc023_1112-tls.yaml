@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1112
+seq: 1112
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 准糯米一斗二升五合四勺二抄法曰置總鈔以船鈔三百文乘之得六十五萬三千二百五十又以挑腳鈔四貫乘之得二百六十一萬三千又以做酒工食鈔三貫乘之得七百八十三萬九千爲約實卻以工食鈔准糯米一千二升五合四勺二抄四撮爲法除之得六百二十一萬貫爲實以開三乘方法除之得五十貫爲糯石價以除共鈔得米四千三百五十五石乃各乘見數合問詩詞一十五問今有方田三叚大中小叚各殊共積一萬四千餘三百八十四步三面相和共數二百零四無虛方方較等莫躊躕
+  hash: sha256:323b1e998d93a3b29fd46ae49754c2b905553b6e8af67c4113c5178301e8ef3b
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:d3eb2aec7a17333f9c9125037693aad0af0ba89a235cb716c9ec368531fca61f

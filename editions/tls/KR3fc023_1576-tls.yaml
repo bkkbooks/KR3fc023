@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1576
+seq: 1576
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 綿不知其價只云綿個二兩價買絲九百五十文若綿二十七兩與絲二十二兩價適等問名價幾何答曰絲價二貫二百五十文綿價一貫七百五十文法曰列絲二十一兩扵上綿二十七兩扵下各以盈七百五十文乘之上得一十五貫七百十文爲綿實下得二十貫百五十玄爲絲實以絲九兩綿十二兩以少減多餘三兩自乘得九兩爲法除之得絲綿價合問不足適足今有布絹不知其價只云布四疋價買絹三疋不足鈔一
+  hash: sha256:bbb9bd71a78da76076952a621c68a30eaeac3812d96fa4254c2fedb0221a6918
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a204dfe8584bc375a7d1f820fc28bcfadd49fb44743e73720169ecea79a57511

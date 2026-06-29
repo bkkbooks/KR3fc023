@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/554
+seq: 554
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 併之得五十六兩八分為實以七十一兩為法除之合問今有銅一經入爐每十斤得八斤今三經入爐得熟銅二百二十四斤十五兩八錢七分二厘問原本生銅幾何答曰四百十九斤七兩法曰置銅二百二十四斤以斤法十六通之加零十五兩八錢七分二厘共得三千五百九十九兩八錢七分二厘為實以煉熟八斤再自乘得五百一十二斤為法除之得七千十一兩以斤法除之合問今有鐵一經入爐每十斤得七斤今三經入爐得熟鐵一百一十四斤十五兩六錢四分六厘二毫問原本生鐵幾何答曰三百三十五斤三兩四錢
+  hash: sha256:a6e7cdcf05c58cf5fac4a97a34e318c0901fab09d83c3bb8800a470adb373d92
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:38ea181597eff789bc2245fb0c020c53977f7399c7f4e2878200b4e356b1b3e7

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1488
+seq: 1488
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 甲日織一丈七乙織丈三盡其令乙先織六十日次後甲織幾日及荅曰甲織一百九十五日法曰置乙織一丈三尺乘先織六十日得七十八丈爲實以甲織一十七尺减乙織一十三尺餘四尺爲法除之合問大馬每匹料五升小馬一匹四升平共関六十三石料夜喂飽剩一升荅曰大馬一百一十五匹小馬一千四百三十一匹法曰置料六十三石以减剩一升餘六十二石九斗升以約大馬一百一十五匹每匹五升乘之每五百七斗五升减餘五十七石二斗四升爲實以小馬每匹四升爲法除之得小馬合問
+  hash: sha256:cb47d7082f593f684792d958b77bc7361e0773c03af05a5ca1269121509ad5d8
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:cfb957ef93d0ea48b67a32bdb23317e6f4c62c7aa6e3c40ddec192c76a20af75

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1116
+seq: 1116
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 田怎筭長闊步差二十看來奧妙幽玄特將周徑訪英贤四事如何得見右西江月答曰長八十步平六十步周三百步圓徑一百步法曰置田二十調以畝法通之得四千八百步爲實以長闊差二十步爲從方開平方法除之得平六十步加差二十步得長八十步每步加圓二分五厘得圓徑一百步以三乘得周合問圭田一十四調一分零數休忘以長爲實啓平方得數且留上向闊中添二平方開後存啇將啇減上五猶強要知的當右西江月
+  hash: sha256:c52b108c56a278bb88b4ea4be16f27120dc00292e56f37c46d50afe3a07b4470
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:3653ebc5fcc817be905f8992a898e809eb171f9676fdd718e42595b6c372cd4f

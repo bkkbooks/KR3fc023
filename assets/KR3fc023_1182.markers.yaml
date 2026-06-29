@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3fc023/bkk/v1/markers/1182
+seq: 1182
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc023_tls_001-p298.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup290, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 15, content: '', id: KR3fc023_tls_001-p298.s2.1}
+  - {type: line-break, offset: 15, content: '', id: KX_2_dup295, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg-start', offset: 24, content: '', id: KR3fc023_tls_001-p298.s2.2, seg_type: comm, member_ids: [KR3fc023_tls_001-p298.s2.2]}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR3fc023_tls_001-p298.s2.2}
+  - {type: line-break, offset: 25, content: '', id: KR3fc023_tls_1182-bkklb1}
+  - {type: 'tls:seg-end', offset: 26, content: '', id: KR3fc023_tls_001-p298.s2.2_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 26, content: '', id: KR3fc023_tls_001-p298.s2.3}
+  - {type: 'tls:seg-start', offset: 33, content: '', id: KR3fc023_tls_001-p298.s2.4, seg_type: comm, member_ids: [KR3fc023_tls_001-p298.s2.4]}
+  - {type: 'tls:seg', offset: 33, content: '', id: KR3fc023_tls_001-p298.s2.4}
+  - {type: line-break, offset: 35, content: '', id: KR3fc023_tls_1182-bkklb2}
+  - {type: 'tls:seg-end', offset: 37, content: '', id: KR3fc023_tls_001-p298.s2.4_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 37, content: '', id: KR3fc023_tls_001-p298.s2.5}
+  - {type: 'tls:seg', offset: 39, content: '', id: KR3fc023_tls_001-p298.s3.1}
+  - {type: line-break, offset: 39, content: '', id: KX_3_dup295, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg-start', offset: 42, content: '', id: KR3fc023_tls_001-p298.s3.2, seg_type: comm, member_ids: [KR3fc023_tls_001-p298.s3.2]}
+  - {type: 'tls:seg', offset: 42, content: '', id: KR3fc023_tls_001-p298.s3.2}
+  - {type: line-break, offset: 44, content: '', id: KR3fc023_tls_1182-bkklb3}
+  - {type: 'tls:seg-end', offset: 46, content: '', id: KR3fc023_tls_001-p298.s3.2_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 46, content: '', id: KR3fc023_tls_001-p298.s3.3}
+  - {type: 'tls:seg-start', offset: 49, content: '', id: KR3fc023_tls_001-p298.s3.4, seg_type: comm, member_ids: [KR3fc023_tls_001-p298.s3.4]}
+  - {type: 'tls:seg', offset: 49, content: '', id: KR3fc023_tls_001-p298.s3.4}
+  - {type: line-break, offset: 52, content: '', id: KR3fc023_tls_1182-bkklb4}
+  - {type: 'tls:seg-end', offset: 54, content: '', id: KR3fc023_tls_001-p298.s3.4_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 54, content: '', id: KR3fc023_tls_001-p298.s3.5}
+  - {type: 'tls:seg', offset: 62, content: '', id: KR3fc023_tls_001-p298.s4}
+  - {type: line-break, offset: 62, content: '', id: KX_4_dup296, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 84, content: '', id: KR3fc023_tls_001-p298.s5}
+  - {type: line-break, offset: 84, content: '', id: KX_5_dup296, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 106, content: '', id: KR3fc023_tls_001-p298.s6}
+  - {type: line-break, offset: 106, content: '', id: KX_6_dup296, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 128, content: '', id: KR3fc023_tls_001-p298.s7}
+  - {type: line-break, offset: 128, content: '', id: KX_7_dup296, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 150, content: '', id: KR3fc023_tls_001-p298.s8}
+  - {type: line-break, offset: 150, content: '', id: KX_8_dup292, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 172, content: '', id: KR3fc023_tls_001-p298.s9}
+  - {type: line-break, offset: 172, content: '', id: KX_9_dup295, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 194, content: '', id: KR3fc023_tls_001-p298.s10}
+  - {type: line-break, offset: 194, content: '', id: KX_10_dup296, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  back: []
+hash: sha256:345f8289eb643ac57977bbde98b2f357117c4f949a915338847ab9afdab48412

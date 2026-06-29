@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2080
+seq: 2080
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有絲三千六十九兩八兩價二貫六百三文七分五厘錢四分毎兩價鈔二貫六四分八二四一二二八二百三文七分五厘問該鈔八錢一六四八二四五六四幾何九兩一八五四二七六三四五荅曰七千九百九十三六十一二三六一八四二三九分貫九十五文九分五文法曰置絲三千六十九兩八尔四分三千六一八九二一一五九十爲實以毎兩價鈔二貫共鈔六千九百九十三貫六百三文七分五厘爲法乗之合問
+  hash: sha256:0f8bf0d0a993796e886cba4264e7eb1cbf87f8b6eb726ccfd8e708257d59fe66
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:56427fee2623e957ef10ea4bd90148b92caec92c866249a6baf5d766d40461e2

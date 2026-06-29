@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1812
+seq: 1812
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 竹高一丈折梢柱地去三尺問折零高幾何答曰四尺二十分尺之十一法曰去根如勾折零如股折梢如弦同長如股弦和勾去根三尺自乘得九尺以股弦和竹高一丈二一除得九寸以减股弦和竹高一丈餘得九尺一寸半之的四尺餘約得二十分尺之十一合問勾八步股十五步問勾中絨圓經幾何法曰圓經与弦和較等数即勾股求弦和較股十五步相乘得一百二十步倍
+  hash: sha256:1fd53b78a291df08483e4f32c08a13636085c261dd79ade7fa10a1b5c47ec1e0
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:ee9ac9414019a007b19235fcbdd7d109d45b59e9c68b4283d7eb9fe8ab99e184

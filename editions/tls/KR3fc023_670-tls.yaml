@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/670
+seq: 670
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 素一疋一丈價錢六百二十五今有錢五百問的素幾何答曰一疋法曰以所有素一疋一丈通爲五丈乘今有錢五百得二千五百爲實以所有價六百二十五爲法除之合問絲一十四斤約得縑一十斤今有絲四十五今八兩問爲縑幾何答曰三十二斤八兩法曰以所有縑一十斤乘今有絲四十五斤八兩得四百五十五斤爲實以所有絲一十四斤爲法除之合問絲一斤耗七兩今有二十三斤五兩問耗幾何答曰一百六十三兩四銖半
+  hash: sha256:6dad57a2466defb372c85af69e3803adc391e605c07cfa7287f9962d8186811a
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:19245dd1686456b9c287e8f5e76cdcc4bd674a81b2645cf63d60cfdf8f3a2fa4

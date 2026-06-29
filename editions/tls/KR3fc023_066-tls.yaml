@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/66
+seq: 66
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五榖求價一牛馬損益一甲乙持錢一二禾損益一三畜正負一二禾添實一三禾較重一二禾損實二借鯁問井深一比類一十六問三帛問價一三錦問價一三客分絲一三等輸米一齋僧支一絹布較價一硃漆較價一賣紗買叚一羊豕問價一綾絹問價一三色較價一旗軍支米一壯弱載米一三則田絲一四色問價一詞詩九問西江月三鳳棲梧一醉太平二七言八句三
+  hash: sha256:77b3000a483835890a462d6a770fde55db99226a0ddcf83088fa989953d0e84e
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:326f5d4e9138f86fcc764e75f8adb0b93fe1ea790bd1e0b9e347ba46e181ddac

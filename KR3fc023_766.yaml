@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/766
+seq: 766
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 內百戶一貟支一十石總旗二名每名支米一石五斗小旗一十名每名支米一石二斗軍一百名每名支米一石官支鈔三分米七分與旗軍一體二八米麥兼支其米每石鈔五錠問鈔米麥各幾何答曰鈔百戶一十五錠准米三石米九十七石六斗內百戶五石六斗總旗每名一石二斗共二石四斗小旗每名九斗六升共九石六斗軍人每名八斗共八十石麥二十四石四斗內百戶一石四斗
+  hash: sha256:2e6f908d1c9c39f58b5f0b18d9da36d8d2daa10caa6091c23c865e8129d3761f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a39c57550f713b4295f43ec589b554d8d3212936e5d7268a6639a3e2c934387f

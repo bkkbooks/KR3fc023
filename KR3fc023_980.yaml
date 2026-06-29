@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/980
+seq: 980
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 開方作法本源右袤乃積數左袤乃隅算中藏者皆廉以廉乘商方命實而除之增乘方求廉法草曰釋價求廉本源列所開方數五乘方列五位隅䈂在外以隅算一自下增入上位至首位而止首位得六第二位得五第二位
+  hash: sha256:f77df4bb00562b93ee7ad9c0c3ebc4611979be959d5b7ca6ae9bdc215b51ea16
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:34e02b00455bd8d1677faab53a9ba37ecf0d242c60fa36b424c42417c27e489e

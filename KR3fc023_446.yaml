@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/446
+seq: 446
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有綾六匹半絹九匹半其價適等只云絹少綾匹價二貫四百文問各價該幾何答曰綾七貫六百文絹五貫二百文法曰置貴率綾六匹半以差價二貫四百文乘之得一十五貫六百文賤率絹九匹半以差價二貫四百文乘之得二十二八百文各為列實以綾絹匹數相減餘三為差除貴率為絹價五貫二百文賤率為綾價七貫六百文合問就物抽分今有絹一丈二尺買蘇木二斤染絹三丈八尺共有絹六十三匹二丈四尺今欲減絹買蘇木還自染餘絹問染得
+  hash: sha256:ce768df4b2f845e5f72185a9e11d483e13af73e4ff87a4594710e5eb326ee8d0
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:1de31c27991cffaf1a208d5c00da5112fdbb072b049cdb711256fc93bafa08dd

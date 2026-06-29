@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/822
+seq: 822
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十二疋以疋法三十八尺乗之加零四尺共得二十五万一千六百四十尺却以分毋六人七人相乗得四十二乗之得一千五十六万八千八百八十爲實以法一千八百六十四除之合問今有粮一萬三千四百七十七石一斗三分斗之一欲給軍食用只云馬軍六人給粮五十三斗水軍七人給粮五十四斗歩軍九人給粮五十五斗其馬軍如水軍中半步軍多如馬軍太半問三色軍并各給粮幾何答曰馬軍三千一百六十四人粮二千七百九十四石八斗三分斗之二水軍六千三百二十八人粮四千八百八十一石六斗
+  hash: sha256:cd89ad9f8bb5a170872d87f6d92bf2a01f86f2634220ad7a712157c0b5a3a6c8
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a905758ba347c5fecf0f94ca8081da7b9a1e92b15f2639061a0c9ad72f357b2c

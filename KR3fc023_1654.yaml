@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1654
+seq: 1654
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 價幾何荅曰羊一百七十七犬一百二十一鷄二十三兔二十九法曰此題与第一問同斑增多一位排列各項問数以第一行羊二爲法遍乗各行羊犬鷄兔價一二爲法三五一八百六十一得一千九百一十六二三得六一得二七得一十四五得一十九百五十八得二千三百五十三四得八二得四六得一十二三得六一千一百七十五得二千九百九十二四五得十四得八三得六一得四一千四百九十六復以第二行羊三爲法遍乗第一行羊二得六与第二行羊六對减尽犬三得九减第二行犬二餘得犬負七雞五得一十五减第二行雞一十四餘得
+  hash: sha256:f841ce008ba5f407bbd17e1ef1e2c0d1b8a00e8715f980d708437c3fee05bbcb
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:e0ce5df649be5bbd18b4fb9fe6674cf753f6e3fef9b99a95174cec5784d3b6fd

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/448
+seq: 448
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 紅絹幾何答曰四十八匹一丈三尺二寸法曰置絹六十三匹以匹法四十二尺通之加零二十四尺共得二千六百七十尺以染絹三十八尺乘之得一十万一千四百六十尺為實併買蘇木絹一十二尺染絹三十八尺共得五丈為法除實得二千二十尺二寸以匹法四十二尺約之合問今有車載布一千九百六十二匹三尺匹法二丈四尺每匹車腳錢六十二文五分其布每匹三貫九百三十七文五分今無錢就物抽布問主腳各該幾何答曰主該一千九百三十一匹一丈一尺二寸三厘一毫二絲五忽
+  hash: sha256:c9a20dbed5b0c9bc70201ad5a3c5d6e216200619058c303c9605823847d52be7
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:34eff36bde4d099031f004272313778beadd26d6c19a4aa43eb3e8c23b66c322

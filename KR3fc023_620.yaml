@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/620
+seq: 620
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 買淨椒得何幾答曰一十四稱一十四斤十四兩三錢三銖法曰置米四十三石一斗八升一合一勺為實以兩一升二合為法除之得三千五百九十八兩四爾二分五厘以兩求斤稱銖法約之合問四十三石一斗米八升一合又一勺斤價一斗九升二欲買淨椒得合幾答曰一十四稱一十四斤十四兩三錢三銖法曰照前法以斤價一斗九升二合除之合問十箇雞兒賣十兩每箇轉差二分半十般價列請伊言仔細從頭用心算
+  hash: sha256:991dbb95626130e4d7120ddfa5add0f4ae9a31ef5e8310d1057cd07cee7ca05f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:94e98d55885e718cc705a45fe091cb603530ac493e4eb67fba5acec45253b55d

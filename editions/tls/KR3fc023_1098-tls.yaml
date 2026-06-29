@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1098
+seq: 1098
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用都指揮一員指揮一十員千戶二十員百戶一百員頭目帳房亦四面倶方大將軍中軍帳每面二十步都指揮每面八步指揮每面六步千戶每面五步百戶每面步問通積幾隊一方面該幾步幾隊內外圍該幾篇幾開指揮千百戶幾員各積步幾何答曰通積六十三萬九千三百八十四步計四千八十隊每一方面七百九十九步一千五百九十九分步之九百八十三外圍六十三隊內圍五隊計三十層該一千二十隊大將軍中軍帳每面二十步共積四百步
+  hash: sha256:df5830887e3fc6e3f746323191a1b531bd6ef042e88b4d7d28d63397192cca72
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:ef4d8218a9ef0cc26c3f49080555beb568d65a5c1b8fdd38e3366c15cd20426e

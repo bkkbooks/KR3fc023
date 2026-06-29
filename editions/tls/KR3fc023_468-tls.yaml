@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/468
+seq: 468
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 價除之得絹數布疋價除之得布数合問今有絲六十二斤八兩換金一十兩內八分半五兩七分半五兩問二色金毎兩該絲幾何答曰八分半該六斤十兩二錢五分七分半該五斤十三兩七錢五分法曰置絲六十二斤以十六兩通加零八兩共一千兩爲實列五兩以八分半乗得四兩二禾半又列五兩以七分率乗得三兩七禾半併得八兩爲法除之得一百二十五兩副置二位上以八分半乗之下以七分半乗之各以斤約之合問今有稻糓九十三石七斗五升毎四斗出米一斗六升毎
+  hash: sha256:ca004232b2323f17030afde3e86883581be8e3cebfcf23808e0e691e44b7a2ea
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:670dfd303de3472fc6fedea9d516a43cdd189c2a7138897db02ee33a18681100

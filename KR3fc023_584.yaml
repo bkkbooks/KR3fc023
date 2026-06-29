@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/584
+seq: 584
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乙分金一兩七錢半折足色一兩四錢法曰置甲金九成二兩折足一兩八錢乙金七成一兩折足一兩四絲併之得八成金四兩以八成除各色得足色甲二兩二絲半乙二兩七絲半合問今有銅錢一串不知大小分文當三折二不均勻當五小錢雜混只要百錢百字其中造化由人乘除折半减加因惱得賢家瘦損答曰小錢一文折二錢三文當三銨六文當五錢一十五文法曰置錢百文字百箇約之得當五錢錢一十五文小錢一文共錢七十六文字六十四箇餘錢二十四文字三十六箇該錢以當三錢乘之
+  hash: sha256:a107e867a668adf358cad2b778d952269feb712767fc620def8fdee5511a2e05
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:388243f881d262011fe4c7cb22df8918fb10eb62a1d16eff2f11c89d41f3a416

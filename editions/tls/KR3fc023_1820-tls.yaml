@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1820
+seq: 1820
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 甲乙同立甲行七乙行三其乙東行而甲南行十步斜之會乙問各行幾何荅曰甲南行十步斜之十四步半乙東行十步半法曰勾弦和卒甲行七步自澄得四十九步卒乙行三步自乘得九步併得五十八步圻豐得二十九步爲弦卒以减勾弦和四十九步餘
+  hash: sha256:c2fc77d6e820a080b667a3f1875a6c4dbf4af43fcf987a342b7c680b4814afd7
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:1e7626887faab2b59236e5782bee2c023f3f29cd7c35ff0bfaa6e77b6261de41

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1968
+seq: 1968
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上廉再退得若干中廉三退得若干下廉四退得若干下法五退得若干再啇置第三位以方廉四法共若干啇餘實得若干下法亦置上啇若干三遍自乗得若干爲隅法又以上啇若干一遍乗上廉得若干二遍乗中廉得若干三遍乗下廉得若干以方廉隅五法共若干皆與上啇若干除實盡得若干合問今有四乗方積一十九萬七千一百六十二億四千五百三十二萬三千七百七十六尺問一方面幾何荅曰四百五十六尺法曰置積為實別置一筭名曰下法自末位常超四位
+  hash: sha256:d81d0d9cfab793b08b12ca72f60a018cae74e02ee66ef8a8ab2643e97e67106b
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:9f5ad55329c557e83a9b7198e2f4de59a0232a5ff21e7f8e62e09594eae1f5ac

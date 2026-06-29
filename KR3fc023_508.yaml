@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/508
+seq: 508
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 羅匹價一百二十五貫法曰置羅一百五十匹以較多六十五貫乘之得九千七百五十貫又綾一百匹以二項較多乘之傍九千貫併二位共得一萬八千七百五十貫以減共鈔餘二萬七千貫為實併綾羅絹共四百五十匹為法除之得絹匹價六千貫各加多數合問今有鈔四貫共七百文共耀到粟五斗麥七斗豆九斗只云粟每斗價少如麥每斗五十文麥每斗價少如豆每斗價二十五文問粟麥豆每斗價鈔各該幾何答曰豆二百五十文麥二百二十五文粟一百七十五文
+  hash: sha256:8393532c845f70cd600f127df04dd39d37783ae12a50103f0edd8f961b8955e5
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:c64ba70087a63c9bf49f2e5b69b45ed3131928a8c6e33f7ca687352ebd80b0bc

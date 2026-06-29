@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1792
+seq: 1792
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十貫得二千二百八十减右行二千七百餘四百二十爲實以法除之得六爲錯綜之数以布三疋乘之得布一十八疋以布價五十貫乘之得九百貫却以布三疋除之得該三百貫以减緫布絹三十疋餘得絹一十二疋共鈔五百七十貫餘得該鈔二百七十貫合問九童詳註比類不足筭法大全卷第八
+  hash: sha256:08c02c719a190d57ecb54f6b97cd8c330e0235b6883c7c1cc00d32e086063be3
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:dc1189705cc497091f133de518b50473defebf0cffbeee4a02a49e41097dee3e

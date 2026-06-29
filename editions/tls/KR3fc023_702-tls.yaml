@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/702
+seq: 702
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 除之每石該一貫三百文以乗各出米得鈔合問今有鈔六百七十三貫六百二十文買生藥脩平胃散每料用蒼木八斤甘草三斤陳皮厚朴各五斤其蒼木斤價二百五十文甘草斤價六百文陳皮斤價五百文厚朴斤價八百文問各該幾何答曰蒼木五百二十三斤三兩二錢該價鈔一百三十貫八百文甘草一百九十六斤三兩二錢該價鈔一百一十七貫七百二十文陳皮三百二十七斤該價鈔一百六十三
+  hash: sha256:cdf8697f498b3e07e0bb8b415cf609171dfda7fdc2c88ec25c4b708dbe8ddffc
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:ab307b23da2e8c8aaa8ca64fc7cce5f4489a7f73faf0dc909fee85d0970afdd8

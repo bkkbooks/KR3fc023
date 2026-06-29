@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1810
+seq: 1810
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得四丈九尺五寸合問圓材在壁中不知大小鋸深一存道長一尺問經幾何答曰二尺六寸法曰道爲勾深爲股弦較半勾鋸到五十自乘得二十五寸爲實半股弦較一寸爲法除實如故加半較一寸得二十六寸合問
+  hash: sha256:9265c5c644137174dcd359cbc5c126feff9507748340025977f9b118969c0fae
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a699003f3bd3a5c4a46c565c2009fbe32a0f30a7ee60da1802984dbaa9843b49

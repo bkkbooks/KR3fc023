@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/56
+seq: 56
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 曲池盤池谷芻歸除求積五穿地為垣一比類九十五問築墻二築方臺四築圓臺五築方錐二築圎錐三築城三築臺四築堤二築堰二開河一開穿渠三長倉四方倉三圓倉三方窖四圎窖四平地火堆四倚璧火堆三倚璧外角三倚璧內角三長酒棧一方酒棧一方箭一圓箭一方挅一果子垜二三角垜一酒瓶罈垜二屋蓋垜一平火草垜一瓦垜一磚垜一
+  hash: sha256:53992f0a6ead082fea02985eb98dfae75279af2d0900ec732db8d24224ecad3f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:7f357b6cc069ed9762cd41f61d1d9730ed48356c518ede612ad036080b6da285

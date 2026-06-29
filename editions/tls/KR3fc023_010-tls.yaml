@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九章筭法此類大全序有理而順有象有番而治有形若皇帝使隸首作筭數而傳扵世圖書出於河洛大術五十有五之數聖人以之成變化而行鬼神黃鐘之管九寸空圍九不之數以之制禮作樂平度量審權衡周天三百六十五度四分度之一之襄以之測盈虛候時令苟知至坂則西歲之日至可坐而奴也然至學弘
+  hash: sha256:089d5b00bb78f6ab3c94a6cdc906bcf4c390ac065165f8c4b0158388c98be1ec
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:6522b4819f655bb8b452888c27879168225f02156e60f4f18198269e2b235c50

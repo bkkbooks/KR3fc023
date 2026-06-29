@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1472
+seq: 1472
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置先鋒頭隊長小甲兵各逓以八因見數加統兵一將八合問客人寄酒主人家明五鬥不曾慳此家主人沒道理四升添水換三畨換時先取酒後頭添水不爲難升鬥難然合備數酒各若干答曰鬥八升九合三勺四抄四撮水鬥一升六勺五抄六撮法曰置第一酒五鬥內四升得酒四鬥六升水四升第二度盜酒四升以八因酒鬥六升得三六合八勺水四升得三合二勺止存酒四鬥二升三合二勺水七六合勺第三度盜酒四升以八因酒四鬥二升三合二
+  hash: sha256:ef2533c0319fe92cf63ec7c8111d8b9924b6378c2f7b33b52a64f8371951520b
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:93eb6f7e0e1d222e070725e281a4accd8bb0dd3c8fab34567acb56946e13bb98

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/678
+seq: 678
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰甲得四百八十三貫七百五十丈乙得四百三貫七百五十文丙得三百五十六貫二百五十文丁得三百三十二貫五百文戊得二百九十八貫七百五十文法曰各列置衰甲三百八十七貫乙三百二十三貫丙二百八十五貫丁二百六十六貫戊二百三十九貫副併得一十五百貫爲法以所分一千八百十五貫乘未併者各自爲列實甲得七十二万五千六百二十五貫乙得六十万五千六百二十五貫丙得五十三万四千二百六十五貫丁得四十九万八千七百五十貫戊得四十四万八千一百二十五貫以法一千九百貫除之合問
+  hash: sha256:8b972e9b386f6e035a715341ba8d29fe5625b9bfc83ba3a9d37e2ee4efda2390
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:1c62cfd386b2f6d4b3e8dd4e89f2bbe3fedbd652d973768ad222a819496bd5fb

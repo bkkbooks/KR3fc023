@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2058
+seq: 2058
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 定實逆数法百貫丑上得貫乃丑上得實首万仍復数回寅上得千共得一千三百五十六石三斗合問河圖書數自古傳之乃論先天推陰陽之数將經演十五之圇先運扵掌上熟記其数無差次書圖形布排運用乗除加減開方自毫厘至扵千万會零合踐不用灘釐至無差誤實爲炒用也坎一坤二震三異四中五乹六兊七艮八離九縱橫十五人能脫天下科差掌上觀萬中千坎百埽艮十震兩異錢離安分坤厘兊豪乹上河圖千古再重看免用筭錢余加減不爲難
+  hash: sha256:74b18e18eb74cb81720f08e4ea03e4e823a6fd0be566aa7db834d33d3dfef61f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:10958a22d423b6dfaece90d81aae458bc96c59c1202222dd663cd4fbf6cf49e6

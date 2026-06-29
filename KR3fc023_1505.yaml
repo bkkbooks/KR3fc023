@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1505
+seq: 1505
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九章詳注比類輪筭法大全卷第六
+  hash: sha256:e95628a6759db1bfd13e6e2f80d9f6f39a44f89a25292a012e063ed60d58ab02
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:38d76aa490241ffb985fa2bbcf0275c87bd3d442e6526c86bdbd8a9ea0a1150b

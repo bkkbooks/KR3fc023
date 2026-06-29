@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1648
+seq: 1648
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十八餘得六十六以白禾二除之每步得一百一十一分斗之三十三合問今吏五從十食鷄十令十吏一從五食鷄八令五吏十從一食鷄六問令吏從各食鷄幾何荅曰令一百二十二分鷄之四十五吏一百二十二分鷄之四十一從一百二十二分鷄之九十七法曰此問与前題法相同排列問数以右行令一爲法遍乗中第二行爲右令一爲法吏五從十鷄十中令十得十吏一得一從五得五鷄八得八
+  hash: sha256:412d015c45f02c31da06fd7a904ad85cbede7e6103d620221dbe9cb84bbf3da6
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:79711bf7afce176bbc84bfcd8bf30b708fc8e37c3ccc9e94f8bf04be0e54855d

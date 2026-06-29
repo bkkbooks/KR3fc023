@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1934
+seq: 1934
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有六角紙一張每面六寸皆爲定對角相去都一尺剪三卦輪如何徑荅曰卦輪徑四寸三分三厘三分厘之一法曰置股相去一尺以勾每面六寸半之得三寸爲法除之得三寸三分三厘三分厘之一又置勾六寸以六角除之得一寸一加入前数得卦輪徑合問圓木二尺五寸徑二丈四寸爲方桁未知桁厚得幾何若人筭得誠堪敬荅曰厚七寸法曰置弦徑二十五寸自乗得六百二十五寸以減股桁徑二尺四寸自乗得五百七十六寸餘四十九寸爲實以開平方法除之得桁厚七寸合問
+  hash: sha256:e068e6a3e82414dbc90d998b55bae4b6aa30e2b600e6f72affbe650e76d33a21
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:0b3dc9420fd4d4131fe1fbea82f303f7dac1b99a28763cde47618b45747d2af7

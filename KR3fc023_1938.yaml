@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1938
+seq: 1938
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 和八十五步較三十五步法曰置較五平七相乗得三十五以較五乗之得一百七十五以平七除之得平二十五步自乗得六百二十五步加入直積八百七十五步共一千五百步爲實以平二十五步爲法除之得長六十步併長平得和八十五步長減平得較三十五步合問直積加長減平步一千五百三十五五平內減長較和餘有三十無差惧荅曰長六十步平二十五步和八十五步較三十五步法曰置較和三十步以平五乗之得一百五十以平五自乗得二
+  hash: sha256:0dbeba3f606ba24cab6b88cb434355a74982cfc3b513dd9e8b86da92de231a6e
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:85185af0db292d8f81d590c675dd5d068ebd2c2143df1a99aeecc979ae6b8bce

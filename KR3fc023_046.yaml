@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/46
+seq: 46
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古問四十六問粟求各米十九各米求粟五糲求各米二糲飰求是飱一菽求熟菽一菽求鼓一麥求小䵂一麥求大䵂一錢買布漆等物歸除法六買絲失羽貴賤率九比類一百三問乘法八除法二歸除法十四異乘同除十二貴賤率九就物抽分一呼喚乘除草三買物各停五買物二色九買物三色六買物四色一買物五色一買物六色三借寬還窄四金銅鐵錫煉鎔四詞詩六十三問
+  hash: sha256:6eb32a59a9f4d017a8cf0ba0e22749a2aa91642e0b98b46f80198e2e163ab171
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a732bac6a58a359c093dbc4ca1b7786cd52d8ea35e5f6e8c8f517b04153db985

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1950
+seq: 1950
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰門廣一丈一尺法曰勾法閘十寸自乗得一百寸股弦較不合二寸半之得一寸自乗得一寸併之得一百一寸爲實倍較一寸得二寸爲法除之得五十寸五分爲一扇門廣以二乗得門廣合問今有一放戶高多廣二尺兩隅適一丈高廣如何識荅曰廣六尺高八尺法曰弦兩隅一百寸自乗得一万寸勾弦較戶高多廣二十寸折半得一十寸自乗得一百寸倍之得二百寸以減積一万寸餘九千八百寸折半得四千九百寸爲實以開平方法除之得弦七十寸以減半較一十寸餘六十寸爲勾即門廣加較二十寸得八十寸爲戶
+  hash: sha256:97da8173498b8d7076ac8f43a3f9c90ea1f92a1d64b9f7b43aa06fda32bafbfe
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:c12fff54b11593739e283a5c23070507dea302041f7a33b17ce46cafefc9b753

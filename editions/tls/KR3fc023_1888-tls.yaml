@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1888
+seq: 1888
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 及山去表各幾何答曰松髙一十二丈二尺八寸山去表一百九十七丈一尺七分尺之三法曰置兩表間五十步以步尺法六尺通之得三百尺乗入表二尺八寸得八百四十尺爲實以前表却行七步四尺通作四十六尺去後表八步五尺通作五十三尺二位相减餘七尺爲法除之得一百二十尺加入表二尺八寸共得松髙一十二丈二尺八寸求表去山遠近置間三百尺以前表却行四十六尺乗之得一万三千八百尺爲實以相多七尺爲法除之得一千九百七十一尺餘實與法命之爲七尺之三合問
+  hash: sha256:6bfbbffd06b13434bf9466db8992c47840b31d9ec22d919735b3e2cc377bcd5e
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:daa38cd5f2ac4e741f7e9c57f414cadb047e6dea70a41e816ab3b7deedc62c36

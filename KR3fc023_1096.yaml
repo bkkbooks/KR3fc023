@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1096
+seq: 1096
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置金數以每尺用一千七兩五除之得八尺八寸二分九毫卻以方法四乘之得三十五尺二寸八分三厘六毫爲實以開平方法除之得五尺九寸四分卻以圓法三除之合問有官兵一十三萬七千二百八十八人今築柵圍之每相去二步問四方每面各用長几何答曰五百二十四步法曰置兵數一十三萬七千二百八十八人以相去二步乘之得二十七萬四千五百七十六步爲實以開平方注除之得一面數合問有兵士二十二萬八千四百八十名每五十六名作一所居之地四面倶方每面一十二步每一萬一千二百
+  hash: sha256:86565fc73c2f3755ab670cc3032d71a47c17a6ed782d9688b1ea31bf6ed9f528
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:dd83517f0d56a3daeefa4543ade0487e3f0ca61e933e4067faac1c78c5ee2079

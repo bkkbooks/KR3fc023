@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1614
+seq: 1614
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十瓜八瓠兩停擔換易一枚差十三二色有人筭得是好把芳名到處談荅曰瓠重二秤二斤半瓜重一秤一十一斤法曰此問同前法不知瓜瓠之重則互易瓜一瓠一得二除差三十三斤得六斤半以瓠八乗之得五十二斤爲實以瓜十减瓠八餘二爲法除之得瓜重二十六斤以瓜十乗之得二百六十斤却以瓠八除之得瓠重三十二斤半合問兔價人名都不答五人不足二十八八人都多三十二問公能筭用可法荅曰二十人兔價一百二十八文法曰置盈三十二不足二十八併之得六十爲實以人八减五
+  hash: sha256:3ee4eaca6f090a3f11e6993e624a508c0265afa9388d6c5ca536f43ddcbb00d8
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a412e1ec660460ae30e97a317ab33ecc4b753d05bf3e93d5130ffec75b4a9610

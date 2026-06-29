@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/618
+seq: 618
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 文以差十六除得米三斗一升二合五勺以减相和餘得麥六斗三升七合五勺斗價一百加差十六得米斗價各乘合問綾絹共該三丈四算定都銀五兩二其價差銀整八分不知二色多少是答曰絹三丈二尺七寸半尺價一錢五分綾一尺二寸五分尺價二錢三分法曰置銀五兩二尓以綾絹三十四尺除之得絹尺價一尓五分餘銀一尓以差除之得綾一尺二寸半尺價二尓三分减總數餘得絹三丈二尺七寸半合問兩十三石一斗米八升一合又一勺每兩價直一升二欲
+  hash: sha256:1c0cef173e5462bafd7d1ee055567ef96c635f37a96aafc73771c09520765d5c
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:d9c150c599505b08b944f7319f44d36f75627d5a076ab2c41b6f5b0a5ecbf6f5

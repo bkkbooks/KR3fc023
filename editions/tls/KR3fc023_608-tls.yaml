@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/608
+seq: 608
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 却减過絹三尺餘得三丈三尺倍之得絹長六丈六尺合問假令小販人一夥向彼園中買桃果果該三百八十四桃得八十有四箇二物將來細秤過果重四十有八箇問公更得幾箇桃斤兩適齊方得可右王楼春答曰一十二箇法曰置果三百八十四以减果重四十八餘三百三十六爲實以桃八十四箇爲法除之得一桃比四果以四果除果重合問借了二丈五尺絹却還一十七斤靛兩家各説有相虧來問明公如何辨二價相和数步乱共該四錢二分筭照依則例使乗除兩家價值分明見右王楼春
+  hash: sha256:f1746c8e47fb03ea4f6de604c7385b9e5c15bc895d32a2afa8f2e0e36037ad7c
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:4d07192f3aae010f746d8c145ba3a9d4d4657b6837bb3426c87812219719f6b4

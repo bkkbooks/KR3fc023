@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1902
+seq: 1902
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 除得出南門四百八十六以里步除之得見樹合問今有坡地一叚西高東下曾量十步五寸是斜長南比闊六瘴欲要脩爲五壤東增一瘴新墙不知幾許請推詳須要停當右西江月荅曰得平地四分五毫阔九步九分法曰弦斜长五十尺五寸自乘得二千五百五十尺二寸五分以減勾墙一十尺自乘得一百尺餘四百五十寸五分以開平方法除之得闊四丈九尺五寸以步茗除之得闊九步九分以乘南北均闊一十二步得平地一一十八十八分以畝法而一合問圓沼周深忘却二人對岸釣魚吞線首相投線與岸
+  hash: sha256:c1dc3a814e30aa5df4a04693f80f4a5e64d9c1cf03b6d860292c668a54eb7c25
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:1b92fcb71016aca767f9bd8c317131cb9b4d2ecaa465a460ce4236ea58bd2bb0

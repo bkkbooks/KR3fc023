@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2112
+seq: 2112
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 原缺
+  hash: sha256:231ef38b9386cf9b4ff155a4620730e308928083ad619337742bd16f79efea3f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:04fda8acbed9fe9608f4bcfb7904eadab3d40f999b424e15880dba6c86053b02

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1118
+seq: 1118
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰長一百四十四步闊四十七步法曰置田一十四畝一分以畝法通之得三十三百八十四步以長爲實啓平方約之得長一百四十四步以開平方法除之得一十二步以減五猶強餘得七自乘得四十九步以減闊中添二餘得闊四十七步合問今有家南碾地忘記周徑根源斜稍道路直通田三丈弦長不短矢闊整該一步更無零數堪言欲求徑步與周圓其么麽曰得見答曰圓周一百五十步徑五十步法曰置弦長三丈以步五尺除之得約折半得三步自乘得九步
+  hash: sha256:276213dcdb71b58a434afd8ea0dde92ffd12bbe59ce32b90a1cdf6248483b856
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:c2a22b17450f35ad7ea504dce1c9bc25c3880b079bad0bdd18e3086cbe2229c6

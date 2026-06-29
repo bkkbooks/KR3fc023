@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1180
+seq: 1180
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有圓錐一所下周三十六尺髙二十四尺計積八百六十四尺欲截髙輳上周與下周相等問該高幾何荅曰八尺法曰置積八百六十四尺爲實以下周三十六尺自乗得一千二百九十六尺如圓法十二而一得一百八尺爲法除之得該高八尺合問今有圓錐一所下周三十六尺髙二十四尺欲去髙八尺問上周該幾何荅曰一十二尺法曰置下周三十六尺爲實以高二十四尺爲法除之得一尺五寸以乗截去高八尺得上周一十二尺合問今有築墻上廣二尺下廣四尺高八尺今巳築上廣二尺
+  hash: sha256:7aca8d65583e8c504d5fefc13dcd777a803a9257bea82f5e0b43a0cf729b9a30
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:f462e85310850ab58b1ae6a74cd9560b9be8bf6248627c3d32caf2f8bd7d6b92

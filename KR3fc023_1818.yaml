@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1818
+seq: 1818
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰二百五十步法圖法曰勾股容方用乘差倍積而帶后開方餘勾北門外二十步乘股出西門一千七百七十五步得三万五千五百步倍之得七万一千步爲實併二餘勾外一十步南門外十四步共三十四步爲是方開平方法除之得步合問
+  hash: sha256:8817cf92e9c89324ffd50b8df6d2e68194765906f3815fd7b4a67bcfa6aa3bbb
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:e795c9ffa979390850eaba46f16e5ecb963e104d590f15e7b0cec362950a32f6

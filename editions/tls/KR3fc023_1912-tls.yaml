@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1912
+seq: 1912
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 幕等爲勾數問賢家先取如何做你敢不得敢麼立天源一舉手無能措右叨叨令荅曰長二十步平一十二步和三十二步較八步法曰以併零和較幕等約之得較八步自乘得六十四步折半得和三十二步减較八步折半得平一十步加較八步得長二寸步以長二十步乘平一十二步得二百四十步積加差八步共二百四十八步减和三十二步餘二百一十六步以開立方法除之得半廣六步倍之得平一十二步合問春節遇清明忽有童開放風箏托量來九百五十
+  hash: sha256:29392922cffc7a94fc4dc61cc2e3b640e65fa639ef57b1697ef0f3fd03c44b76
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:46ddcc3b3703592ef06babc1c4858dedc42fe4acd29cb2709aa8ce334d85e18f

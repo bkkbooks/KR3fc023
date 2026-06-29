@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/122
+seq: 122
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三分乘五分得一十五分為法實如法而一得一十八步合問問田廣十八步七分步之五縱二十三步十一分步之六為田幾何答曰一畝二百步十一分步之七法曰分毋各乘其全分子從之置廣十八步以七分乘加分子五共得一百三十一桀二十三步以十一分乘加分子六共得二百五十九相乘一百三十一乘二百五十九共得三万三千九百二十九為實以分毋十一分七分相乘得七十七為法實如法而一得四百四十步餘四十九法實皆以七約之皆十一分之七如畝法而一合問問田廣七分步之四縱五分步之三為田幾何答曰三十五分步之十二
+  hash: sha256:cecd394c7cfb87427bf31a96b68c4b627660b2e13b938047cdbee3f3ffc18fd9
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a4de69b4abde14e32bbb2f5ec18d7a37adf8f6ad4abdb944ff90cc1f3e9111b7

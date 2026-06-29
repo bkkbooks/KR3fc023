@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1446
+seq: 1446
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置日數七日九日相乗得六十三日爲實併曰數七日九日共一十六日爲法除之合問客持胡九馱曾經兩處抽分舶司九一不饒人関內商更緊十六分中求二稅訖放過関門九百五十九斤存要見原持試問右西江月答曰八十二秤三斤法曰置見樹九百五十九斤以所稅九分八分乗之得六萬九千四十八斤爲實以稅九分稅一餘八八分稅一餘七相乗得五十六爲法除之合問客持木香有數舶司九一抽分十六取二是開津二處征商俱緊經過兩司共稅二百七十四斤問分能筭邁同倫
+  hash: sha256:34c01a6514fab29609b48d8bbe5fb4b3da5f20adf64867eb63d802409e4279cb
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:1bc2cbb2e929710e08a1c7192e894c62e179d96a4bd4032915e7b37c3b8182f4

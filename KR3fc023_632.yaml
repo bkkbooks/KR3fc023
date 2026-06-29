@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/632
+seq: 632
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰與前法同倍寶合問如意立法六貫二百一十錢買却松不全每株牙錢三文足無錢就准一株答曰四十六株價一百三十五文法曰置錢六千二百一十以牙錢三文除之得二千七十為寶以開乎方法除之得四十五株餘寶四十五得一株十六株合問借了一斤三兩絮還他一十四兩綿二般價鈔曾相併百六十五文錢答曰綿兩價九五文絮兩價七十文法曰置絮一十九兩以相一百六十五文乘之三千一百三十五文為寶
+  hash: sha256:c8be7bb03096479142baa9323dd3fbb6c5daf3d551d8921503066c00e58a44b8
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:ebbda82287d92e67226c4f6cb39a67ed4d8b074ce5609996a26ea8442550d207

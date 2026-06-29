@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1616
+seq: 1616
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 餘三爲法除之得二十人以人五乗盈三十二得一百六十又人八乗二十八得二百二十四併得三百八十四以人相减餘三爲法除之得兔價一百二十八文合問本粟年年倍債主日日煎一年還五斗三年本利完荅曰原本四斗三升七合五勺法曰假令原本四斗三升不足六升四斗四升盈二升互乗不足得一石六斗四升盈看八斗六升併之得三石四斗爲實併盈不足共八升爲法除之合問九童詳註比類盈不足筭法大全卷第七
+  hash: sha256:838bd3c4af3b674a03f48d288d07b67ddaa51ebc1c8e357b4049a1c1ce789dfd
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:7e4256185200aa6a4a3d094905ad6d60f950e1dd414795678340e6afef618400

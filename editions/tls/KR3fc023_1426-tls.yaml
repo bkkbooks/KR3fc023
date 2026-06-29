@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1426
+seq: 1426
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 皆一百八約之得五分日之三合問今有三人四日淘金十五兩令三十六人淘金一月問得金幾何答曰一千三百五十兩法曰以淘金十五兩乗三十六人得五百四十以乗淘金三十日得一万六千二百爲實以三人乗四日得一十二爲法除之合問今有三人四日淘金十五兩今三十六人淘金一千三百五十兩問各用日幾何答曰三十日法曰置淘金一千三百五十兩以三人因四日得一十二乗之得一万六千二百爲實以原淘金十五兩乗今三十六人得三百四十爲法除之合問今有三人四日淘金十五兩一月淘金一千二百五十
+  hash: sha256:a4cbc0cfaa268c9bb4b8575290ae3f717acd64ba88272045e9d7f1dc6304a9cb
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:cd0439b9e3c7d3a1e666b0cb604e33740b4a5e29a45a39fcb01d42143a912949

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2028
+seq: 2028
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方法與徔方共二万六百皆與上啇二除實四万一千二百餘實一万七千八百四十乃二乗方法得四万併入從方共得四万六百俱爲方法一退得四千六十下法而退得百續啇置第二位以方法四千六十啇實得四十下法亦置上啇得四百爲隅法以方隅二法共四千四百六十皆與上啇四除實盡得外圍一百四十隊毎隊外圍二十四步該徑八步加中心一步共九步乗之得外圓圍二千一百六十步合問今有盜馬乗去馬主乃覺追之不及而還若要追二百七十八里十六分里之七及之只云馬主追之里数與追不及里数多一百三十八又云盜馬乗去已行里数內馬主追
+  hash: sha256:d025a0b3ac61b446bdde8d43df4f2ed80734630c5f2dc13459cd9aa05dcc0ebd
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:e74de5665f2bccc6069a4ef9fcf0154e09286f6344ad1a509d7da6e7b817f53b

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1256
+seq: 1256
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有方箭一束外圍四十四雙問共幾何答曰一百四十四隻法曰置外圍四十四隻加中圍八雙共得五十二隻以外圍四十四隻乘之得二千二万八十八隻爲實以方法十六除之得一百四十三隻加中心一隻共得百四十四隻合問又法外圍一面一十二雙自乘合問今有圓箭一束外周四十二隻問共幾何答曰一百六十九隻法曰置外周四十二隻加中圍六隻共得四十八隻以外周四十二隻乘之得二千一十六隻爲實以圓法十二除之得一百六十八隻加中心一隻共得一百六十九隻合問
+  hash: sha256:26cdccfd7e61ffe2cd0ebdf4a529d4feb840bf852cefd42b88cac38a2c5e2320
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:783d46e4479a434534edad4c402674295f4e88c0cb5d0585b8393b3482aac484

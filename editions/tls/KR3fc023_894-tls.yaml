@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/894
+seq: 894
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置銀四十四兩爲實以利四分乘八月得三乑二分爲法除之合問甲趕群羊逐草茂乙拽肥羊一隻隨其後戲問甲及一百否甲云所説無差謬又得這般二群輳再得半群少半群來和你一隻方得就玄機與妙誰參透右鳳棲梧答曰羊三十六隻法曰置云羊一百减和你一隻餘九十九雙爲實併群率二群半群又少半群共二十七群半爲法除之合問碓上三人爭炒閙糙米各持一斗分明道九一吾觀張大王婆三其宲麄糙二八牛婆心更操奪碓齋傾曰內相了借問各人分多少煩公計筭如何考右鳳棲梧
+  hash: sha256:acca7949fec623ec05de7df7af42d8df74d02cfbe0e1e095e7f6e2f0c7f75afd
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:b5c54ec330f7cfac47aa8455337a6ba49843167f25bd41e101de5dd1523344ee

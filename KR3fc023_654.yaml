@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/654
+seq: 654
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰牛倍馬半衰四馬倍羊半衰二羊衰一各列置衰四二一副併得七為法以所價粟五斗乘未併者牛四得二十馬二得一十羊一得五各自為列實以法七除之牛得二斗八升餘四馬得一斗四升餘二羊的七升餘一不滿法者為分子以法命之合問女子善織日自倍五日織五尺問日織幾何答曰初日一寸三十一分寸之十九次日三寸三十一分寸之七三日六寸三十一分寸之十四四日一尺二寸三十一分寸之二十八五日二尺五寸三十一分寸之二十五法曰七問織者當十六八四二一為衰各列置衰副併得三十一為法以
+  hash: sha256:f7ca0e1ceefc0c4742baceaf7b8267b65991e1fd2f5413e6defabd90a3fc3275
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:09bb063edd1a56d83bddc2ecbc1c5dd80b34b4285fad977f2a242fa77cf61d35

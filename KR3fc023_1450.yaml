@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1450
+seq: 1450
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五十一人乗五十又乗一十五得七百五十倂之得二千七百爲法以分毋相乗三十乗五十得一千五百又乗一十五得二萬二千五百爲實以法除合問一匠專爲虱篦終朝五十力彈一爲蟣篦未曾閑三日造成暮晚假令一人獨造二色俱要同完照依前例有何難會者筭中甚罕右西江月答曰一十二箇半法曰置篦虱篦五十篦五十爲毋以匠功一日三日爲分子以毋互乗子一日乗五十得五十三日乗五十得一百五十倂之得二百爲法以分毋相乗五十乗五十得二千五百爲實以法除之合問
+  hash: sha256:b8895d41a51f7a2dd9f76b695c53674bd5806168805a83829319eaff835d1c95
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:5de80754ebe6d16a97a552ba996bb4937d39f815c6ebfb994d6c4fc58de0a2b9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2076
+seq: 2076
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 疋價二百三十四貫五百六十七文八分九厘七百疋一四二一二八三五四二四九五六六三三文共鈔一十六万四千一百九十七貫五百二十今有絹三百五十疋毎疋價鈔三十四貫五百六十七文八分九厘問該鈔幾何荅曰一萬二千九十八貫七百六十一文五分法曰置絹爲實以毎疋價鈔爲法乗之合問疋價三十四貫五百六十七文八分九厘五疋一五二二五三三五四四五五分三百九一二一五一八二一二四二七一文共鈔一万二千九十八貫七百六十
+  hash: sha256:9271aa5d912fbef6a421e9263f3ffa02741a147824f6ef7ee05442d6b7f1ace6
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a8508344cd3181038d3b5993006f49bb2b632ffb6c9ca7e2a44cc99abcb611d4

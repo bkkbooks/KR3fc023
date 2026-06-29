@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1334
+seq: 1334
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法除之合問一人日造化三十八枚一人日造素七十六枚今令一人一日作花素問共造幾何答曰二十五枚三分枚之一法曰置花素三十八枚七十六枚相乘得二干八百八十八爲寶併花素三十八枚七十六枚共一百一十四爲法除之得二十五枚餘寶三十八以法約之合問造箭一人爲筸三十隻一人爲羽五十隻一人爲筈一十五隻今令一人一日自造筸羽筈問成箭幾何答曰八矢少半矢
+  hash: sha256:ddbecf6d66d0f6fbd752c8e328aef6a834aa7870a6fb79ea59876d66f327b721
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:b4cef26eaf570df9bd3b7edf5dc6574e4f560318ef5f5d3f55a7d5a1b3b60e6f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/248
+seq: 248
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰一貫九十四文十分文之九法曰置錢五贯四百五十八文以分母九分通之加分子二共得二十七貫二百九十二文又以減去分母二文通之得五十四貫五百八十四文別置減去錢四貫三百六十三文以分母二通之加分子一共得八貫七百二十七文又以錢分母五分通之得四十三貫一百三十五文以減前數餘十貫九百四十七文以二分母五分乗二分得一十分除之合問今有布二十一分疋之一十二疋法四十二疋得一十四尺比五十分疋之二十三得一十九尺三十二分問孰多幾何荅曰二十一分疋之一十二多一千五十分之一百一十七
+  hash: sha256:314c7eedd942e4d9492a2fcb92e545ece5bbc1ea5d3e014f9789acdc31a1e8f0
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:79da9b4387f41ccabb71d60a5261bdc0e557f5d146d769aef372fc92a344f840

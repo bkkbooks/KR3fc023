@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1900
+seq: 1900
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰南行四里二百五十二步法曰置城每邊三每里三百六十步通之得一千八十步加餘東六百步西二百步得一千八百八十步半城步得五百四十步乘之得一百一五千二百步爲實却以餘東門松株六百步爲法除之得南行一千六百九十二步以里步三百六十除之得四里餘二百五十二步合問令有方城一座每邊三里無餘東門路畔有松株相去六幾步方能見樹右西江月荅曰出南門一里一百二十六步法曰半城方以里步通方自垂爲實以餘東門爲
+  hash: sha256:2c66d89c7ab48b73570c16f28bf4035d6a1ba5450ea654245628b45967904bc5
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:34e5a8c83affcde18c25f2b3d873d8bec0d1d859442373ea370d6debd9c7dc0f

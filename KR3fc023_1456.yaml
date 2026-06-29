@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1456
+seq: 1456
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 甲乙隔溝牧放二人暗裏參詳田雲得乙九箇羊多倍之上乙説的甲九隻兩家之數相當二邊閑坐惱心腦畫地筭了一晌右西江月答曰甲六十三隻乙四十五隻法曰置甲七乙五以各得九隻乗之合問忽見兔兒方犬追來知先走步跡難推一千二百犬驅馳短少二十未及相隨犬急求之兔力微又追四百兔步行直趕過四十步無移兔子先行幾步何如右一剪梅答曰兔走二百步法曰置犬追一千二百步以倂趕過四十步未及二十步共六十步
+  hash: sha256:84788456bb65d20a7a3bd196beb6f0f2312e501c4c6e56a1bb147e3c70c06324
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:8e7d9df60f34c8704855ec943397b923e39c36d36a7182e6326dfbc37b7b8c52

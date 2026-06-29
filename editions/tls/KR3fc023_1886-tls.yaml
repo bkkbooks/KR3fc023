@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1886
+seq: 1886
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰竿髙四十尺前表去竿隔水二十五尺法曰置表髙一丈减人目四尺餘六尺以乗相去一十五尺得九十尺爲實以二表退行相减餘三尺爲法除之得三十尺加表髙一十尺得竿髙四十尺合問又法置前表退行五尺乗相去一十五尺得七十五尺爲實以二表退行相减餘三尺爲法除之得前表去竿二十五尺合問有望松生山上不知髙下立兩表齊髙二丈前後相去十步令後表與前表叅相直從前表却行七步四尺人慱地遙望松末與表端參合又望松本入表二尺八寸復後表八步五尺慱地遙望松末亦與表端參合問松髙
+  hash: sha256:71c3c393856e7ea12639c32deecab3dd2ec00f4d7d61315ab4af6345d1f03a59
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a05c7409db85fdf0dfc0d5de123911c1dd4b50f2000a5f17a3b428d0bddfc38d

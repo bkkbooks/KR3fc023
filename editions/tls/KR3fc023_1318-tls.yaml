@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1318
+seq: 1318
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 何荅曰甲縣粟八三千一百石車三千三百二十四輛乙丙縣各粟六成三千一百七十五石各車二千五百二十七輛丁縣粟四萬五百五十石車一千六百二十二輛法曰置各縣戶数以行道日数而一爲衰甲縣一万戶行道八百除得一百二十五爲衰乙縣九千五百戶行道十日除得九十五爲衰丙縣一万二千三百三十戶行一十三日除行九十五爲衰丁縣一万二千二百戶行道二十日除得六十一爲衰各列置衰甲一百二十五乙丙各九十五丁六十一副併四縣共衰三百七十六爲法以所
+  hash: sha256:75e483c391aad23e007e22a654677819e6476a9af621e0bc5b7f38fe4c2a8a23
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a0382efa316057c3dab0a3c4808da21492c81e66ef3ff2a5d41cd68b144c03f2

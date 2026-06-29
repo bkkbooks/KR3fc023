@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1140
+seq: 1140
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如倒合石也冥谷形如正面石穿地之況也曲池盤池並如蒭童法其曲池者併上中外周半之爲上乗又併下中外周半之爲下乗依蒭童法羨除併三廣以深乗之又長乗之如六而一其狀上平下斜以兩鼈臑一堵是第地古問二十八問地積一萬尺問爲堅壤幾何答曰爲堅七千五百尺爲壤一萬二千五百尺法曰空者實固之土者靈柔活築壘故以同之以地積一万尺求堅三之得三万尺四而一得七千五百尺以堅七千五百求壤五之
+  hash: sha256:0c63fbffc8b22e8005eb407eb8afb0b11da8c2a005928ee27f5aa6f1d9e8ef99
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a456a2f32f511200ed8f2084cbbcc17a7a5c6ed7b90d20769618de814bd21981

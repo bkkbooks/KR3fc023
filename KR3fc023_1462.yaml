@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1462
+seq: 1462
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有王屠來稅局局內便要稅錢足每斤合稅錢二文割了一十二兩肉走到街頭郆賣了該錢二百一十六試問斤價肉何如甚麼法曰筭得熟答曰肉九斤斤價二十四文法曰置賣錢二百一十六文以割肉十二兩過作七五乗之得一百六十二以每斤合稅二丈除之得八十一爲實以開平方法除之得肉九斤以除賣錢二百一十六文的斤價二十四丈合問小校先行约五十將軍馬上後驅馳趕程三百二十步欠行十步不能追休暫住莫停遲吏追幾步得相齊山般妙法人希會筭得重伊右鷓鴣天
+  hash: sha256:510526f2e8b15196ce6041d96331d4e6e52d75f190150c5066be1f4ea455a8d9
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:d751e1af083037c47aa0e9601234277ad89fddd567d00043afcd0cecff390ad1

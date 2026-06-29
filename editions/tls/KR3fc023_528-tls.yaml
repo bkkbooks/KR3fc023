@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/528
+seq: 528
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今賣錢一百九貫二百七十五文息錢六十五貫五百六十五文塩七百二十八斤八兩原本錢五十貫九百九十五文今賣錢一百二十七貫四百八十七文五分息錢七十六貫四百九十二文五分粉五百六十九褁四兩五錢原本錢四十五貫五百三十二文二分五厘今賣錢一百九十九貫一百九十九文二分一厘八毫七絲五忽
+  hash: sha256:9da20aee07a7df7eb5693b5693154c18630a71d90c7c7d61d992128c3dd02697
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:811d47c6cc5af5fff432377d5025ff38961f84d26a337ebbeedb3a23248eb54e

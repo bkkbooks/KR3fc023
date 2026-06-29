@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/996
+seq: 996
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法啇置第一位得三千下法亦置三千進三位為三百万為方法與上啇三除寶九百万餘寶三万六千三十六乃二乘方法得六百万為廉法三退得六千下法六退得一續啇置第四位以廉法六千啇寶得六下法亦置六為隅法以廉隅二法共六千六皆與上啇六除寶盡得三千六以分毋四為法除之得七百五十一步半合問積三十九億七千二百一十五萬六百二十五步問平方一面幾何答曰六萬三千二十五步法曰置積為寶照前法啇置第一位得六万下法亦置上啇六万進四位為六億為方法與上啇六除寶三十六億餘寶
+  hash: sha256:8f18bfe69ff27cd9b1319546762cc5545e0a4df289c3bde80cbe8e990ae087d0
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:2b326d62369dc5725a0890b843cf1d744c5f8de258a63a7ddd2f4607b134f5d7

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1664
+seq: 1664
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二斗麥五斗菽三斗荅九斗黍四斗直一百一十二麻一斗麥三斗菽二斗荅八斗黍五斗直九十五問麻麥菽荅黍各斗直錢幾何荅曰麻七錢麥四錢菽三錢荅五錢黍六錢法曰此問与第一問相同相增二位次第求之排列問数以第一麻九爲法遍乗二三四五行麻麥菽荅黍價一九爲法七三二五一百四十得一千一百五十二二七得六十三六得五十四四得三十六五得四十五三得二十七一百二十八得一千四十四三三得二十七五得四十五七得六十三六得五十四四得三十六一百一十六
+  hash: sha256:c836c263b7ed4e36972a02be55aa64362e7fbb10081bcb4f4f0ba7988aaa6fe2
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:cc6116925b60dcc1440357965253abe3b7d26a8887ec7fd16c9912c26bbbc0af

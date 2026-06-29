@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/952
+seq: 952
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 數合問甲乙丙丁戊酒錢缺千五甲兄告乙弟四百我還與轉差天幾文各人出怎取答曰轉差五十文甲四百文乙三百五十文丙三百文丁二百五十文戊二百文法曰置酒錢一千五百以甲出四百約之得十五為衰甲四乙三六丙二丁二半戊一得轉差三十文合問甲乙丙丁戊酒錢缺千五戊弟告四兄一百五我與轉差吳幾文各人出怎取答曰轉差七十五文
+  hash: sha256:5d7b314a7b1b295d4bd7ec1cdfef591b9f2a36ec8cdbd708d75fadbddd42a7c9
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:e0122c89de0ec1b1878cb2f9526627b22abbbfb5e83837fca27c2329546a427a

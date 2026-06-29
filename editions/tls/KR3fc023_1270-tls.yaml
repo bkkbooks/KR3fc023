@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1270
+seq: 1270
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 斤十兩八錢云鉛金銀十三分之十二銀如金十一分之二銅如鉛十六分之九問四色重幾何答曰金五十五寸重五十五斤銀一十寸重八斤十二兩鉛三十八寸四分重二十二斤十二兩八錢銅二十一寸六分重一十斤二兩法曰併金銀十三分鉛銅十二分共二十五分爲法置方五寸再自乘得一百二十五寸以分母十三乘之得一千六百二十五寸以法二十五除之得金銀積六十五寸以减緫積餘得鉛銅積六十寸併金銀分母十一分子二共十三除積六十五寸得五寸以乘分母十一得
+  hash: sha256:524036afe3796da625dc925109461ec5782ef22d2de673b5148849ec2cd39a3b
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:89b15f322e8676adec496d0d6c18d2db98369e674b8f2f99c37a78deef6a3553

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/504
+seq: 504
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子箇只云桃子一箇價比李子八箇比棗子四十箇問三色價各該幾何答曰桃子每十箇八文李子每十箇一文棗子每十箇二分法曰置李子六千箇以八除之得七百五十棗子四千箇以四十除之得一百併入桃子共得八千八百五十為法置鈔七貫八十文為實以法除之得八文為桃子每十箇價又以八除得一文為李子十箇價足以四十除八文得二分為棗子十箇價合問今有米石價五十七貫五百文芝麻石價四十貫豆石價三十三貫今三主以價物准之均出問各該物價幾何
+  hash: sha256:79d1e87e3e35be19cdf15c99fc5ff9694891d911abd5b2c8a00f146ceca9a062
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:54e5a65408da7cc8d4292821a281527a3dc512dda9c51672704763b5b00b6764

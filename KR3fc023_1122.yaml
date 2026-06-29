@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1122
+seq: 1122
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 爲從方以開平方法除之得闊一十六步二步分得長一十九步一分各以一步六分除之得牆合問山一叚稍然平請得山人踏驗瑩用地一調三分半未知四面怎生均答曰方面一十八步法曰置地一亩三分五厘以畝步通之得三百二十四步爲實以開平方法除之合問假有平方面五步一十一分步之一試問英賢能筭士要見共該多少答曰二十六步法曰置方五步以分母十一乘之得五十五加分子一共得五十六自乘得三千一百三十六再以分母十一減分子一得一十卻以分子一乘
+  hash: sha256:bcec4fa048dc6fa2039bd05c555484b51ababe4e2c0d9698b81b8a05bd630260
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:21b0e851fcc8f39c5aa399398552fcf65b255871d72b196c3373f4785619aec1

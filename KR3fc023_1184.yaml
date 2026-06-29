@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1184
+seq: 1184
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰人夫八千九百七十六人榑子木二十一萬二千一百六十條橛六十三萬六千四百八十條草葽六十三萬六千四百八十道用草一萬四千一百四十四束濠深一丈三尺一百七十九分尺之一百二十一法曰求人夫併上下廣半之得三十三尺以乗髙三十六尺得一千一百八十八尺又以長一万六千三百二十尺乗之得一千九百三十八万八千一百六十尺爲城積却以常積二十四尺乗三箇月爲九十四得二千一百六十爲
+  hash: sha256:95bf030d6b81108b1f8993fa95e9808dfca9853303ea3eb019b9a5878e30df45
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:d247b58361327874bccec29c09c7f7040972d1b6553bca5e15424b5f45d78cf9

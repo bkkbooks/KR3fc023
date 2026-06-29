@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/228
+seq: 228
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二為實以分毋三十四自乘得一千一百五十六為法除之得七十二折半合問又法併兩旁半周自乘九而一合問今有欖核田三角正中長一十六步三十三分步之三十二右邊周一十八步左邊半周九步問為田幾何答曰五十四步法曰置正中長一十六步以分毋三十三通之加分子三十二共五百六十自乘得三十一万三千六百又以分毋三十三減分子三十二餘一以乘分子亦得三十二併二數共得三十一万三千六百二十二為實以分毋三十三自乘得一千八十九為法除
+  hash: sha256:4c8b7768b2de5dafaa7f841510874aff0d4c11ba55745e90264845492e930e0b
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:80a3ab4c0c569d34b4ea078a76c4718487d1b448c60da81e3503d53e18e2967a

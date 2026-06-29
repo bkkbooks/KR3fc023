@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/532
+seq: 532
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 米三十七石三斗三升五合六勺二抄五棍原本錢七十四貫六百七十一文二分五厘今賣錢一百八十六貫六百七十八文一分二厘五毫息錢一百一十二貫六文八分十厘五毫法曰置持錢三百六十四貫二百五十為實以各買價為法乘之得各原本錢油斤價一百二十文得四十三貫七百一十文鹽斤價一百四十文得五十貫九百九十五文粉褁價一百三十五文得四十五貫五百三十一文二分五厘布匹價一百六十文得五十八貫二百八十文麻稱價二百五十文得九十一貫六十
+  hash: sha256:cb22a96ce219a8e26ceadd324bea9beb1278b54c9058356f06e728631074f37b
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:03049b345c06e07ce5341ac0547cc95e487b19ce60266b18d3ef5dc2b687659f

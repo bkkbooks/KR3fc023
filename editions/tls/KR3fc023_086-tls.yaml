@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/86
+seq: 86
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五步得二万二千五百四十五步折半爲實以畆法除之合問圓田周一百八十步徑六十步爲田幾何荅曰一十一畆六十步周徑步問積半周半徑相乗得積或周徑相乗四面一周步闊積周自乗十二而一或半周自乗三而一徑步問積徑自乗三之四而一半徑自乗三之法曰半周九十歩半徑三十步相乗得二千七百歩畆法而一合問圓田周一百十一步徑六十步三分步之一爲田幾何荅曰一十一畆九十步十二分步之一法曰置徑六十步以分母三通之加分子一共一百八十一步折半得九十步半半周一百八十一步得九十步半相乗得八千一百九十二分五厘却
+  hash: sha256:384dd08c18f410d29f4857b576bf51c057eb220584d1dfc6ab94d8da8be9ff7d
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:13b62edf8eb95a2ef048051bde176050d82a2adcab64fd073b58b0267d852aec

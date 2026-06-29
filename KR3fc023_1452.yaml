@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1452
+seq: 1452
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 甲於東京起步三日方到西京西京有乙起初程五日東京翫景假使乙先一日不知何日相侵吾儕都道會縱橫莫得徉推不醒右西江月答曰一日半法曰置乙先一日減元程五日餘四日乗甲程二日得一十二日爲實倂二行程甲二日乙五日得八日爲法除之合問甲乙同時起步其中甲快乙遲甲行百步且教乙才六十步已使乙先行百步甲行起步追若追幾步恰方及筭得揚名説你右西江月答曰二百五十步
+  hash: sha256:fc753a18629d31ed6850bb20652135754bd7b6ef387982ca6fcffa5d890c6572
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:80fa4bb553bf76c1e887be9aca691a870dd60d66903bb3261c4386e7acd6bfc0

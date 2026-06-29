@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/930
+seq: 930
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各除之得一十五兩絹得一十四兩布得一十四兩七糸以各疋除之得價合問五鵝九兔十四鷄五石二斗九升麥三色之價逓八折每升十二折錢訖答曰鵝價二斗五升折錢三百文共麥一石二斗五升該錢一千五百文兔價二斗該錢二百四十文共麥一石八斗該錢二千一百六十文鷄價一斗六升該錢一百九十二文共麥二石二斗四升該錢二千六百八十
+  hash: sha256:cd22d0406258ff95835823f274e137975276198c6eccdbe2cd8b0bb82e60c73a
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:46019c3c3a6a78001361287e2f8aed0f8c9e34cd16b60a45747415583ce82e7f

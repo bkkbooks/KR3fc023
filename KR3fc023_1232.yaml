@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1232
+seq: 1232
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以法除之得髙九尺合問今有米二百二石八斗欲造圓倉盛貯只云髙九尺問周幾何答曰二丈六尺法曰置米照前以斛法乗之得五百七尺又以圓法十二乗之得六千八十四尺爲實以髙九尺爲法除之得六百七十六尺以開五方法除之得周二丈六尺合問今有方窖一口上方八尺下方一丈二尺深一丈二尺六寸問積米幾何答曰五百一十石七斗二升法曰置上方八尺自乗得六十四尺下方一十二尺自乗得一百四十四尺又上方八尺乗下方一十二尺得九十六尺併三数得三百四尺
+  hash: sha256:f38673120ff4e9c29377eb7d3a70db7624021ec9378501f98d3f1e2c30525701
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:4844cbcef3ecb9eba7f14720f60e0848d4d906d23c3f8b3c72c0cfeb3fd15217

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2060
+seq: 2060
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十分升坤兊乹離中坎異震艮文厘合坤兊乹離中坎異震艮分毫勺坤兊乹離中坎異震艮佰錢斗坤兊乹離中坎異震艮萬坤兊乹離中坎異震艮千坤兊乹離中坎異震艮貫兩石坤兊乹離中坎異震艮十坤兊乹離中坎異震艮百坤兊乹離中坎異震艮
+  hash: sha256:6256638ca7598ee947798c25469f7cd7f206909824f0de23161975aa327a7f68
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:8040d6e453f7eda360d02d7a62dc5fdf752975dec0dab905c46c12e81769559d

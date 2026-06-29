@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1798
+seq: 1798
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 勾弦和勾共弦二十五六叚一三二六百二十五股先和股共弦三十二七叚二三二一千二十四股較和弦与股减共二十四五减二三一五百七十六弦和和勾股共弦四十九叚二四三一千六百弦和較弦臧勾股共数六一叚一三十六弦較較以弦减勾股較十三叚二一一一百古問二十四問勾八尺股十五尺問爲弦幾何答曰十七尺法曰勾八尺自乘得六十四尺股十五尺自乘得二百二十五尺併之得二百八十九尺爲實以開平方法除之合問
+  hash: sha256:b45b9d3ba0c208fa5eee092f0b97ad323de7b0fe8047e4c081a95541a01f515a
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:b63a9a783e6eb103216587a95ecfc69483217b8c6174c8be0f2cecf43c4b26b7

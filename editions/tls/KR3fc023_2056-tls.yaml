@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2056
+seq: 2056
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不動亦從寅位上定實却扵丑上得兩順数回寅上得尔卯上得分辰上得厘共得四厘五毫合問加法今有米一千三百五十六石三斗毎石價鈔一十五貫問該鈔幾何荅曰二萬三百四十四貫五百文法曰置米爲實以毎石價鈔爲法加之得数亦從寅上定實順数法十貫卯上得貫乃卯上得實首千仍復逆数回寅上得万貫合問減法今有鈔二萬三百四十四貫五百文毎鈔一十五貫糶米一石問該米幾何荅曰一千三百五十六石三斗法曰置鈔爲實以毎石價鈔爲法減之得数亦從寅上
+  hash: sha256:dad840a99ec37db70dfe7b894689afd27ccec421c2bfc471dea879bd737008d9
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:490304b514919949718a3e0721757e4e7bc8fef7617ec66e05de396b09233c1c

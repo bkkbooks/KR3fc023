@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 微妙無窮不有精扵是法者注書以爲筌蹄則初學之士將何由而得其藴與哉算學自大挠以來古今凡六十六家而十書今巳無傳惟九章之法僅存而能通其説者亦尠矣錢唐吳君信民精扵算學者病算法無成書乃取九章十書與諸家之説今類註釋會穳成編而
+  hash: sha256:47759de2328657a86e9daed5edad6942aeba926fbc60e0c7dc78359db87b3003
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a87ede559ccaad2ab0189021f7db079ae9dd21f94cc199ba9dbdc0073de1bb26

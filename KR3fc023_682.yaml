@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/682
+seq: 682
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七百八十引丙三千三百四十引丁二千五百二十引今鹽不敷先共支九千一百引問各得幾何答曰甲二千八百三十四引乙二千四百五十七引丙二千一百七十一引丁一千六百三十八引法曰各列置衰甲四千三百六十乙三千七百八十丙三千三百四十丁二千五百二十引副併得一万四千為法以所有鹽九千一百引乘未併者甲得六千九百六十七万六千乙得三千四百三十九万千丙得三千三十九万四千丁得二千二百九十万一千各自為列實以法除之合問
+  hash: sha256:f53c7db65f9ce54205a4c25d8d9aec15b927e072a1e83d2452acf8d70d71fbae
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:9865ec0ca32a4b02b018ba2c3a871af77d05a9680ffe54cb0ae43b6ec2d8a0ca

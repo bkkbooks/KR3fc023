@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1302
+seq: 1302
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以三爲隅筭開立言法除之得下廣五箇各圓滿及合問紅桃堆起一盤中八百一十有九箇四角堆之尖上一未知底子如何垜答曰底子一十三箇法曰置積八百一十九箇以三乘得二千四百五十七箇爲實以半箇爲從方一箇半爲從廉一爲隅筭開立言法除之合問紅橉一垜積難知共該六百八十枚三角垜來尖上一每面底子幾何爲答曰底子一十五筭法曰置積六百八十箇以六乘得四千八十爲實以二爲從方三爲從廉一爲隅筭開立方法除之合問一株槐木五尺方六面練粧外傍五寸截成方斗子幾
+  hash: sha256:7427f8db76613f37fb3cfc074dddbe5094d8f3fe0faada10af382272d7ef1727
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:5459c84189b790a6d9d47b56e82e190179a17febe1229f89d99db7ebfdeb78fd

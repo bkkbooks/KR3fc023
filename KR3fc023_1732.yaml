@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1732
+seq: 1732
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 除之得三百五十文爲大僧數合問今有絹三疋添鈔六貫布一十疋又布五疋添鈔一貫實絹二疋問布絹每疋各價幾何荅曰絹八貫布三貫法曰此問添爲正買爲負列所問數上正三下負十正六貫上負二下正五正一貫先以乙行上負二爲法遍乗甲行上正三得正六下負十得負二十正六貫得正一十二貫却以甲行上正三爲法復遍成乙行上負二得負六与乙行上正六異名對減尽下正五得正十五異減乙行下負二十餘得乙負五爲法正一貫得正三貫同加甲行正十二貫得正一十五貫爲甲行法除布價一貫乙行下正五以三貫乗得一十五貫
+  hash: sha256:901b7cd3aad4adced7bc7fa3513b152b93186ec4662fa4497dcba5aadab18a5f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:c192b6c59687c6d29c36ec9f0d84bd6fb33673280502618603a8323a39ee6a7e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1766
+seq: 1766
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以減総價餘二百四貫爲實以綾疋價二貫四百文爲法除之得綾八十五疋合問詞詩九問七釧九釵成器釧子分兩重多九兩四錢是相和仔細與公説過二物相交一隻秤和得等與那有人筭得是娄羅不會却來問我右西江月荅曰釧一隻重心錢釵一隻重五錢法曰此問其釧九釵共重九兩四乑交易其一適等者乃六劉一釵重四兩七乑八釵一釧重四兩七乑排列問數六釵一釵四兩七乑一釵八釵四兩七乑先以右行六釧爲法遍乗左行八釵得四十八四兩七錢得二十八兩耳乑却以
+  hash: sha256:58219b50990ec46272d3cf7dfd272caca3b6e3eb625e07763cc7c5f8d08a4e8d
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:f6f62e2264a35a11790916c83df7afd4f935f1090971bad891b8ab16e4fb9a5c

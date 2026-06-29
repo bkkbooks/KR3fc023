@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2106
+seq: 2106
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 位過身下一百兩又蒲法除四千五百又過身下一百兩又法除四千二百又過身下一百兩又滿法除四千五百又過身下一百兩共四百兩蒲法除四百五十過身下一十兩又蒲法除四百五十又過身下一十兩共四百二十兩折半除二百二十五貫當身就位下五兩得四百二十五兩合問約分數有參差不可齊須慿約法命分之法爲分母實爲子不與差分一例推今有二十一分之十四問約分得幾何荅曰三分之二
+  hash: sha256:4ac5f162e14643700d5f89a92053d7c165c5ba4db6217a5b23fd0693eb982ae3
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:3d01b139fb942929e8688320b6b691a8518f62374f9ec3a9a4fafcec46b321e9

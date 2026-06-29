@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1926
+seq: 1926
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 問斗面君知否荅曰古率斗面一尺一寸六分六厘三分厘之二法曰置五尺以七尺乘得三尺五寸如三而一得古率斗面一尺一寸六分六厘三分厘之二合問圓木二尺五寸徑欲厚七寸爲方未知桁廣有幾何如人田徑運動民堪敬荅曰桁廣二尺四寸法曰置弦徑二尺五寸以减厚七寸餘一尺八寸舉之得弦較九寸以减弦徑二尺五寸餘一尺六寸以弦較九寸乘得一百四十四寸爲實以開平方法除之得一十二寸倍得桁廣二尺四寸合問又二爲勾丈六內容直不知数有人得的無差長
+  hash: sha256:d0a91ab7ff02c8e61b3e632a70e08f8ef938ffd97fbc4e4ce919626c3a89ef9b
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:754b18e7868a61674d906bb438b4c50ce755dcb15742ba425989012f8c249ac5

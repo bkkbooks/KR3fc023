@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/878
+seq: 878
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰甲一稱二斤八兩乙一十斤八兩丙七斤八兩法曰置乾茗通之得三十五斤半為實以各行互乘甲三日乘乙五日得一十五為丙率又甲三日乘西七日得二十一為乙率又乙五日乘丙七日得三十五為甲率併之得七十一為法除之得半斤以乘各率合問一百三十三石常年額粟為期今年折納擬分催三豆田粟二米大豆八升折粟六升折米無虧粟依本色有倚倍問三色各幾右西江月答曰米二十四石折粟四十石粟四十八豆三十六石折粟四十五石
+  hash: sha256:d38e8642002e9e5dd93f8159bc7a7597f3434c6346b0a6628ed0646825a544b3
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:188bde5e5bd4f9b376c44abd78e01b7e3a8c48fc3ca5a80df7297f5d042b8073

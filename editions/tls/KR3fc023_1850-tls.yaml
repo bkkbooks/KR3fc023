@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1850
+seq: 1850
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有勾股田四畝一百六十二步只勾少如股三十二步問勾闊股長各幾何荅曰勾闊三十四步股長六十六步法曰通田四畝得九六十步併零一百六十千一百步共一二步倍之得二千二百四十四步爲實以少二十二歩爲從方開平方法除之得勾闊三十四步加少如股得長六十步合問今有勾股田勾闊九十一步不知股弦云股較再添長一十三步與弦步適等問股弦各幾何荅曰股三百一十二步弦三百二十五步法曰置勾闊九十一步自乘得八千二百八十一步股較添長一十三步自
+  hash: sha256:ab160d329e90e2d8e738659d13067a638d4340feeed1c70b45b1b7ca3eddf051
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:c1b1737eab67341f1f7a62e5619efd2be8d748d4d34f96f2bdf85ba396a114c6

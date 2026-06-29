@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/786
+seq: 786
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第四等六十戶第五等七十七戶問各等及每戶幾何答曰第一等每戶一疋二丈七寸五分共三十六疋十分之九第二第每戶一疋五寸共三十二疋二十分疋之八第三等每戶二丈七尺共三十一疋二十分疋之一第四等每戶一丈八尺共二十七疋第五等每戶一丈二尺共二十三疋一十分疋之一
+  hash: sha256:349f4db825f4296c4125efa730271729acc590023ce9c776da469fa1df11b3ad
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a27d458c7ed0be156bc46138f0491f767c03ea5628368463afb4f539ec46e9bf

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1042
+seq: 1042
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰通田三頃七十五畒得九万步爲實以開平方法除之得三百步爲一方面以里布而一合問今有直田積一千二百九十六步問一方面幾何答曰三十六步法曰置田積一千二百九十六步爲實以開平方法除之合問今有直田積一千三百步問一方面幾何答曰三十六步七十三万步之四法曰置田積一千三百步爲實以開平方法除之得三十六步餘實四分子倍方法三十六子一共七十三分爲分母合問今有直田面互十步問斜幾何
+  hash: sha256:fd4cb938ffae8cba5c4ee509e2ec62f7933f8205ef6bfd485bb18c2ee30bc548
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a034d9cc5030671aab8a073692954b14f05e4ed2080c3b547ba7adbfdd38c897

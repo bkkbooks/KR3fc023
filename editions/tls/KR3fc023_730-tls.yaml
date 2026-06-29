@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/730
+seq: 730
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰初日八十五字次日一百七十字第三日三百四十字第四日六百八十字第五日一千三百六十字第六日二千七百二十字法曰置絰五千三百五十五字爲實以一二四八十六三十二爲衰併之得六十四爲法除之得八十五字乃初曰書數加一倍得各日數合閤各分差分法曰置各等戶以各分乗之爲衰副併爲法以所分乗未併者各自爲列實以法除之今有孫粟六萬八百七十石八升於上中下三
+  hash: sha256:b9fc342108c9d04f398a0638a8a370a735ca078428ea473d2d0aa272e4ac6e40
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:1344e2b5bb11ced8344fadd77c262e5eb22910e9581c98d3f53fa4b8dc9799f0

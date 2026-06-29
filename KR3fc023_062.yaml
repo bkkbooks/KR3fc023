@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/62
+seq: 62
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 詞詩五十問西江月十一剪梅一折桂令一玉樓春三鷓鴣天二七言八句六七言四句草六六言四句一盈不足卷第七計六十四問古問二十問買物盈不足三重率買牛一買金雙盈一買羊兩不足不足適足一買豕盈過足一二馬行程一蒲莞問長一兩鼠穿垣一瓜瓤蔓逢一玉石分重一醇行酒數一善惡田一金銀較重一新故米一錢問本利一漆易油一大小器容米一
+  hash: sha256:d112a1a55f290e92cee43a2bc5b4d95db1bd53d90a8549ae68059ede9a8f36f3
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:b491ff90bfeb6f1fdac417531d78de6956a87f22076ad97a9628c8d545bf447e

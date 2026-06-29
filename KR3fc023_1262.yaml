@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1262
+seq: 1262
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以一位二得二十六箇乘之得一万五千六百箇如六而一問今有酒瓶一垜下長一十四箇闊九箇問積幾答曰五百一十箇法曰置下長一十箇减闊餘折半得二箇半增半得三下長共得一十七以乘闊九箇得一万五十三箇又以闊箇一万箇得一十箇乘之得一千五百三十箇爲實如三而一合問今有酒罈一垜下廣五箇長一十二箇上長八箇許幾何答曰一百六十箇法曰倍下長加入上長北得三十二箇以乘下廣箇得一六十箇又以下廣添一得六箇乘之得九百六十箇如六而一合問
+  hash: sha256:526c16b6b644b52830231373f9963365881001701ab3fb993a126d36826a97f7
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:8ad8ac207ae23744cf24d2344e6bcc64cdd29d6abd3a191b8dce0ceca7aeeb84

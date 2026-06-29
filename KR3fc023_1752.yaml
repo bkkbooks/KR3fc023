@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1752
+seq: 1752
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弱軍一名力引三十四石七分石之二老軍一名力引一十一石七分石之三法曰列所問數以右行右壯一爲法弱一空八十石中空弱二老一八十石左壯一得一空老三得三八十石得八千石復以左行壯一爲法遍乗右行壯一得一与左行異一對減尽弱一得一左行中空加入得弱正一老空无數乗左三亦得老正三八十石得八十石八十行八十石空再以中行弱正二爲法遍乗左行弱一得正二老正三得正六却以左行弱正一爲法復遍乗右
+  hash: sha256:7aa49665c3cc7a4a36db1189857f5bfc42b4a748c087829455389affc61f4fa0
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:3ab708db2e8248061564f3a32c4e4a2cc2f407a5f27b8d4e44df860bc8449a19

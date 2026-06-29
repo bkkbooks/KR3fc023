@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1034
+seq: 1034
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以一百三十步又以分母十一乗之加分子一十共得一千四百四十爲法除之得一步餘實一千二百法實皆二百四十約之合問今有直田一畒九十七步四十九分步之四十七問廣幾何荅曰二步二十分步之九法曰通田一畒得二百四十步以分母四十九乗之得一万一千七百六十步爲實置九十七步以分母四十九乗之加分子四十七共四千八百爲法除之得二步餘實二千一百六十法實皆二百四十約之合問今有直田八畒六十步問廣幾何荅曰三十二步法曰通田八畒得一千九百二十步爲實以六十步爲法除之合問
+  hash: sha256:5005ac6b7eb5697c3c515e896ccbd5d284493651bafdc5fc0db5c4195362d13d
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:c07ef066cf683949f20de101f55fa20cfc0ff275f6dae907fb2ce4a54f6f9ac7

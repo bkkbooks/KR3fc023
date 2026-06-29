@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/926
+seq: 926
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十九万五千二百丙得二十三万六千一百六十丁得一十八万八千九百二十八各自列實以法各除之合問六八絹十二布一斤二兩九錢銀各價先言該六折物該銀筭要真答曰一疋該銀一兩二錢半共七兩五錢絹一疋該銀七錢半共六兩布一疋該銀四錢半共五兩四錢法曰各列置衰六百絹百八十布四百十二副併得一千五百一十二爲以所賣銀一十八兩九糸乗未併者得一千一百三十两絹得九百七兩二布得八百一十六兩四糸八分各自爲列實以法除之續得七糸絹得六
+  hash: sha256:8e24b973d288bc18d010b3bf0683328011b38802cbc55d7ad09e8eb163a54425
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:b457cf68530a28f65da674842cdf0b14d2fbd17e5597ffbd53219a5bdaac22e2

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1686
+seq: 1686
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 多乙錢餘五十半之得乙錢二十五文復以乙錢二十五文甲錢一百文以少減多甲錢餘七十五文半之得甲錢三十七文半合問上禾七秉下禾二秉內損一斗餘實十斗不損一斗即十一斗上禾二秉下禾八秉外益一斗而實十斗不益一斗即是九斗問上下禾一秉各幾何荅曰上禾一秉一斗五十二分都之十八下禾一秉五十二分斗至四十一法曰列所問數上七下二十一斗上二下八九斗以甲行上七爲法遍乗乙行上二得一十四下八得五十六九斗得六十三斗復以
+  hash: sha256:bb578d085f3de85a13d7570c0fa42fc7db12a292b96a8f15f312ce137c8d1f69
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:f50a4216f86ab54e9e3bdf326b22294d2874e77dd0f16510811379d108ce20af

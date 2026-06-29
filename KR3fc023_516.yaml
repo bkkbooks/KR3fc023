@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/516
+seq: 516
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百文七分粉六分麵問買物并錢該幾何答曰綾二十七匹八尺四寸該錢九十二貫八百二十丈絲八十一斤十四兩四錢該錢一百四十三貫三百二十五文粉一百九十一褁三兩二錢該錢一百二十二貫三百四文麵一百六十三斤十二兩八錢該錢一十六貫五十二文四分法曰置錢三百七十四貫五百一文四分為實以各分乘各價綾一分得三
+  hash: sha256:61f630ccc7fa2f264552036611288e4291b18d86f0e8b2a0454d0f6362081b17
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:c5025ea91e8bcf97efe01b41ed93b2e47fe0c5c6a6e93e92443544db814005e3

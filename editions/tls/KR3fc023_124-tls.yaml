@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/124
+seq: 124
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置貴七分從五分相乗得三十五分爲法置分子之三之四相乗得一十二爲實不滿法以法命之合問問田廣九分步之七縦十一分步之五爲田幾何荅曰十一分步之七法曰置廣九万縦十一分相乗得九十九爲法置分子之七之九相乗得六十三爲實不滿法以九約之合問問田廣五分步之四縦九分步之五爲田幾何荅曰九分步之四法曰置分子之四之五相乗得二十爲實以廣五芝九分絲分相乗得四十五爲法實不滿法以法命五約之合問
+  hash: sha256:581f20b40fa24e2ad48ef2cfa1b54cc9d4172f26de7478a43abd51dc04f0b742
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:638550f3955fd41cae54d0f0b755b8153cc0a2fb6c9c8d21b7ea49d149b5c43e

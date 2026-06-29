@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1268
+seq: 1268
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十二百寸又以五乘之合問今有金銀銅鉛四色長闊相等被火镕作一塊立方五寸共重九十一斤十二兩七錢五分每立方一寸金重一斤銀重十四兩鉛重九兩五錢銅重七兩五錢問各重幾何答曰金三十一斤四兩銀二十七斤五兩五錢鉛一十八斤八兩八錢七分五厘銅一十四斤十兩三錢七分五厘法曰置方五寸再自乘得一百二十五寸以四除之得三十一寸二分五厘乃一色積寸列四位各以方寸重兩变斤乘之合問今有金銀鉛銅四色被火镕作一塊立方五寸共重九十
+  hash: sha256:727a8318a78065c9ddd75dc71c6bd1bd9ec94618d09c34f904517f2b57f92cac
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:be12b341019f4fe25f5efc7aecf907db32173e349f62c36f406112657c43c197

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1592
+seq: 1592
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百兔縱橫走入营幾多男女閗来爭一人一箇難拿盡四隻三人得停来徃驟鬧縱橫各人捉得徃家行英賢果是能明筭多少人家甚法評石鷓鴣天荅曰七十五家法曰假令七十二家盈四鹿九十家不足二十互乗盈得三百六十家不足得一千四百四十併之得一千八百家爲實併盈四不足二十共二十四爲法除之合問今有垣墻九尺髙瓜瓠墻邉長二苗瓠㘽墻下生髙去瓜生墻上下垂梢瓜蔓曰長該三尺瓠蔓日生一尺條二苗依此均勻長不知何日蔓相交荅曰二日三時
+  hash: sha256:b1ba69bbd95ff149db5b68d2fb4b2cf07dbf17c1d076096c3d07b97dc3cb958f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:d27abc3f7759bfd68543a018768d1f8052429c58cb56af6516434867e7e7c46e

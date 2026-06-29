@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/756
+seq: 756
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 中中等二十四戶每戶四十八分該九十稱共二千一百六十稱中下等二十七戶每戶四十二分該七十八稱一十一斤四兩共二千一百二十六稱三斤十二兩下上等四十九戶每戶三十五分該六十五稱九斤六兩共三千二百一十五稱九斤六兩下中等九十五戶每戶一十五分該二十八稱一斤十四兩共二千六百七十
+  hash: sha256:5d42809b3dbbb1bb499564a7169948005ebc638b11c6f4a65a181677d8e23b23
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:a222830255e0b51058eaffcdcbb816d2f66ba0c0134eac82b256af1f4f8c043a

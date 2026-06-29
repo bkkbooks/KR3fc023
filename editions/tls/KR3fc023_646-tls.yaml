@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/646
+seq: 646
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰桃三枚該二十七文梨三十一枚該六十二文杏六十六枚該一十一文法曰列置百文百果約之先得一十一文六十六杏以減總数一百餘得八十九文三十四果以桃價九文乗果得三百六文以減八十九文餘二百一十七文爲實却以桃九文減梨二文餘七文爲法除之得梨三十一以減果三十四餘得桃三核合問九章詳注比類粟米筭法大全卷第二
+  hash: sha256:5249f1aab10f5d9567506c880a714aa2cf7df0d90027fc07e6ad3251db530401
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:4beff2a510b42d42f95c5e067a262bac2f4b2557076872b3e6daaa0deaf0da06

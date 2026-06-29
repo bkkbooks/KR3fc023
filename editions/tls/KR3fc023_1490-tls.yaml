@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1490
+seq: 1490
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十六西瓜十七兩車推去無斤数若還易換過一枚兩箇車兒停推去荅曰瓜重一秤重一十四斤法曰置列十五瓜一一瓜十一互乘十五瓜得二百四一瓜得一箇以少减多餘重二百三十九斤爲實以瓜十二五爲法除之得瓜重一十五斤餘實一十四斤得重合問騾行五十馬行七先行後趕俱未及各行日数曾相併共行筭該十八日荅曰騾行十日半馬行七日半法曰置共日十八以馬七十乘之得一千二百六十爲實併馬行七十騾行五十共一百二十爲法除之得騾行一十日半以减共日餘得馬行七日合問
+  hash: sha256:c4683711e8519746fb1b25db83bae8b1912d292f0172789e8a7cbe2ec087bc3b
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:957e2dbea24df041badaad223de7ec9769e7dcc1359c9f0b12b2eee674d11b46

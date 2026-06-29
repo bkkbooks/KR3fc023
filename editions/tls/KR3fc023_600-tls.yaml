@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/600
+seq: 600
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 千四文錢梨棗数要全毎頃市上問聲宣我將一棗歸家去教公一任筭三年右鷓鴣天答曰梨六百五十七箇該錢八百三文棗三百四十三箇該錢一百九十六文法曰置列九箇七箇一千箇十一文四文九百九十九先以上中互乗九箇乗四文得三十六七箇乗十一文得七十七以少減多餘四十一爲法又以中下互乗七个乗九百九十九文得六千九百九十三文四文乗一千个得四千以少减多餘二千九百九十三却以梨九个乗之得二万六千九百三十六爲實以法四十一除之得梨六百五十七个以減緫数一千餘得棗三百四十三个以各價乗除合問
+  hash: sha256:ba8e9be59aa3dc9dce34aafd98f8686f1a0dd57f1d3125228a01d634da00fa3f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:73eceebdfc4ad0d81846fff2c7f9eca4970b08c03b2c5c3f8e5428065db9b9a1

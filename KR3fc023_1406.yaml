@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1406
+seq: 1406
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有收到稅鈔三十七定四貫六百六十文問原該合稅物價幾何答曰一千一百三十七定四貫八百文法曰置稅鈔二十七定以定率五貫通之加零四貫六百六十文共得一百八十九貫六百六十文爲實以稅例三十爲法乗之得五千六百八十九貫八百文再以定率五貫除之合問顧舡載盐今有盐五千八百引欲令大小船只等載之只云大船三隻載五百引小船四隻載一三百引問船及各載幾何答曰二十四隻大船一載四千引小載三千八百引法曰置盐五千人百引以大小船三隻四隻相乗得一十二乗之得六万九
+  hash: sha256:1a07749b3a34f3dd4592c5aecae95ce8a58b3004f8845c4a1956d920da75699e
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:70af220af2f25f8aadf9cd5eaa2f1f25d1c18db8904b108c91bbb9036c00a7c0

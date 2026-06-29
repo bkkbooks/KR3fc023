@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1436
+seq: 1436
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大將軍中軍帳每靣闊一十六步共積二百五十六步都指揮二十員每員積三十六步共積七百二十步指揮二百四員每員積二十五步共積五千一百步千戶四百八員每員積一十六步共積六千五百二十八步百戶兩千四十員每員積九步共積一萬八千三百六十步
+  hash: sha256:431b1129f02499e8429b4d804a8c5afddb85d07cfa8a09d00cabde085adb3f66
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:96ed5c8c5f401b2ce15ec49191f61942f746ce285df40a0dbdbde4a55e931bad

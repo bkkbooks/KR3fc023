@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1898
+seq: 1898
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 整東岸有生種出水一尺無零叚江薄梢接水齊平三事深長請問右西江月荅曰水深一丈二尺蒲長一丈三尺葭長一丈五尺法曰勾半方五尺自乘得二十五尺以減弦較出水一尺自乘得一又以減勾二十五尺餘二十兩尺爲實倍較出水二尺爲法除之得水深一丈二尺各加出水合問今有方城一座每遍三里無餘東門咱畔有松株相去六百步數却向西門出去徐行二百休趨折囬南去望城隅幾步行來見樹右西江月
+  hash: sha256:b691dc0145f9f7d02e28c5e52cb669ddc904b15f01f2d0088007724cffc87a77
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:4eadb32a8126bfae7f96ec5c5cf03db1565059b60053555f693ee85554066a96

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/612
+seq: 612
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 中聽得語吟分言當二瓶妳灌一升醉三灌三升醉一人共通飲了一斗九三十三客醉醺醺欲問高明䏻筭士幾向醨酒幾多醇答曰好酒一斗薄酒九升法曰置好酒一升互乗一人得一升爲醨酒薄酒三升互乗三人得九升爲醇酒又以薄酒三升互乗三十三人得九十九人爲総人又以醇酒九升乗共飲酒一斗九升得一酒七十一人內减九十九人餘七十二人爲實却以醇酒九升减醨酒一升餘八升爲法除之得薄酒九升以减共飲一斗九升餘得好酒一斗合問今有四石五斗黍碾束未精逢細雨裝到家中簸去糠三
+  hash: sha256:0b133f628ac9abb2a496ae7a494525af8c43d34724cb69f418f24b47c8fccec8
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:940c1a0ab6c4a43de4a03a757b3cdf175d283f31d4aa8a6bdf41db2de769c98c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1146
+seq: 1146
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰併上下廣半之得一十三尺一寸五分以深六尺一寸乗之得八十二尺八寸四分五厘又以袤一百三十一一寸乗之合問渠上廣一丈八尺下廣三尺六寸深一丈八尺袤五萬一千八百二十四尺問爲積幾何答曰一千七萬四千五百八十五尺六寸法曰併上下廣半之得一十尺八寸以深一十八尺乗之得一百九十四尺四寸又以袤五万一千八百二十四尺乗之合問方堢壔方一丈六尺髙一丈五尺問爲積幾何答曰三千八百四十尺法曰上下方相等形如方柱題類堆垛方一十六尺自乗得二百五十六尺以髙一十
+  hash: sha256:1205c8a4e466c98f5d28e56eadf1f62ccfa10e1ee744f9c3c18afa28ac75b828
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:c2c60d9c9ba43346c3bfe5b12da3f757c05768aa9587288a4c64a3e491d85a4a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/378
+seq: 378
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 問出錢一百六十買鈱尾一十八枚間一枚價幾何答曰八文九分錢之八法曰以出錢一百六十為實以買鈱尾八十為法除之得八文餘實十六法實俱折半得九分錢之八合問問出錢一十三貫五百買竹二千三百五十箇每箇價幾何答曰五文四十七分錢之三十五法曰以除錢一十三貫五百為實以買竹二千三百五十為法除之得五文餘實一千一百五十法實俱五十約之得四十七分錢之三十五合問貴賤率除法曰以出錢數為實以所買物數為法實如法而一通歸除法實不滿法者以數為貴率即是分不盡錢數乃在物上以
+  hash: sha256:e5cd2317af9d7f976b5b9e1ae67bcea03ac0b26366093a5e37a971b7d8d55cdb
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:44d9def2880fe13a368fc97faf4f50d99fc251c3e7f040713c7edf2bec32dc64

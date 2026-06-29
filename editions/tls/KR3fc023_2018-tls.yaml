@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2018
+seq: 2018
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 於實数之下啇置第一位將徔方一進得十下法二進得百以啇實得三十下法亦置上啇得三百爲方法與徔方共三百一十皆與上啇三除實九百三十餘實三百三十乃二乗方法得六百併入徔方共得六百一十俱爲方法一退得六十一下法再退得一續啇置第二位以方法六十一啇餘實得五个下法亦置上啇五爲隅法以方隅二法共六十六皆與上啇五除餘實盡得底子二十五个合問今有兵士二十二萬八千四百八十名圓寨一毎五十六名爲一小隊外圓圍二十四步毎一千一百二十名爲一中隊毎隊指揮一員千戶二員百戶一十員毎二萬
+  hash: sha256:ab57cac9e8f93e857cf5c029b3b97c6cc7e939ae1ed2c1d6e018351f13de9d96
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:9ceeb8712bc4d6d3b7c89154dc3ffbeb284596c800721959d68f73e002b327fb

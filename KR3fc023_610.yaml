@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/610
+seq: 610
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰絹尺價一錢七分靛斤價二錢五分法曰置絹二十五尺以共四尓二分乘之得一百五為實併二價絹二十五靛一十七共四十二為法除之得靛斤價二尓五分以减共價餘得絹尺價一尓七分合問斗米粟斗半米一陳狂風起相和做以處分又分不得因此上做箇江見水右江兒水答曰米主該分一斗八升七合五勺粟主該分一斗一升二合五勺法曰置米粟共三十為實以米率六粟率十共十六為法除之得米一斗八升其分五勺以减數餘得粟一斗一升二合五勺合問
+  hash: sha256:f966626b9045b5381746f4401501a4baf23f0e45d51c50c6a00e2bed9cc16d55
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:181c94ec565c7c8eca6076c24e097c754032f50b293c6d65dca45efb6536934f

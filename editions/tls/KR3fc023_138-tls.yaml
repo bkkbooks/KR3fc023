@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/138
+seq: 138
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有直田廣三十二步縦六十步問爲田幾何荅曰八畒法曰置廣三十二步乗縦六十步得一千九百二十步以畒法而一合問今有直田廣三十二步二尺縦六十步三尺問爲田幾何荅曰八畒一分八厘一毫法曰置廣二十二步以毎步五尺乗之加乗二尺共得一百六十二尺縦六十步毎步五尺之加零三尺其三百三尺相乗得四万九千八十六尺以畆法六千尺除之合問今有直田廣三十二步三尺四寸問爲田幾何荅曰八畒二分四厘五毫四絲四忽法曰置廣三十二步通三尺六寸爲七分二厘縦六十步通二尺四寸爲四分八厘相乗
+  hash: sha256:d8e2fee13c95403f15e10ce822f6762b9d362f4d1fc407daffbc56c8cadfe1fa
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:ba51201c4495f1075c46f44902f8daeb2b921cfbd04c80a8b659756f0c1f972a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/80
+seq: 80
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰方自乘為積如畒法而一十目乘即是直田相乘也通方一里得一百步自乘得八万步以畒法而一合問圭田廣十二步縱二十一步為田幾何答曰一百二十六步圭田一頭尖一頭廣其行如圭其積之直田之半廣縱相乘折半正頃乘半廣減長丁角以餘補折作直田半正縱以乘廣截步一半為畒分兩如直田百為侑兩兩之為法曰置廣十二步縱二升一步相乘得二百五十二步折半合問圭田廣五步分步之一縱八步三分步之二為田幾何答曰二十三步六分步之五
+  hash: sha256:4886c46b90b26e0a3bfc9f1c14ff66a0df26f55f3787d9eb6170ed02ac3a51bb
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:b7876bcc6bfd89a477087da54f8400dea4249fef433f01deb9630d3fcaa21d65

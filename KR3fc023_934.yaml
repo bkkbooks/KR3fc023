@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/934
+seq: 934
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四錢丁五稱六斤九兩六錢法曰各列置衰丁四十丙六十乙九十甲一百三十五副併得三百二十五為法以所分銀以稱通斤共六百六十二斤以斤求兩得一万六百八兩乘禾併者甲得一百四十三万二千八十兩乙得九十五万四千七百二十丙得六十二万六千四百八十丁得四十二万四千二百二十各自為列實以法各除之得數定身减六為斤减五為稱合問七稱一十一斤銀四箇啇人照本分原銀遞以三七出休得七折熟瞞人答曰甲四稱八斤九兩六錢乙一稱一十四斤六兩四錢丙一十二斤九兩六錢
+  hash: sha256:d3bba9e703955199c5b5652fffc0a7dbcba13e1311aedc53c552ef28404ee47a
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:c8b056a29b6ec02805bdfcb4bf893c7bc8c680b5abd39d24e038bc441d9ad0c2

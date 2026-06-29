@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1940
+seq: 1940
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十五減之餘一百二十五步却以平五除之得平二十五步又置減餘一百二十五步以減長較和餘三十得長較和九十五步加平二十五步共一百二十步折半得長六十步以減長較九十五步餘得較三十五步併長平得和八十五步合問七百五十勾股積長較相乗二千一不知和較與長平四事如何得備識荅曰長六十步平二十五步和八十五步較三十五步法曰置勾股積七百五十步以長較相乗二千一百步約之得股長六十步勾一十二步半倍之得平二十五步減長六十步餘得較
+  hash: sha256:d3e5508a5b81f7d0ec2dff04863bd95127790ee47f9e2787763d9baaf8272c1a
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:f1fa1f5d5f76f18b3cc5523eb178c96b55c7c96480ff2aa5de87c34e49a8086a

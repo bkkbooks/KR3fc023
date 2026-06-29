@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1928
+seq: 1928
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 才可應筭中舉荅曰長七尺六寸八分五尺七寸六分法曰置勾十二尺十六尺相乘得一百九十二尺爲實以勾十二减十六餘四寸乘乃二五除得長七尺六寸八分又置勾二十自乘得一百四十四以二五除得闊五尺七寸六分合問一箇銀盆三尺周內容三雙水日毬有人下得穿心徑奪却筭中第一籌荅曰毬徑四寸六分五厘有奇法曰置周三尺得徑尺爲一尺乃三分之二爲勾得六寸六分六六毫七以乘一得六尺六寸六六厘七毫倍之得一十三尺三寸三分三厘回毫爲實以勾乘併得一百四十四寸以開平方法除
+  hash: sha256:43afadee6f6f9b17c8fb7b4bf56f1f20e8bb3cce89625ba85c2b099566348f2c
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:fc497e7d84301862a1bccf56220e7ac785c0456dcf2b75435a6c4f541fa5a769

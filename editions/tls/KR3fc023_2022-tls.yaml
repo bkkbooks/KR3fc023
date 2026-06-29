@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2022
+seq: 2022
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大將軍中軍帳用十三隊共積七百九十三步都督一十貟毎員用四隊共四十隊共積二千四百四十步都指揮二十員毎員用二隊共四十隊共積二千四百四十步指揮二百四員毎二員合一隊計一百二隊共積六千二百二十二步千戶四百八貟毎三貟合一隊計一百三十六隊共積八千二百九十六步百戶二千四十貟毎四貟合一隊計五百一十
+  hash: sha256:1e186876df0039e70862463d0b217f4d4bd93c212db64f86bf9d676f3f226f63
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:cad0a6be7ebe888bcf5f6e7a8bf48acc597e153e5177be142a0e28a4c824cc04

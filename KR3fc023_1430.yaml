@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1430
+seq: 1430
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 爲實以原食米八升乘今三十口得二百四十爲法除之得一百一十二日半以月三十除之得三個月零二十二日半合問今有一工舂米三石一工篩米二十七石今令一工自舂篩幾何答曰二十七斗法曰置舂米二石乗二十七石得八十一石爲實併舂篩二米得三十石爲法除之合問支給綃布今有官軍一千人共給布一千匹只云四軍一疋四疋一官問各得幾何答曰官二百貟給布八百疋軍八百名給布二百疋
+  hash: sha256:c102500e679b5a0f34b4b425ca9512e11b7d1288a6eb0574e81aa82211c30ff1
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:2686eaa4df3f5404b9b0e0bb1d6a3fd9ad140252bbdc0738c913bce0d98d2475

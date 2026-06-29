@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/696
+seq: 696
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有甲至癸十人共分錢一十貫只云甲十一乙十丙九丁八戊七巳六庚五辛四壬三癸二問各得幾何答曰甲一貫六百九十二文六十五分文之二十乙一貫五百三十八文中五分文之三十丙一貫三百八十四文六十五分文之四十丁一貫二百三十文六十五分文之五十戊一貫七十六文六十五分文之六十巳九百二十三文六十五分文之五庚七百六十九文六十五分文之一十五辛六百一十五文六十五分文之二十五壬四百六十一文六十五分文之三十五癸三百七文六十五分文之四十五
+  hash: sha256:a2b1fe047b9fa9eb25aedf0ebaea6a22001be7f7d61cdbc59e98222347e7ab5b
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:322fbd2b7afe6efb8bd29df220dd01feae96442406bffe6991f9a8ae785f75cd

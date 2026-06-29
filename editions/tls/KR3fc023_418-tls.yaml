@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/418
+seq: 418
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有米六石二斗四升糴鈔四十六貫八百文只有米二石六斗三升問該鈔幾何答曰一十九貫七百二十五文法曰以只有米二石六斗三升乗糴鈔四十六貫八百文得一百二十三貫八十四文爲實以原米六石二斗四升爲法除之合問今有鈔一十九貫七百二十五文糴米二石六斗三升只有鈔四十六貫八百文問該糴米幾何答曰六石二斗四升法曰以只有鈔四十六貫八百文乗糴米二石六斗三升得一石二十三貫八十四文爲實以原鈔一十九貫七百二十五文爲法除之合問
+  hash: sha256:2c5d5bfb69bbd329ec366e7fb5eb2d735c9389b7f95972610f46f2a447e0ab79
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:d8cc3e41171ed386fc8475cb454b880ccbff3c1e49dbde6641d7d447206d5b2f

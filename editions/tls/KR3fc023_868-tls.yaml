@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/868
+seq: 868
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 利鈔合問今有人午年六月十五日借鈔一百六十貫月息三分今已還利鈔七十三貫四百四十文問該展至何年月日答曰入利十五箇零九日至未年九月二十四日法曰置借鈔以月利三分乗之得四貫八百文爲法已還利鈔七十三貫四百四十文爲實以法除之得十五个月零三分以三乘之得九日加原典月日合問詞詩五十九問三客攅銀買賣甲銀十兩三錢乙銀九兩七錢言丙獨出銀斤半換得新絲九秤五斤四兩都全有能分豁步教揙
+  hash: sha256:ae782c1e553a3f3d80d6ec324b39f758eab4a72627dd4b5fc467c3ed48557474
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:8cbbe160b3d649570a61be806ffa14c8d884d7e0d4e6e056ad6d3986df5d41f3

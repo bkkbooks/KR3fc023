@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1312
+seq: 1312
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 輸所二百里零丙縣七千一百八十二戶粟一石價錢一十二錢遠輸所二百五十里零丁縣一萬三千三百三十八戶粟一石價錢一十七錢遠輸所二百五十里零戊縣五千一百三十戶粟一石價錢一十三錢遠輸所一百五十里問各縣出粟幾何荅曰甲縣三千五百七十一石二千八百七十三分石之五百十七乙縣二千三百八十石二千八百七十三分石之二千二百六十丙縣一千三百八十八石二千八百七十三分石之二千二百七十六丁縣一千七百一十九石二千八百七十三分石之一千三百
+  hash: sha256:28521414c15b7548a08dc7eac2cdf33ec3f32da130a2a3a251696852e81ef28f
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:320a35c88ff440afc3cc96d613cd82eed7243ae0a23de1ac35f7d1811b08af93

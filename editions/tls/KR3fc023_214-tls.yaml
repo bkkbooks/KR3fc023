@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/214
+seq: 214
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有錠田正中長三十六步兩頭各周二十七步兩二十七步四面兩角相空徑二十四步問爲田幾何荅曰二畒七分法曰置正中長三十六步自乗得一千二百九十六步折半得六百四十八步以畒法而一合問今有錠田半邊正面長二十四步兩頭周各九步腰周一十八步兩角相云空徑一十六步三十三分之三十二問爲田幾何荅曰一百四十四步法曰置正長二十四步自乗得五百七十六步以四而一合問又法兩頭周九步自乗得八十一又以十六乗之得一千二
+  hash: sha256:f56e4ace66ae65353c5ee2fbd7e4bd3476ea79563b2556e707358d8dc18d2e46
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:9667a43a5af14f2a17e50a74d28e911a8d54a85155fbc7f3ce16cd3847578045

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1908
+seq: 1908
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十尺以三因得外周一百二十尺以减长尺六因二十四尺餘得外周九十六尺併二周得二百一十六尺爲實以大頭徑二尺五寸爲法除之得八十六尺四寸以畝尺法除之合問田內有一枯樹丈六全枝梢尖頭一馬繋難牢吃盡田禾殼稻四分五厘田畝團團吃一週遭索長多少相饒不當官去告右西江月荅曰索長三丈四尺法曰通田四分五厘得一百八步以四因三而一一百四十四步以開平方法除之得徑一十二步折半得六步乃樹繋馬之處以五尺乘之得三十尺爲自乘得九百尺另以樹一十六尺爲勾自
+  hash: sha256:f52a0fbfbb672a157d19512a85119edda093131499b0c881441daa72f4d60b6e
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:65f5ee0dad27eab7f5612ff28d8619962f63962e599acf0f0e8823a78f0bcfcf

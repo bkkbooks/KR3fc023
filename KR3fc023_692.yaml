@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/692
+seq: 692
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十九又以一兩六除中絲八十一半下線六十六併三位得二百四十七半為法以除錢鈔千一百八八百文得線兩價四貫四百八十文卻以一兩六除得絲兩介以二兩除得綿兩價今有鈔七萬五千八百四十貫買綾羅絹三色其綾匹價一百四十三貫羅匹價一百三十二貫絹匹價七十五貫卻要一停綾二停羅三停絹問各幾何答曰綾一百二十匹羅二百四十匹絹三百六十匹法曰以二乘羅價得二百六十四貫三乘絹價得二百二十五貫併入綾價共得六百三十二貫為法置總紗副置三位上一乘得七万五
+  hash: sha256:dc574755cfa6e5b85065a13f80806ad9bfec72dd112e6a1be2181ea242116f09
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:00e598f1515dbb80a5a32daabd48982bd3453b98b890cfe48be19db4add82b18

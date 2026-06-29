@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/484
+seq: 484
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 升二合八抄爲實却以各米互白米四升二乗數四升八合得一斗一合六勺糙米四升八合乗糯米六升得二十八升八合糯米六升麥白米升二合得二斗五升二合併得七斗四升一合六勺爲法除之得六斗三升乃三米等數以各率除之得粟合問買物二色今有羅絹二十三疋半疋法四文共賣鈔一百八十六貫只云羅四尺與絹九尺共價適等又云絹尺價比羅尺價少一百五十文問羅絹并尺價各該幾何答曰羅一十二疋八尺毎尺價二百七十文絹一十一疋一丈二尺毎尺價一百二十文
+  hash: sha256:126a9612f974f799f968ffa4fadf4811d6a0d33319481f592c58174b3a5af932
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:68a97f6d02c07dd042c9e62d701bf5658c37fff05bc646b6aacb097cf4f08586

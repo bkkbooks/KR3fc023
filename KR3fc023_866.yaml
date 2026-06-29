@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/866
+seq: 866
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰先下今年二月十二日加上年十二月減原借三月十五日餘十個月二十七日乘原借該月利三貫六百文得三十九貫二百四十文加原借鈔共一百二十九貫二百四十文減今還鈔餘為淨缺鈔合問今有人上年四月二十日典鈔五十六貫月利二分今年二月十四日取贖問典月日并利鈔各幾何答曰計九箇月零二十四日利鈔一十貫九百七十六文法曰先置取贖二月十四日加上年十二月共十四個月十四日減原典四月二十日即得典借九個月二十四日零日以三除之得八分為實以原典鈔以月利二分乘之得一兩一尓二分為法乘實
+  hash: sha256:bf134093f61dca302574d8ecfedc0f5e884a64fa52cd2ce3a67d15a20685d4ab
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:33d75abb9476902ee2b3f2066b8d5823bd64a8b2c1e2f19701c294842c5afb6e

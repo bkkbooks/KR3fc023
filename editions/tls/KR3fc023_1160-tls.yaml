@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/1160
+seq: 1160
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰二十三尺三分尺之一法曰立方斜斛得六鼈臑故六而一置廣五尺袤四尺相乗得二十尺以髙七尺乗之得一百四十尺如六而一合問蒭童上廣三丈袤四丈下廣二丈袤三丈髙三丈問積尺幾何答曰二萬六千五百尺法曰似䑓長其出如倒合呀石也倍上袤得八十尺加入下袤共得一百一十尺以上廣三十尺乗之得三千三百尺倍下袤得六十尺加入上袤共得一百尺以下廣二千尺乗之得二千尺併二位得五千三百尺以髙三十尺乗之得一十五万九千尺如六而一合問上中周二丈外周四丈廣一丈下中周一丈四尺外
+  hash: sha256:02ae1ad7ebe286dedcf86bfac5ba0a3cd7586af6f58b2b3bd4922c52f1b1b1d9
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:ee8be75e9d6510ca6330c372be53ead2ffc19d00d798ec85a8498401d15dab39

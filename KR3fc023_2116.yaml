@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc023/tls/v1/juan/2116
+seq: 2116
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 影之類塔影之在地可量而人足可以至于戴日之下而日與塔高低之數不可知則是有勾而無股弦三者缺其二數不可起而勾股之法窮矣扵是有立表之法蓋以小勾股求大勾股也小勾股每一寸之勾鴬股長幾何則大勾股每一尺之勾其長幾何可知矣此以人目與表與所望之高三相直而知之也人目至表小弦也人目至所望之高大弦也又法表為小股其高幾何與至塔下之數相乗以小勾除之則得塔高盖橫之則為小股至塔之積縱
+  hash: sha256:197f135ab40d8ac21c16ec03e21578a1c937aeb97d83494fd3c76e1634578b0d
+metadata:
+  title: 九章詳註比類算法大全/乘除開方起例
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc023.xml
+hash: sha256:e0fd2912f199765f5889e838b7f2563292c0bcf93a1dddae4a44bdea8468f4db
