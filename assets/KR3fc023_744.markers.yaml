@@ -10,7 +10,6 @@ markers:
   - {type: line-break, offset: 15, content: '', id: KR3fc023_tls_744-bkklb1}
   - {type: 'tls:seg-end', offset: 28, content: '', id: KR3fc023_tls_001-p188.s1.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 28, content: '', id: KR3fc023_tls_001-p188.s1.3}
-  - {type: substitution, offset: 29, original: 倂, replacement: 並, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4102}}
   - {type: 'tls:seg-start', offset: 30, content: '', id: KR3fc023_tls_001-p188.s1.4, seg_type: comm, member_ids: [KR3fc023_tls_001-p188.s1.4]}
   - {type: 'tls:seg', offset: 30, content: '', id: KR3fc023_tls_001-p188.s1.4}
   - {type: line-break, offset: 33, content: '', id: KR3fc023_tls_744-bkklb2}
@@ -22,15 +21,12 @@ markers:
   - {type: line-break, offset: 38, content: '', id: KR3fc023_tls_744-bkklb3}
   - {type: 'tls:seg-end', offset: 39, content: '', id: KR3fc023_tls_001-p188.s2.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 39, content: '', id: KR3fc023_tls_001-p188.s2.2}
-  - {type: substitution, offset: 39, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg-start', offset: 45, content: '', id: KR3fc023_tls_001-p188.s2.3, seg_type: comm, member_ids: [KR3fc023_tls_001-p188.s2.3]}
   - {type: 'tls:seg', offset: 45, content: '', id: KR3fc023_tls_001-p188.s2.3}
   - {type: line-break, offset: 47, content: '', id: KR3fc023_tls_744-bkklb4}
   - {type: punctuation, offset: 47, content: □, id: KR3fc023_tls_744-bkkpn1}
   - {type: 'tls:seg-end', offset: 47, content: '', id: KR3fc023_tls_001-p188.s2.3_end, seg_type: comm}
   - {type: 'tls:seg', offset: 47, content: '', id: KR3fc023_tls_001-p188.s2.4}
-  - {type: substitution, offset: 49, original: 倂, replacement: 並, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4102}}
-  - {type: substitution, offset: 53, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg-start', offset: 55, content: '', id: KR3fc023_tls_001-p188.s2.5, seg_type: comm, member_ids: [KR3fc023_tls_001-p188.s2.5]}
   - {type: 'tls:seg', offset: 55, content: '', id: KR3fc023_tls_001-p188.s2.5}
   - {type: line-break, offset: 57, content: '', id: KR3fc023_tls_744-bkklb5}
@@ -70,12 +66,10 @@ markers:
   - {type: line-break, offset: 171, content: '', id: KX_9_dup185, _xml_error: duplicate-id, _xml_original_id: KX_9}
   - {type: 'tls:seg', offset: 179, content: '', id: KR3fc023_tls_001-p188.s10.1}
   - {type: line-break, offset: 179, content: '', id: KX_10_dup187, _xml_error: duplicate-id, _xml_original_id: KX_10}
-  - {type: substitution, offset: 188, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
-  - {type: substitution, offset: 190, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg-start', offset: 192, content: '', id: KR3fc023_tls_001-p188.s10.2, seg_type: comm, member_ids: [KR3fc023_tls_001-p188.s10.2]}
   - {type: 'tls:seg', offset: 192, content: '', id: KR3fc023_tls_001-p188.s10.2}
   - {type: line-break, offset: 200, content: '', id: KR3fc023_tls_744-bkklb10}
   - {type: 'tls:seg-end', offset: 208, content: '', id: KR3fc023_tls_001-p188.s10.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 208, content: '', id: KR3fc023_tls_001-p188.s10.3}
   back: []
-hash: sha256:aa4125833b7cdf06a0663ab7d740a734334a1ec235eaeaf3e3b5a259cea4159d
+hash: sha256:ab70b2f883e512b9942b5380d11e2680facb3e315237b397fb5b86e4773c3b02

@@ -33,10 +33,8 @@ markers:
   - {type: line-break, offset: 45, content: '', id: KR3fc023_tls_168-bkklb4}
   - {type: 'tls:seg-end', offset: 47, content: '', id: KR3fc023_tls_001-p43.s14.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 47, content: '', id: KR3fc023_tls_001-p43.s14.3}
-  - {type: substitution, offset: 48, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 52, content: '', id: KR3fc023_tls_001-p43.s15.1}
   - {type: line-break, offset: 52, content: '', id: KX_15_dup38, _xml_error: duplicate-id, _xml_original_id: KX_15}
-  - {type: substitution, offset: 52, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: 'tls:seg-start', offset: 61, content: '', id: KR3fc023_tls_001-p43.s15.2, seg_type: comm, member_ids: [KR3fc023_tls_001-p43.s15.2]}
   - {type: 'tls:seg', offset: 61, content: '', id: KR3fc023_tls_001-p43.s15.2}
   - {type: line-break, offset: 64, content: '', id: KR3fc023_tls_168-bkklb5}
@@ -59,7 +57,6 @@ markers:
   - {type: 'tls:seg', offset: 91, content: '', id: KR3fc023_tls_001-p43.s16.7}
   - {type: 'tls:seg', offset: 92, content: '', id: KR3fc023_tls_001-p43.s17.1}
   - {type: line-break, offset: 92, content: '', id: KX_17_dup34, _xml_error: duplicate-id, _xml_original_id: KX_17}
-  - {type: substitution, offset: 92, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
   - {type: 'tls:seg-start', offset: 93, content: '', id: KR3fc023_tls_001-p43.s17.2, seg_type: comm, member_ids: [KR3fc023_tls_001-p43.s17.2]}
   - {type: 'tls:seg', offset: 93, content: '', id: KR3fc023_tls_001-p43.s17.2}
   - {type: line-break, offset: 99, content: '', id: KR3fc023_tls_168-bkklb8}
@@ -69,7 +66,6 @@ markers:
   - {type: 'tls:seg', offset: 106, content: '', id: KR3fc023_tls_001-p43.s17.4}
   - {type: 'tls:seg-end', offset: 107, content: '', id: KR3fc023_tls_001-p43.s17.4_end, seg_type: comm}
   - {type: 'tls:seg', offset: 107, content: '', id: KR3fc023_tls_001-p43.s17.5}
-  - {type: substitution, offset: 107, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
   - {type: 'tls:seg-start', offset: 108, content: '', id: KR3fc023_tls_001-p43.s17.6, seg_type: comm, member_ids: [KR3fc023_tls_001-p43.s17.6]}
   - {type: 'tls:seg', offset: 108, content: '', id: KR3fc023_tls_001-p43.s17.6}
   - {type: line-break, offset: 115, content: '', id: KR3fc023_tls_168-bkklb9}
@@ -81,12 +77,10 @@ markers:
   - {type: 'tls:seg', offset: 126, content: '', id: KR3fc023_tls_001-p43.s18.2}
   - {type: 'tls:seg-end', offset: 127, content: '', id: KR3fc023_tls_001-p43.s18.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 127, content: '', id: KR3fc023_tls_001-p43.s18.3}
-  - {type: substitution, offset: 128, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
   - {type: 'tls:seg-start', offset: 130, content: '', id: KR3fc023_tls_001-p43.s18.4, seg_type: comm, member_ids: [KR3fc023_tls_001-p43.s18.4]}
   - {type: 'tls:seg', offset: 130, content: '', id: KR3fc023_tls_001-p43.s18.4}
   - {type: 'tls:seg-end', offset: 131, content: '', id: KR3fc023_tls_001-p43.s18.4_end, seg_type: comm}
   - {type: 'tls:seg', offset: 131, content: '', id: KR3fc023_tls_001-p43.s18.5}
-  - {type: substitution, offset: 131, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
   - {type: 'tls:seg-start', offset: 133, content: '', id: KR3fc023_tls_001-p43.s18.6, seg_type: comm, member_ids: [KR3fc023_tls_001-p43.s18.6]}
   - {type: 'tls:seg', offset: 133, content: '', id: KR3fc023_tls_001-p43.s18.6}
   - {type: line-break, offset: 134, content: '', id: KR3fc023_tls_168-bkklb10}
@@ -121,12 +115,9 @@ markers:
   - {type: punctuation, offset: 176, content: □, id: KR3fc023_tls_168-bkkpn2}
   - {type: 'tls:seg', offset: 192, content: '', id: KR3fc023_tls_001-p43.s21.1}
   - {type: line-break, offset: 192, content: '', id: KX_21_dup33, _xml_error: duplicate-id, _xml_original_id: KX_21}
-  - {type: substitution, offset: 192, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
-  - {type: substitution, offset: 196, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
-  - {type: substitution, offset: 199, original: 畆, replacement: 畝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0378}}
   - {type: 'tls:seg-start', offset: 204, content: '', id: KR3fc023_tls_001-p43.s21.2, seg_type: comm, member_ids: [KR3fc023_tls_001-p43.s21.2]}
   - {type: 'tls:seg', offset: 204, content: '', id: KR3fc023_tls_001-p43.s21.2}
   - {type: line-break, offset: 207, content: '', id: KR3fc023_tls_168-bkklb16}
   - {type: punctuation, offset: 208, content: □, id: KR3fc023_tls_168-bkkpn3}
   back: []
-hash: sha256:9cb03d3fabe2316a6ca52c88a0e6e15638780d6bbe4fbb008d8429ec4e1a1fab
+hash: sha256:d341ce9ae5512864f3b582043cd96cc0d82ca0030f37130a64affaaeca52d56d

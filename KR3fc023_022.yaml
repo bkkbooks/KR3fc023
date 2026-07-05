@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 者天資頴遠而博通乎算數凡吾浙藩田疇之饒衍糧稅之滋多與夫戶口之浩繁載諸版籍之間者皆于翁乎是資則旡遺而旡爽焉一時藩臬重臣皆禮遇而信託之者有由然矣翁嘗編藄其九章算法比類大全通九卷以刻于桙以開導其後進之士何其厚也永幾板
-  hash: sha256:c057cbcaa52aa94a70093cfbedde613c2de43ed0a00630ec3326ddc79f3ce01c
+  text: 者天資頴遠而博通乎筭數凡吾浙藩田疇之饒衍糧稅之滋多與夫戶口之浩繁載諸版籍之間者皆于翁乎是資則旡遺而旡爽焉一時藩臬重臣皆禮遇而信託之者有由然矣翁甞編藄其九章筭法比類大全通九卷以刻于桙以開導其後進之士何其厚也永幾板
+  hash: sha256:8680b9ae4afdb2c490dcb60b89fac05a0499a069d418965303f1f6daf4c325a0
 metadata:
   title: 九章詳註比類算法大全/乘除開方起例
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc023.xml
-hash: sha256:9d0266cfe0c0761474892ca81406b52a8e0267c997c66ca05e62c7a7202f690d
+hash: sha256:88b5e053bfe650daad6dbf2c6bf854f51a068dcf5884e7f253009adf281a505c

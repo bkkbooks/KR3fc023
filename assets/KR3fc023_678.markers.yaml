@@ -31,7 +31,6 @@ markers:
   - {type: line-break, offset: 109, content: '', id: KR3fc023_tls_678-bkklb3}
   - {type: 'tls:seg-end', offset: 112, content: '', id: KR3fc023_tls_001-p171.s18.3_end, seg_type: comm}
   - {type: 'tls:seg', offset: 112, content: '', id: KR3fc023_tls_001-p171.s18.4}
-  - {type: substitution, offset: 112, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg-start', offset: 117, content: '', id: KR3fc023_tls_001-p171.s18.5, seg_type: comm, member_ids: [KR3fc023_tls_001-p171.s18.5]}
   - {type: 'tls:seg', offset: 117, content: '', id: KR3fc023_tls_001-p171.s18.5}
   - {type: line-break, offset: 121, content: '', id: KR3fc023_tls_678-bkklb4}
@@ -40,7 +39,6 @@ markers:
   - {type: 'tls:seg', offset: 124, content: '', id: KR3fc023_tls_001-p171.s18.6}
   - {type: 'tls:seg', offset: 127, content: '', id: KR3fc023_tls_001-p171.s19.1}
   - {type: line-break, offset: 127, content: '', id: KX_19_dup158, _xml_error: duplicate-id, _xml_original_id: KX_19}
-  - {type: substitution, offset: 130, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg-start', offset: 133, content: '', id: KR3fc023_tls_001-p171.s19.2, seg_type: comm, member_ids: [KR3fc023_tls_001-p171.s19.2]}
   - {type: 'tls:seg', offset: 133, content: '', id: KR3fc023_tls_001-p171.s19.2}
   - {type: line-break, offset: 147, content: '', id: KR3fc023_tls_678-bkklb5}
@@ -60,4 +58,4 @@ markers:
   - {type: 'tls:seg-end', offset: 208, content: '', id: KR3fc023_tls_001-p171.s21.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 208, content: '', id: KR3fc023_tls_001-p171.s21.3}
   back: []
-hash: sha256:1a878784d9083cca10da26bb510ac46ce17f9260c9e4b192b2f2b73454ef1d95
+hash: sha256:c74b1c90ddcb0c3ee26984960a90b1f408572f40e798f1eab37bf76c574f16d9

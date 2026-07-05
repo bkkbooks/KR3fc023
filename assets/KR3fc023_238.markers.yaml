@@ -49,7 +49,6 @@ markers:
   - {type: line-break, offset: 104, content: '', id: KR3fc023_tls_238-bkklb8}
   - {type: 'tls:seg-end', offset: 109, content: '', id: KR3fc023_tls_001-p61.s4.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 109, content: '', id: KR3fc023_tls_001-p61.s4.3}
-  - {type: substitution, offset: 111, original: 緫, replacement: 總, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3612}}
   - {type: 'tls:seg-start', offset: 114, content: '', id: KR3fc023_tls_001-p61.s4.4, seg_type: comm, member_ids: [KR3fc023_tls_001-p61.s4.4]}
   - {type: 'tls:seg', offset: 114, content: '', id: KR3fc023_tls_001-p61.s4.4}
   - {type: line-break, offset: 118, content: '', id: KR3fc023_tls_238-bkklb9}
@@ -79,7 +78,6 @@ markers:
   - {type: 'tls:seg', offset: 172, content: '', id: KR3fc023_tls_001-p61.s8.3}
   - {type: 'tls:seg', offset: 177, content: '', id: KR3fc023_tls_001-p61.s9.1}
   - {type: line-break, offset: 177, content: '', id: KX_9_dup59, _xml_error: duplicate-id, _xml_original_id: KX_9}
-  - {type: substitution, offset: 177, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: 'tls:seg-start', offset: 189, content: '', id: KR3fc023_tls_001-p61.s9.2, seg_type: comm, member_ids: [KR3fc023_tls_001-p61.s9.2]}
   - {type: 'tls:seg', offset: 189, content: '', id: KR3fc023_tls_001-p61.s9.2}
   - {type: line-break, offset: 193, content: '', id: KR3fc023_tls_238-bkklb13}
@@ -102,4 +100,4 @@ markers:
   - {type: 'tls:seg-end', offset: 225, content: '', id: KR3fc023_tls_001-p61.s10.6_end, seg_type: comm}
   - {type: 'tls:seg', offset: 225, content: '', id: KR3fc023_tls_001-p61.s10.7}
   back: []
-hash: sha256:76144beb5a61cdb761e047a8f9abbabad52bf777aa155fd61694beef3ff73bb8
+hash: sha256:bb3a5ce07ee28799d38e55205c3980d61fcdd6d320b365cc37064e925628ab13

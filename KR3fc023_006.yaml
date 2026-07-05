@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 明曰大全既刻之徴序其首簡君之朋心可謂勤矣頓佘于算數未暇學然方今聖人在上治教休明與學育材以圖致治必有任師道之重者如宋之安之胡先生以算數置齊教士藝成而實與其賢者能者于
-  hash: sha256:f3f64bb25c43c7e7ffbbfc24d2b4d7f94939dd0e1ebf8e91e8f744194b0f6bf6
+  text: 明曰大全既刻之徴序其首簡君之朋心可謂勤矣頓佘扵算數未暇學然方今聖人在上治教休明與學育材以圖致治必有任師道之重者如宋之安之胡先生以算數置齊教士藝成而實與其賢者能者于
+  hash: sha256:e507c1058417db668e79c73889969a4638287fb71016b57a1be51ba5045b35a1
 metadata:
   title: 九章詳註比類算法大全/乘除開方起例
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc023.xml
-hash: sha256:e055fe92e0adbad5f8e1745517ac140da649b4c3c9964abc0caac9b20957980e
+hash: sha256:f93f5b106d754a96044ad187cf59640989335d0c0fd13b0d3808ea1039883bc5

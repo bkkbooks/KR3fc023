@@ -9,7 +9,6 @@ markers:
   - {type: line-break, offset: 17, content: '', id: KX_13_dup130, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 24, content: '', id: KR3fc023_tls_001-p134.s14}
   - {type: line-break, offset: 24, content: '', id: KX_14_dup130, _xml_error: duplicate-id, _xml_original_id: KX_14}
-  - {type: substitution, offset: 30, original: 疋, replacement: 匹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0036}}
   - {type: 'tls:seg', offset: 42, content: '', id: KR3fc023_tls_001-p134.s15}
   - {type: line-break, offset: 42, content: '', id: KX_15_dup128, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: 'tls:seg', offset: 45, content: '', id: KR3fc023_tls_001-p134.s16}
@@ -18,7 +17,6 @@ markers:
   - {type: line-break, offset: 62, content: '', id: KX_17_dup124, _xml_error: duplicate-id, _xml_original_id: KX_17}
   - {type: 'tls:seg', offset: 76, content: '', id: KR3fc023_tls_001-p134.s18}
   - {type: line-break, offset: 76, content: '', id: KX_18_dup122, _xml_error: duplicate-id, _xml_original_id: KX_18}
-  - {type: substitution, offset: 82, original: 秤, replacement: 稱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3901}}
   - {type: 'tls:seg', offset: 94, content: '', id: KR3fc023_tls_001-p134.s19}
   - {type: line-break, offset: 94, content: '', id: KX_19_dup122, _xml_error: duplicate-id, _xml_original_id: KX_19}
   - {type: 'tls:seg', offset: 98, content: '', id: KR3fc023_tls_001-p134.s20}
@@ -26,4 +24,4 @@ markers:
   - {type: 'tls:seg', offset: 113, content: '', id: KR3fc023_tls_001-p134.s21}
   - {type: line-break, offset: 113, content: '', id: KX_21_dup122, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:3ef99d3f93dbbb4d0b468b90760f3fe2ab1b5d10b55635774b7bc63873823c59
+hash: sha256:2496c62e3753dd0e28450368c904f82eca3a42af2fe0d6108b3829cd10ce6c06
