@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 吳先生肖像賛其䫉溫然其行肅肅焉無顯奕之念有幽隱之賢數窮乎大衍玅契乎先天運一九于掌握演千萬于心田嘲弄風月嘯傲林泉芝蘭挺秀瓜瓞綿延是宜
-  hash: sha256:b0e090ca08199a7c7130da8c0ec658836d13f238591729d2efde7a4fe5763bb0
+  text: 吳先生肖像贊其貌溫然其行肅肅焉無顯奕之念有幽隱之賢數窮乎大衍妙契乎先天運一九于掌握演千萬于心田嘲弄風月嘯傲林泉芝蘭挺秀瓜瓞綿延是宜
+  hash: sha256:202e6ca6787bc07a79c5378c61b46e4576b2eec7a983ae2ce45ab0e007160499
 metadata:
   title: 九章詳註比類算法大全/乘除開方起例
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc023.xml
-hash: sha256:2c44d7afcd30d60957d01b72796e0db27036889c4cee66914bb7a00a1a182382
+hash: sha256:a2f746dd425835c5d9fe862b34d0d7aea39c011de8ad3d280d65b0eb2cb7fbeb

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 昏以請類宮售士所均自警書錄成蛱自便檢閱金壹王均士偨見而重之恐欠道湮渡爰雲集類雖君子等命工鋟梓以廣老光聖人缭天緯地之筭則固诈區之兩啟聞也當景泰元年廉于孟秋言旦錢信民識
-  hash: sha256:ff9a43200bb769503bb069a29a975b0faad1ea16c85bad03acf29d9fbbc7bbbe
+  text: 昏以請類宮售士所均自警書録成蛺自便檢閲金一王均士偨見而重之恐欠道湮渡爰雲集類雖君子等命工鋟梓以廣老光聖人繚天緯地之算則固詐區之兩啓聞也當景泰元年廉于孟秋言旦錢信民識
+  hash: sha256:98b3d8c9be29b44989be51fc591f4354aadcef168939e1906ee3ee4250ad4475
 metadata:
   title: 九章詳註比類算法大全/乘除開方起例
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc023.xml
-hash: sha256:f78afa2f4e2bdb8e80432b473f9c94bcf92e8155acf5aa82f629169cc76f3fa7
+hash: sha256:6c1e13fc023bf8a3807e418b70c88349cb4215a86f310f4089b9c6cfa35798d2

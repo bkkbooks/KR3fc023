@@ -5,6 +5,8 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fc023_tls_001-p203.s12}
   - {type: line-break, offset: 0, content: '', id: KX_12_dup200, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: substitution, offset: 0, original: 逓, replacement: 遞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19913}}
+  - {type: substitution, offset: 2, original: 粮, replacement: 糧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17638}}
   - {type: 'tls:seg', offset: 9, content: '', id: KR3fc023_tls_001-p203.s13}
   - {type: line-break, offset: 9, content: '', id: KX_13_dup199, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 31, content: '', id: KR3fc023_tls_001-p203.s14}
@@ -13,6 +15,7 @@ markers:
   - {type: line-break, offset: 53, content: '', id: KX_15_dup197, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: 'tls:seg', offset: 75, content: '', id: KR3fc023_tls_001-p203.s16}
   - {type: line-break, offset: 75, content: '', id: KX_16_dup194, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: substitution, offset: 95, original: 数, replacement: 數, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17639}}
   - {type: 'tls:seg', offset: 97, content: '', id: KR3fc023_tls_001-p203.s17}
   - {type: line-break, offset: 97, content: '', id: KX_17_dup193, _xml_error: duplicate-id, _xml_original_id: KX_17}
   - {type: 'tls:seg', offset: 116, content: '', id: KR3fc023_tls_001-p203.s18.1}
@@ -42,4 +45,4 @@ markers:
   - {type: 'tls:seg-end', offset: 184, content: '', id: KR3fc023_tls_001-p203.s21.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 184, content: '', id: KR3fc023_tls_001-p203.s21.2}
   back: []
-hash: sha256:c557e83dd1e4df2083f533fd26cf24871aba67c9ad0310503a51a510ec07bc74
+hash: sha256:734a4f17c893d107d61e45fb757170c2569026bd77a4f52f5d58d318470c2a1d

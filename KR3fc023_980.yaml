@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 開方作法本源右袤乃積數左袤乃隅筭中蔵者皆廉以廉乘商方命實而除之増乗方求廉法草曰釋價求廉本源列所開方數五乗方列五位隅䈂在外以隅筭一自下增入上位至首位而止首位得六第二位得五第二位
-  hash: sha256:38c33ae6a2473c006b3da8f71bda65f5a307ad437bc8634206f3c37a59808fde
+  text: 開方作法本源右袤乃積數左袤乃隅算中藏者皆廉以廉乘商方命實而除之增乘方求廉法草曰釋價求廉本源列所開方數五乘方列五位隅笄在外以隅算一自下增入上位至首位而止首位得六第二位得五第二位
+  hash: sha256:0b5369ef6acc68992037ea2db20949844d0aa4fe05ff7d0e112b7e85743eb04d
 metadata:
   title: 九章詳註比類算法大全/乘除開方起例
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc023.xml
-hash: sha256:b23aa2a60a05e574241519596b7ebe44336f7629f397113c42aa20d7e21b4d41
+hash: sha256:9aa622ea928a132490222febce36b5886a9c993f003c0fc2aec5eb40b0fb3156

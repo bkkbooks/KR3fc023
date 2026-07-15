@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 天之高也星辰之遠也苟求其故則千歲之日可坐而致也盖天地之中有理斯有像也有像斯有數也有數斯有據也是以千歲之日至固廖邈而難知也聖賢傳侶丹衷登朗據其數而推致之亦有可知之道焉孟于之言豈欺我哉杭郡仁和之邑有良士吳氏主一翁
-  hash: sha256:025bec46cebb08f4c16c8f3c7984da73b1ec78d46da819234316a0a107decfde
+  text: 天之高也星辰之遠也苟求其故則千歲之日可坐而致也蓋天地之中有理斯有像也有像斯有數也有數斯有據也是以千歲之日至固廖邈而難知也聖賢傳侶丹衷登朗據其數而推致之亦有可知之道焉孟于之言豈欺我哉杭郡仁和之邑有良士吳氏主一翁
+  hash: sha256:ee7bd7c4acfe56e86d41863013b178facb5e6789ac798ca3eaf7fa7bf8ec8a6b
 metadata:
   title: 九章詳註比類算法大全/乘除開方起例
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc023.xml
-hash: sha256:7ddd218394c916f8a8df59a5a5fc2bc3c9cd1e1ea8e245f07701e2221633cfd6
+hash: sha256:777eec834ba3989949fa605c924d4b991878ce75d14f1442ecade481e8a70c75

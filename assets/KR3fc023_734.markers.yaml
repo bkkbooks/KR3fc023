@@ -10,6 +10,7 @@ markers:
   - {type: 'tls:seg', offset: 3, content: '', id: KR3fc023_tls_001-p185.s12.2}
   - {type: 'tls:seg', offset: 3, content: '', id: KR3fc023_tls_001-p185.s13.1}
   - {type: line-break, offset: 3, content: '', id: KX_13_dup181, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: substitution, offset: 4, original: 郷, replacement: 鄉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19672}}
   - {type: 'tls:seg-start', offset: 11, content: '', id: KR3fc023_tls_001-p185.s13.2, seg_type: comm, member_ids: [KR3fc023_tls_001-p185.s13.2]}
   - {type: 'tls:seg', offset: 11, content: '', id: KR3fc023_tls_001-p185.s13.2}
   - {type: line-break, offset: 17, content: '', id: KR3fc023_tls_734-bkklb2}
@@ -44,6 +45,7 @@ markers:
   - {type: 'tls:seg', offset: 90, content: '', id: KR3fc023_tls_001-p185.s17.2}
   - {type: 'tls:seg', offset: 90, content: '', id: KR3fc023_tls_001-p185.s18.1}
   - {type: line-break, offset: 90, content: '', id: KX_18_dup172, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: substitution, offset: 91, original: 郷, replacement: 鄉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19672}}
   - {type: 'tls:seg-start', offset: 98, content: '', id: KR3fc023_tls_001-p185.s18.2, seg_type: comm, member_ids: [KR3fc023_tls_001-p185.s18.2]}
   - {type: 'tls:seg', offset: 98, content: '', id: KR3fc023_tls_001-p185.s18.2}
   - {type: line-break, offset: 104, content: '', id: KR3fc023_tls_734-bkklb7}
@@ -70,4 +72,4 @@ markers:
   - {type: 'tls:seg-end', offset: 155, content: '', id: KR3fc023_tls_001-p185.s21.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 155, content: '', id: KR3fc023_tls_001-p185.s21.2}
   back: []
-hash: sha256:209bbdab4785075fb104a33660a11f955ee2f19c6120b6f631cbcf27e94a87c6
+hash: sha256:1114539060188af09af0bfde4cd77b47cc3ede92722f353bf9ef7659329b1736

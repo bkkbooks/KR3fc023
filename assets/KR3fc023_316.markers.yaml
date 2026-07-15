@@ -29,6 +29,7 @@ markers:
   - {type: line-break, offset: 27, content: '', id: KX_13_dup77, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 49, content: '', id: KR3fc023_tls_001-p80.s14}
   - {type: line-break, offset: 49, content: '', id: KX_14_dup77, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: substitution, offset: 55, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19777}}
   - {type: 'tls:seg', offset: 67, content: '', id: KR3fc023_tls_001-p80.s15.1}
   - {type: line-break, offset: 67, content: '', id: KX_15_dup75, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: 'tls:seg-start', offset: 74, content: '', id: KR3fc023_tls_001-p80.s15.2, seg_type: comm, member_ids: [KR3fc023_tls_001-p80.s15.2]}
@@ -63,6 +64,7 @@ markers:
   - {type: line-break, offset: 114, content: '', id: KR3fc023_tls_316-bkklb10}
   - {type: 'tls:seg-end', offset: 117, content: '', id: KR3fc023_tls_001-p80.s16.6_end, seg_type: comm}
   - {type: 'tls:seg', offset: 117, content: '', id: KR3fc023_tls_001-p80.s16.7}
+  - {type: substitution, offset: 117, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 120, content: '', id: KR3fc023_tls_001-p80.s17.1}
   - {type: line-break, offset: 120, content: '', id: KX_17_dup71, _xml_error: duplicate-id, _xml_original_id: KX_17}
   - {type: 'tls:seg-start', offset: 128, content: '', id: KR3fc023_tls_001-p80.s17.2, seg_type: comm, member_ids: [KR3fc023_tls_001-p80.s17.2]}
@@ -83,6 +85,7 @@ markers:
   - {type: 'tls:seg-start', offset: 143, content: '', id: KR3fc023_tls_001-p80.s17.8, seg_type: comm, member_ids: [KR3fc023_tls_001-p80.s17.8]}
   - {type: 'tls:seg', offset: 143, content: '', id: KR3fc023_tls_001-p80.s17.8}
   - {type: line-break, offset: 145, content: '', id: KR3fc023_tls_316-bkklb14}
+  - {type: substitution, offset: 146, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg-end', offset: 147, content: '', id: KR3fc023_tls_001-p80.s17.8_end, seg_type: comm}
   - {type: 'tls:seg', offset: 147, content: '', id: KR3fc023_tls_001-p80.s17.9}
   - {type: 'tls:seg-start', offset: 147, content: '', id: KR3fc023_tls_001-p80.s18.1, seg_type: comm, member_ids: [KR3fc023_tls_001-p80.s18.1]}
@@ -98,9 +101,12 @@ markers:
   - {type: 'tls:seg', offset: 158, content: '', id: KR3fc023_tls_001-p80.s18.4}
   - {type: 'tls:seg', offset: 160, content: '', id: KR3fc023_tls_001-p80.s19}
   - {type: line-break, offset: 160, content: '', id: KX_19_dup70, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: substitution, offset: 173, original: 厘, replacement: 釐, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16887}}
   - {type: 'tls:seg', offset: 182, content: '', id: KR3fc023_tls_001-p80.s20}
   - {type: line-break, offset: 182, content: '', id: KX_20_dup70, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: substitution, offset: 186, original: 俻, replacement: 備, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16757}}
   - {type: 'tls:seg', offset: 188, content: '', id: KR3fc023_tls_001-p80.s21}
   - {type: line-break, offset: 188, content: '', id: KX_21_dup70, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  - {type: substitution, offset: 188, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19777}}
   back: []
-hash: sha256:108ce480b3acf06c3b0a4207db23498d5668e683afcd714c8b705381691ca77e
+hash: sha256:c4ee6b49a6f17581aa2406a154607c0a162ea728b28b48d0aed12331ca38cdf8

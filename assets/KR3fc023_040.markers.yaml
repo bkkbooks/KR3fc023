@@ -81,6 +81,7 @@ markers:
   - {type: 'tls:seg', offset: 62, content: '', id: KR3fc023_tls_001-p11.s7.2}
   - {type: 'tls:seg-end', offset: 63, content: '', id: KR3fc023_tls_001-p11.s7.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 63, content: '', id: KR3fc023_tls_001-p11.s7.3}
+  - {type: substitution, offset: 63, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
   - {type: 'tls:seg-start', offset: 65, content: '', id: KR3fc023_tls_001-p11.s7.4, seg_type: comm, member_ids: [KR3fc023_tls_001-p11.s7.4]}
   - {type: 'tls:seg', offset: 65, content: '', id: KR3fc023_tls_001-p11.s7.4}
   - {type: 'tls:seg-end', offset: 66, content: '', id: KR3fc023_tls_001-p11.s7.4_end, seg_type: comm}
@@ -128,4 +129,4 @@ markers:
   - {type: 'tls:seg-end', offset: 104, content: '', id: KR3fc023_tls_001-p11.s10.8_end, seg_type: comm}
   - {type: 'tls:seg', offset: 104, content: '', id: KR3fc023_tls_001-p11.s10.9}
   back: []
-hash: sha256:1a58f46a568d5dbd69973828de0580653d37ae7972e7d9fd72209cd694bf07cf
+hash: sha256:49daa392abed33879c12ec8f7185960f4725253df6c8f5641c7ed19f186a4856

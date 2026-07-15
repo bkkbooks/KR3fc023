@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 微妙無窮不有精扵是法者注書以爲筌蹄則初學之士將何由而得其藴與哉算學自大挠以來古今凡六十六家而十書今巳無傳惟九章之法僅存而能通其説者亦尠矣錢唐吳君信民精扵算學者病算法無成書乃取九章十書與諸家之説今類註釋會穳成編而
-  hash: sha256:47759de2328657a86e9daed5edad6942aeba926fbc60e0c7dc78359db87b3003
+  text: 微妙無窮不有精于是法者注書以為筌蹄則初學之士將何由而得其藴與哉算學自大撓以來古今凡六十六家而十書今巳無傳惟九章之法僅存而能通其説者亦鮮矣錢唐吳君信民精于算學者病算法無成書乃取九章十書與諸家之説今類注釋會穳成編而
+  hash: sha256:bf03f1df70a7b8e43df43aee13819b6b5ae15b6ec6c3f1bf6f501fd7b9a7ff71
 metadata:
   title: 九章詳註比類算法大全/乘除開方起例
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc023.xml
-hash: sha256:a87ede559ccaad2ab0189021f7db079ae9dd21f94cc199ba9dbdc0073de1bb26
+hash: sha256:f1d8b1dbb65ca58a33c1bbec2d9980398be694045dd5e8c78f91826a5a9956f4
